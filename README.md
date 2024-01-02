@@ -15,9 +15,9 @@ The objective of this project is to conduct data analysis to discover strong tre
 •	Where are the universities with the highest scores located?
 
 
-Ultimately, the questions I chose to address with the analysis in this project is:
+Ultimately, the key questions I chose to address with the analysis in this project is:
 
-** • How well do certain factors, such as a university's student staff ratio and quality of faculty rank, correlate with a university's quality of education rank? Do particular countries see stronger trends in these relationships? **
+** How well do certain factors, such as a university's student staff ratio and quality of faculty rank, correlate with a university's quality of education rank? Do particular countries see stronger trends in these relationships? **
 
 
 The three original datasets used in this project were sourced from a [Kaggle public dataset](https://www.kaggle.com/datasets/mylesoneill/world-university-rankings). 
