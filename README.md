@@ -5,10 +5,15 @@ This repository holds the course project named World University Rankings Analysi
 
 Each year, various research organizations put together their own ranking of the universities from all around the world based on a multituide of factors and metrics. They also create rankings for many of these individual categories. 
 The objective of this project is to conduct data analysis to discover strong trends about education in order to explore potential answers to key questions. Some of those questions which guided the initial data exploration include:
+
 •	What factors correlate with universities having a high rank in broad impact?
+
 •	What factors correlate with universities having a high rank in alumni employment?
+
 •	What correlations does the student staff ratio have?
+
 •	Where are the universities with the highest scores located?
+
 
 Ultimately, the questions I chose to address with the analysis in this project is:
 • How well do certain factors, such as a university's student staff ratio and quality of faculty rank, correlate with a university's quality of education rank? Do particular countries see stronger trends in these relationships?
