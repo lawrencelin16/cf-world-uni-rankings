@@ -16,7 +16,9 @@ The objective of this project is to conduct data analysis to discover strong tre
 
 
 Ultimately, the questions I chose to address with the analysis in this project is:
-• How well do certain factors, such as a university's student staff ratio and quality of faculty rank, correlate with a university's quality of education rank? Do particular countries see stronger trends in these relationships?
+
+** • How well do certain factors, such as a university's student staff ratio and quality of faculty rank, correlate with a university's quality of education rank? Do particular countries see stronger trends in these relationships? **
+
 
 The three original datasets used in this project were sourced from a [Kaggle public dataset](https://www.kaggle.com/datasets/mylesoneill/world-university-rankings). 
 The primary dataset used was the rankings by the Center for University Rankings. The rankings by the Times Higher Education World University Rankiing and the Academic Ranking of World Universities (also known as the Shanghai Ranking) were used as supplementary datasets.
