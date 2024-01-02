@@ -1,0 +1,2604 @@
+institution,num_students,international_students_%,year
+Harvard University,20152.00,0.25,2011
+California Institute of Technology,2243.00,0.27,2011
+Massachusetts Institute of Technology,11074.00,0.33,2011
+Stanford University,15596.00,0.22,2011
+Princeton University,7929.00,0.27,2011
+University of Cambridge,18812.00,0.34,2011
+University of Oxford,19919.00,0.34,2011
+"University of California, Berkeley",36186.00,0.15,2011
+Imperial College London,15060.00,0.51,2011
+Yale University,11751.00,0.2,2011
+"University of California, Los Angeles",38206.00,0.15,2011
+University of Chicago,14221.00,0.21,2011
+Johns Hopkins University,15128.00,0.23,2011
+Cornell University,21424.00,0.19,2011
+ETH Zurich – Swiss Federal Institute of Technology Zurich,18178.00,0.37,2011
+University of Michigan,41786.00,0.16,2011
+University of Toronto,66198.00,0.15,2011
+Columbia University,25055.00,0.28,2011
+University of Pennsylvania,20376.00,0.2,2011
+Carnegie Mellon University,11885.00,0.35,2011
+University of Hong Kong,19835.00,0.38,2011
+University College London,26607.00,0.46,2011
+University of Washington,44020.00,0.13,2011
+Duke University,15172.00,0.17,2011
+Northwestern University,18334.00,0.15,2011
+University of Tokyo,26199.00,0.1,2011
+Georgia Institute of Technology,19967.00,0.26,2011
+Pohang University of Science and Technology,3055.00,0.04,2011
+"University of California, Santa Barbara",22020.00,0.11,2011
+University of British Columbia,50152.00,0.25,2011
+University of North Carolina at Chapel Hill,26518.00,0.08,2011
+"University of California, San Diego",27233.00,0.11,2011
+University of Illinois at Urbana-Champaign,42727.00,0.2,2011
+National University of Singapore,31592.00,0.34,2011
+McGill University,31326.00,0.23,2011
+University of Melbourne,40128.00,0.35,2011
+Peking University,40148.00,0.14,2011
+Washington University in St Louis,12528.00,0.17,2011
+École Polytechnique,2429.00,0.3,2011
+University of Edinburgh,25774.00,0.36,2011
+Hong Kong University of Science and Technology,11385.00,0.36,2011
+École Normale Supérieure,2400.00,0.2,2011
+Australian National University,14604.00,0.35,2011
+Karolinska Institute,7774.00,0.22,2011
+University of Göttingen,25581.00,0.12,2011
+University of Wisconsin,,,2011
+Rice University,6333.00,0.26,2011
+École Polytechnique Fédérale de Lausanne,9666.00,0.54,2011
+"University of California, Irvine",26614.00,0.16,2011
+University of Science and Technology of China,14290.00,0.02,2011
+Vanderbilt University,12161.00,0.1,2011
+University of Minnesota,46825.00,0.13,2011
+Tufts University,10410.00,0.14,2011
+"University of California, Davis",35364.00,0.13,2011
+Brown University,8653.00,0.19,2011
+University of Massachusetts,56959.00,0.11,2011
+Kyoto University,22809.00,0.07,2011
+Tsinghua University,39763.00,0.1,2011
+Boston University,24789.00,0.17,2011
+New York University,42056.00,0.19,2011
+Emory University,12338.00,0.18,2011
+LMU Munich,35691.00,0.13,2011
+University of Notre Dame,11829.00,0.1,2011
+University of Pittsburgh,26485.00,0.1,2011
+Case Western Reserve University,9259.00,0.17,2011
+Ohio State University,51462.00,0.12,2011
+University of Colorado Boulder,29325.00,0.08,2011
+University of Bristol,17906.00,0.25,2011
+"University of California, Santa Cruz",17404.00,0.01,2011
+Yeshiva University,6753.00,0.07,2011
+University of Sydney,41868.00,0.28,2011
+University of Virginia,23845.00,0.12,2011
+University of Adelaide,20771.00,0.26,2011
+University of Southern California,36534.00,0.2,2011
+William & Mary,7867.00,0.07,2011
+Trinity College Dublin,15521.00,0.25,2011
+King’s College London,21394.00,0.37,2011
+Stony Brook University,21908.00,0.24,2011
+Korea Advanced Institute of Science and Technology (KAIST),9027.00,0.09,2011
+University of Sussex,12001.00,0.35,2011
+The University of Queensland,34718.00,0.27,2011
+University of York,,,2011
+Heidelberg University,28881.00,0.17,2011
+University of Utah,25674.00,0.09,2011
+Durham University,15489.00,0.24,2011
+London School of Economics and Political Science,,,2011
+University of Manchester,34938.00,0.34,2011
+"Royal Holloway, University of London",8747.00,0.37,2011
+Lund University,28251.00,0.15,2011
+University of Southampton,20925.00,0.29,2011
+University of Zurich,26583.00,0.19,2011
+Wake Forest University,7326.00,0.05,2011
+McMaster University,23823.00,0.15,2011
+University College Dublin,22193.00,0.23,2011
+George Washington University,20541.00,0.16,2011
+University of Arizona,36429.00,0.08,2011
+University of Basel,12551.00,0.24,2011
+"University of Maryland, College Park",31331.00,0.09,2011
+Dartmouth College,6178.00,0.16,2011
+École Normale Supérieure de Lyon,2218.00,0.14,2011
+Technical University of Munich,35565.00,0.2,2011
+University of Helsinki,23505.00,0.06,2011
+University of St Andrews,8338.00,0.47,2011
+Rensselaer Polytechnic Institute,6671.00,0.16,2011
+"Rutgers, the State University of New Jersey",37032.00,0.08,2011
+Purdue University,39256.00,0.22,2011
+National Tsing Hua University,10221.00,0.05,2011
+University of Cape Town,20040.00,0.18,2011
+Pennsylvania State University,44501.00,0.12,2011
+Seoul National University,26389.00,0.1,2011
+Hong Kong Baptist University,10441.00,0.25,2011
+Bilkent University,,,2011
+Tokyo Institute of Technology,9586.00,0.13,2011
+Eindhoven University of Technology,8176.00,0.14,2011
+National Taiwan University,31891.00,0.07,2011
+University of Hawai’i at Mānoa,,,2011
+"University of California, Riverside",20626.00,0.12,2011
+University of Geneva,15668.00,0.39,2011
+KU Leuven,42503.00,0.18,2011
+Nanjing University,29743.00,0.1,2011
+Queen Mary University of London,14260.00,0.4,2011
+Michigan State University,44750.00,0.15,2011
+Technical University of Denmark,9990.00,0.18,2011
+Ghent University,32166.00,0.09,2011
+Lancaster University,11512.00,0.33,2011
+Leiden University,21222.00,0.1,2011
+University of Alberta,36299.00,0.23,2011
+University of Glasgow,22616.00,0.29,2011
+Stockholm University,31715.00,0.08,2011
+Osaka University,23144.00,0.09,2011
+University of Victoria,17581.00,0.11,2011
+Tohoku University,17200.00,0.07,2011
+University of Freiburg,26467.00,0.16,2011
+University of Iowa,27526.00,0.11,2011
+University of Bergen,11623.00,0.12,2011
+University of Lausanne,11964.00,0.22,2011
+University of Sheffield,23311.00,0.31,2011
+University of Montreal,38264.00,0.25,2011
+VU University Amsterdam,23280.00,0.06,2011
+Pierre and Marie Curie University,27862.00,0.18,2011
+University of Dundee,11628.00,0.25,2011
+University of Barcelona,47491.00,0.1,2011
+Utrecht University,30779.00,0.07,2011
+Wageningen University and Research Center,9248.00,0.21,2011
+University of Auckland,29787.00,0.28,2011
+University of Birmingham,25295.00,0.23,2011
+Alexandria University,127431.00,0.01,2011
+Uppsala University,25266.00,0.12,2011
+Hong Kong Polytechnic University,22064.00,0.26,2011
+University of Aberdeen,12938.00,0.33,2011
+Delft University of Technology,15920.00,0.25,2011
+"Birkbeck, University of London",9454.00,0.38,2011
+Newcastle University,20174.00,0.29,2011
+University of New South Wales,38309.00,0.33,2011
+Pompeu Fabra University,10901.00,0.13,2011
+Indiana University,62468.00,0.13,2011
+Iowa State University,29991.00,0.11,2011
+Georgia Health Sciences University,,,2011
+Erasmus University Rotterdam,20580.00,0.18,2011
+University of Delaware,19262.00,0.1,2011
+Arizona State University,83236.00,0.09,2011
+Boston College,13216.00,0.19,2011
+National Sun Yat-Sen University,9336.00,0.04,2011
+Georgetown University,15408.00,0.14,2011
+University of Amsterdam,24570.00,0.11,2011
+University of Liverpool,18815.00,0.3,2011
+Aarhus University,23895.00,0.14,2011
+University of Leeds,27703.00,0.21,2011
+University of Würzburg,26576.00,0.08,2011
+University of Groningen,24556.00,0.12,2011
+Sun Yat-sen University,51351.00,0.08,2011
+Goethe University Frankfurt,31861.00,0.15,2011
+Bielefeld University,21428.00,0.08,2011
+Nanyang Technological University,25028.00,0.33,2011
+University of East Anglia,14992.00,0.28,2011
+University of Nottingham,30144.00,0.27,2011
+University of Copenhagen,27545.00,0.19,2011
+Humboldt University of Berlin,29987.00,0.16,2011
+Monash University,50882.00,0.36,2011
+University of Bonn,32474.00,0.13,2011
+National Chiao Tung University,12646.00,0.05,2011
+RWTH Aachen University,37917.00,0.16,2011
+Middle East Technical University,25779.00,0.07,2011
+University of Exeter,17755.00,0.28,2011
+University of Twente,6631.00,0.26,2011
+University of Konstanz,10930.00,0.12,2011
+Karlsruhe Institute of Technology,25294.00,0.16,2011
+University of Innsbruck,18209.00,0.39,2011
+University of Tübingen,28327.00,0.12,2011
+Drexel University,20713.00,0.18,2011
+University of Cincinnati,36108.00,0.06,2011
+Yonsei University,24774.00,0.14,2011
+Dalhousie University,15064.00,0.18,2011
+KTH Royal Institute of Technology,12062.00,0.21,2011
+University of Vienna,34651.00,0.25,2011
+Kent State University,23122.00,0.08,2011
+University of Illinois at Chicago,24313.00,0.17,2011
+Zhejiang University,47508.00,0.05,2011
+Simon Fraser University,26640.00,0.19,2011
+Swedish University of Agricultural Sciences,3879.00,,2011
+California Institute of Technology,2243.00,0.27,2012
+Harvard University,20152.00,0.25,2012
+Stanford University,15596.00,0.22,2012
+University of Oxford,19919.00,0.34,2012
+Princeton University,7929.00,0.27,2012
+University of Cambridge,18812.00,0.34,2012
+Massachusetts Institute of Technology,11074.00,0.33,2012
+Imperial College London,15060.00,0.51,2012
+University of Chicago,14221.00,0.21,2012
+"University of California, Berkeley",36186.00,0.15,2012
+Yale University,11751.00,0.2,2012
+Columbia University,25055.00,0.28,2012
+"University of California, Los Angeles",38206.00,0.15,2012
+Johns Hopkins University,15128.00,0.23,2012
+ETH Zurich – Swiss Federal Institute of Technology Zurich,18178.00,0.37,2012
+University of Pennsylvania,20376.00,0.2,2012
+University College London,26607.00,0.46,2012
+University of Michigan,41786.00,0.16,2012
+University of Toronto,66198.00,0.15,2012
+Cornell University,21424.00,0.19,2012
+Carnegie Mellon University,11885.00,0.35,2012
+Duke University,15172.00,0.17,2012
+University of British Columbia,50152.00,0.25,2012
+Georgia Institute of Technology,19967.00,0.26,2012
+University of Washington,44020.00,0.13,2012
+Northwestern University,18334.00,0.15,2012
+University of Wisconsin-Madison,39655.00,0.11,2012
+McGill University,31326.00,0.23,2012
+University of Texas at Austin,49427.00,0.09,2012
+University of Tokyo,26199.00,0.1,2012
+University of Illinois at Urbana-Champaign,42727.00,0.2,2012
+Karolinska Institute,7774.00,0.22,2012
+"University of California, San Diego",27233.00,0.11,2012
+University of Hong Kong,19835.00,0.38,2012
+"University of California, Santa Barbara",22020.00,0.11,2012
+University of Edinburgh,25774.00,0.36,2012
+University of Melbourne,40128.00,0.35,2012
+Australian National University,14604.00,0.35,2012
+"University of California, Davis",35364.00,0.13,2012
+National University of Singapore,31592.00,0.34,2012
+Washington University in St Louis,12528.00,0.17,2012
+University of Minnesota,46825.00,0.13,2012
+University of North Carolina at Chapel Hill,26518.00,0.08,2012
+New York University,42056.00,0.19,2012
+LMU Munich,35691.00,0.13,2012
+École Polytechnique Fédérale de Lausanne,9666.00,0.54,2012
+London School of Economics and Political Science,,,2012
+University of Manchester,34938.00,0.34,2012
+Brown University,8653.00,0.19,2012
+Peking University,40148.00,0.14,2012
+Pennsylvania State University,44501.00,0.12,2012
+Kyoto University,22809.00,0.07,2012
+Pohang University of Science and Technology,3055.00,0.04,2012
+Boston University,24789.00,0.17,2012
+University of Southern California,36534.00,0.2,2012
+King’s College London,21394.00,0.37,2012
+Ohio State University,51462.00,0.12,2012
+University of Sydney,41868.00,0.28,2012
+University of Pittsburgh,26485.00,0.1,2012
+École Normale Supérieure,2400.00,0.2,2012
+University of Zurich,26583.00,0.19,2012
+Hong Kong University of Science and Technology,11385.00,0.36,2012
+École Polytechnique,2429.00,0.3,2012
+University of Massachusetts,56959.00,0.11,2012
+McMaster University,23823.00,0.15,2012
+University of Bristol,17906.00,0.25,2012
+KU Leuven,42503.00,0.18,2012
+Utrecht University,30779.00,0.07,2012
+University of Göttingen,25581.00,0.12,2012
+Vanderbilt University,12161.00,0.1,2012
+Tsinghua University,39763.00,0.1,2012
+Rice University,6333.00,0.26,2012
+Heidelberg University,28881.00,0.17,2012
+The University of Queensland,34718.00,0.27,2012
+Emory University,12338.00,0.18,2012
+Wageningen University and Research Center,9248.00,0.21,2012
+Tufts University,10410.00,0.14,2012
+University of Colorado Boulder,29325.00,0.08,2012
+Leiden University,21222.00,0.1,2012
+Lund University,28251.00,0.15,2012
+"Rutgers, the State University of New Jersey",37032.00,0.08,2012
+University of Rochester,9390.00,0.26,2012
+Durham University,15489.00,0.24,2012
+Pierre and Marie Curie University,27862.00,0.18,2012
+University of St Andrews,8338.00,0.47,2012
+"University of California, Irvine",26614.00,0.16,2012
+Uppsala University,25266.00,0.12,2012
+Technical University of Munich,35565.00,0.2,2012
+University of Notre Dame,11829.00,0.1,2012
+Dartmouth College,6178.00,0.16,2012
+University of Helsinki,23505.00,0.06,2012
+University of Amsterdam,24570.00,0.11,2012
+Case Western Reserve University,9259.00,0.17,2012
+Korea Advanced Institute of Science and Technology (KAIST),9027.00,0.09,2012
+"University of Maryland, College Park",31331.00,0.09,2012
+Michigan State University,44750.00,0.15,2012
+University of Arizona,36429.00,0.08,2012
+Purdue University,39256.00,0.22,2012
+University of Sussex,12001.00,0.35,2012
+University of Alberta,36299.00,0.23,2012
+University of Sheffield,23311.00,0.31,2012
+University of Glasgow,22616.00,0.29,2012
+University of Cape Town,20040.00,0.18,2012
+Delft University of Technology,15920.00,0.25,2012
+University of Montreal,38264.00,0.25,2012
+Ghent University,32166.00,0.09,2012
+"Royal Holloway, University of London",8747.00,0.37,2012
+Tokyo Institute of Technology,9586.00,0.13,2012
+Humboldt University of Berlin,29987.00,0.16,2012
+"University of California, Santa Cruz",17404.00,0.01,2012
+University of Basel,12551.00,0.24,2012
+University of Bern,14708.00,0.14,2012
+University of Utah,25674.00,0.09,2012
+Stony Brook University,21908.00,0.24,2012
+Eindhoven University of Technology,8176.00,0.14,2012
+University of Lausanne,11964.00,0.22,2012
+Monash University,50882.00,0.36,2012
+Trinity College Dublin,15521.00,0.25,2012
+Osaka University,23144.00,0.09,2012
+Tohoku University,17200.00,0.07,2012
+Hebrew University of Jerusalem,17612.00,0.05,2012
+University of York,,,2012
+Indiana University,62468.00,0.13,2012
+Seoul National University,26389.00,0.1,2012
+Aarhus University,23895.00,0.14,2012
+University of Florida,50095.00,0.09,2012
+Arizona State University,83236.00,0.09,2012
+Queen Mary University of London,14260.00,0.4,2012
+University of Southampton,20925.00,0.29,2012
+University of Geneva,15668.00,0.39,2012
+Lancaster University,11512.00,0.33,2012
+Stockholm University,31715.00,0.08,2012
+University of Leeds,27703.00,0.21,2012
+University of Groningen,24556.00,0.12,2012
+George Washington University,20541.00,0.16,2012
+University of Copenhagen,27545.00,0.19,2012
+University of Virginia,23845.00,0.12,2012
+Georgetown University,15408.00,0.14,2012
+University of Vienna,34651.00,0.25,2012
+University of Nottingham,30144.00,0.27,2012
+University of Iowa,27526.00,0.11,2012
+École Normale Supérieure de Lyon,2218.00,0.14,2012
+"University of California, Riverside",20626.00,0.12,2012
+Rensselaer Polytechnic Institute,6671.00,0.16,2012
+University of East Anglia,14992.00,0.28,2012
+Newcastle University,20174.00,0.29,2012
+William & Mary,7867.00,0.07,2012
+University of Birmingham,25295.00,0.23,2012
+"Birkbeck, University of London",9454.00,0.38,2012
+Brandeis University,5495.00,0.22,2012
+Chinese University of Hong Kong,17916.00,0.22,2012
+Free University of Berlin,33062.00,0.2,2012
+University of Aberdeen,12938.00,0.33,2012
+National Taiwan University,31891.00,0.07,2012
+Yeshiva University,6753.00,0.07,2012
+University of Exeter,17755.00,0.28,2012
+Erasmus University Rotterdam,20580.00,0.18,2012
+University of Warwick,18529.00,0.37,2012
+Radboud University Nijmegen,17713.00,0.1,2012
+University College Dublin,22193.00,0.23,2012
+VU University Amsterdam,23280.00,0.06,2012
+Medical University of South Carolina,,,2012
+Wake Forest University,7326.00,0.05,2012
+Texas A&M University,50657.00,0.09,2012
+University of Reading,12050.00,0.28,2012
+Tel Aviv University,23977.00,0.04,2012
+University of Illinois at Chicago,24313.00,0.17,2012
+RWTH Aachen University,37917.00,0.16,2012
+Nanyang Technological University,25028.00,0.33,2012
+Paris Diderot University – Paris 7,27756.00,0.17,2012
+Université Catholique de Louvain,28856.00,0.19,2012
+University of Miami,15286.00,0.14,2012
+Queen’s University,20488.00,0.1,2012
+University of Auckland,29787.00,0.28,2012
+University of New South Wales,38309.00,0.33,2012
+University of Dundee,11628.00,0.25,2012
+University of Victoria,17581.00,0.11,2012
+Technical University of Denmark,9990.00,0.18,2012
+University of São Paulo,81402.00,0.04,2012
+University of Delaware,19262.00,0.1,2012
+Goethe University Frankfurt,31861.00,0.15,2012
+University of Liverpool,18815.00,0.3,2012
+University of Oslo,27139.00,0.18,2012
+Iowa State University,29991.00,0.11,2012
+University of Ottawa,36733.00,0.15,2012
+Pompeu Fabra University,10901.00,0.13,2012
+KTH Royal Institute of Technology,12062.00,0.21,2012
+University of Tübingen,28327.00,0.12,2012
+University of Freiburg,26467.00,0.16,2012
+University of Western Australia,20851.00,0.27,2012
+University of Bergen,11623.00,0.12,2012
+University of Science and Technology of China,14290.00,0.02,2012
+City University of Hong Kong,10015.00,0.28,2012
+University of Konstanz,10930.00,0.12,2012
+Boston College,13216.00,0.19,2012
+Karlsruhe Institute of Technology,25294.00,0.16,2012
+Georgia Health Sciences University,,,2012
+Maastricht University,15626.00,0.48,2012
+University of Leicester,14541.00,0.35,2012
+University of Twente,6631.00,0.26,2012
+Autonomous University of Barcelona,30538.00,0.1,2012
+Bilkent University,,,2012
+Cardiff University,23347.00,0.23,2012
+Colorado School of Mines,5287.00,0.12,2012
+Nagoya University,15529.00,0.1,2012
+National Tsing Hua University,10221.00,0.05,2012
+Northeastern University,18539.00,0.26,2012
+Technion Israel Institute of Technology,13855.00,0.04,2012
+Tulane University,11381.00,0.08,2012
+Ulm University,9187.00,0.1,2012
+Umeå University,16667.00,0.07,2012
+University at Buffalo,25668.00,0.19,2012
+University of Adelaide,20771.00,0.26,2012
+University of Barcelona,47491.00,0.1,2012
+University of Cincinnati,36108.00,0.06,2012
+University of Essex,12695.00,0.39,2012
+University of Georgia,33119.00,0.07,2012
+University of Gothenburg,26420.00,0.12,2012
+University of Innsbruck,18209.00,0.39,2012
+University of Medicine and Dentistry of New Jersey,,,2012
+University of Otago,18600.00,0.21,2012
+University of South Carolina,29336.00,0.01,2012
+University of Strasbourg,46208.00,0.21,2012
+University of Waterloo,30726.00,0.14,2012
+University of Western Ontario,27387.00,0.16,2012
+University of Würzburg,26576.00,0.08,2012
+Université Libre de Bruxelles,23819.00,0.32,2012
+Carleton University,25036.00,0.18,2012
+Chalmers University of Technology,8605.00,0.15,2012
+Colorado State University,26769.00,0.05,2012
+Creighton University,7086.00,0.02,2012
+Dalhousie University,15064.00,0.18,2012
+Drexel University,20713.00,0.18,2012
+Fudan University,32175.00,0.11,2012
+Korea University,24043.00,0.14,2012
+Macquarie University,27930.00,0.44,2012
+National Chiao Tung University,12646.00,0.05,2012
+Simon Fraser University,26640.00,0.19,2012
+State University of New York Albany,15387.00,0.08,2012
+Swedish University of Agricultural Sciences,3879.00,,2012
+Tokyo Metropolitan University,9303.00,0.04,2012
+University of Bologna,85532.00,0.07,2012
+University of Calgary,28341.00,0.17,2012
+University of Hamburg,,,2012
+University of Milan,58618.00,0.05,2012
+University of Milan-Bicocca,33370.00,0.05,2012
+University of Missouri,29885.00,0.05,2012
+University of Padua,62577.00,0.04,2012
+University of Trieste,18135.00,0.09,2012
+Yonsei University,24774.00,0.14,2012
+Bangor University,9567.00,0.22,2012
+Bielefeld University,21428.00,0.08,2012
+Brunel University London,12613.00,0.38,2012
+Hong Kong Polytechnic University,22064.00,0.26,2012
+Johannes Kepler University of Linz,19646.00,0.1,2012
+Kyushu University,18925.00,0.08,2012
+Nanjing University,29743.00,0.1,2012
+National Sun Yat-Sen University,9336.00,0.04,2012
+Norwegian University of Science and Technology,17381.00,0.09,2012
+Queen’s University Belfast,17940.00,0.3,2012
+Ruhr University Bochum,38675.00,0.13,2012
+Stellenbosch University,21849.00,0.08,2012
+Tilburg University,7576.00,0.1,2012
+TU Dresden,35487.00,0.12,2012
+University of Bath,12830.00,0.3,2012
+University of Graz,20584.00,0.12,2012
+University of Hawai’i at Mānoa,,,2012
+University of Kiel,24444.00,0.08,2012
+University of Southern Denmark,22210.00,0.16,2012
+University of Texas at Dallas,16306.00,0.23,2012
+University of the Witwatersrand,23321.00,0.09,2012
+University of Tsukuba,15930.00,0.16,2012
+University of Wollongong,16489.00,0.24,2012
+Victoria University of Wellington,17142.00,0.21,2012
+Virginia Polytechnic Institute and State University,30850.00,0.1,2012
+Wayne State University,23065.00,0.07,2012
+Aberystwyth University,9252.00,0.18,2012
+Autonomous University of Madrid,28296.00,0.15,2012
+Hokkaido University,18162.00,0.09,2012
+Hong Kong Baptist University,10441.00,0.25,2012
+Istanbul Technical University,34550.00,0.05,2012
+Lomonosov Moscow State University,30822.00,0.2,2012
+Middle East Technical University,25779.00,0.07,2012
+Montpellier University,36731.00,0.14,2012
+Queensland University of Technology,33391.00,0.17,2012
+State University of Campinas,27095.00,0.03,2012
+Sun Yat-sen University,51351.00,0.08,2012
+Technical University of Darmstadt,20300.00,0.18,2012
+Tokyo Medical and Dental University (TMDU),2872.00,0.07,2012
+UiT The Arctic University of Norway,10398.00,0.1,2012
+University of Antwerp,12346.00,0.16,2012
+University of Crete,14650.00,0.05,2012
+University of Guelph,21643.00,0.04,2012
+University of Iceland,13960.00,0.08,2012
+University of Kansas,,,2012
+University of Kentucky,,,2012
+University of Münster,39838.00,0.08,2012
+University of Newcastle,23508.00,0.18,2012
+University of Texas at San Antonio,27520.00,0.06,2012
+University of Trento,16841.00,0.08,2012
+York University,48007.00,0.09,2012
+Aalborg University,17422.00,0.15,2012
+Aalto University,16099.00,0.17,2012
+Alexandria University,127431.00,0.01,2012
+Bar-Ilan University,17503.00,0.05,2012
+"Binghamton University, State University of New York",15799.00,0.14,2012
+Boğaziçi University,11506.00,0.07,2012
+Charles Darwin University,5570.00,0.15,2012
+Charles University in Prague,51438.00,0.15,2012
+George Mason University,26622.00,0.07,2012
+Indian Institute of Technology Bombay,8327.00,0.01,2012
+Jagiellonian University,42835.00,0.05,2012
+Keele University,8397.00,0.2,2012
+Keio University,33751.00,0.05,2012
+Kent State University,23122.00,0.08,2012
+Lehigh University,6300.00,0.15,2012
+Linköping University,17866.00,0.1,2012
+National Taiwan University of Science and Technology (Taiwan Tech),7446.00,0.11,2012
+Plymouth University,24121.00,0.13,2012
+Polytechnic University of Milan,30025.00,0.12,2012
+Sapienza University of Rome,120986.00,0.07,2012
+Shanghai Jiao Tong University,38191.00,0.06,2012
+Sharif University of Technology,10977.00,0,2012
+Sungkyunkwan University (SKKU),24365.00,0.09,2012
+University College Cork,15805.00,0.15,2012
+University of Aveiro,10791.00,0.1,2012
+University of Canterbury,12187.00,0.2,2012
+University of Eastern Finland,10798.00,0.06,2012
+University of Ferrara,18882.00,0.07,2012
+University of Hertfordshire,19665.00,0.27,2012
+University of Houston,40325.00,0.09,2012
+University of Hull,15141.00,0.2,2012
+University of Liège,20951.00,0.23,2012
+University of Manitoba,28576.00,0.11,2012
+"University of Maryland, Baltimore County",13908.00,0.07,2012
+University of Modena and Reggio Emilia,19693.00,0.06,2012
+University of Oklahoma,,,2012
+University of Pisa,47247.00,0.04,2012
+University of Porto,32720.00,0.09,2012
+University of South Florida,31424.00,0.1,2012
+University of Stirling,7828.00,0.22,2012
+University of Surrey,12063.00,0.38,2012
+University of Tampere,10045.00,0.04,2012
+University of Tasmania,18340.00,0.21,2012
+University of Valencia,58413.00,0.09,2012
+University of Waikato,10159.00,0.25,2012
+University of Warsaw,49292.00,0.07,2012
+Vienna University of Technology,26419.00,0.27,2012
+Vrije Universiteit Brussel,9020.00,0.16,2012
+Washington State University,24550.00,0.07,2012
+Zhejiang University,47508.00,0.05,2012
+Aston University,,,2012
+Auburn University,22386.00,0.04,2012
+Clemson University,19198.00,0.08,2012
+Curtin University,30333.00,0.38,2012
+Deakin University,32713.00,0.17,2012
+Flinders University,15655.00,0.15,2012
+Georgia State University,28534.00,0.05,2012
+Griffith University,30251.00,0.21,2012
+Harbin Institute of Technology,31658.00,0.07,2012
+Heriot-Watt University,8773.00,0.43,2012
+Hiroshima University,14686.00,0.05,2012
+Kansas State University,21379.00,0.1,2012
+Kobe University,15885.00,0.06,2012
+Kyung Hee University,24356.00,0.14,2012
+La Trobe University,22037.00,0.27,2012
+Leibniz University of Hanover,22401.00,0.12,2012
+Liverpool John Moores University,18513.00,0.13,2012
+Loughborough University,13951.00,0.22,2012
+Mahidol University,27402.00,0.03,2012
+Massey University,19101.00,0.15,2012
+Michigan Technological University,,,2012
+National Central University,10915.00,0.06,2012
+National Taiwan Ocean University,8240.00,0.05,2012
+"National University of Ireland, Galway",14067.00,0.14,2012
+"National University of Ireland, Maynooth",7653.00,0.11,2012
+New Jersey Institute of Technology,10646.00,0.17,2012
+New University of Lisbon,18867.00,0.07,2012
+Old Dominion University,,,2012
+Polytechnic University of Catalonia,22893.00,0.28,2012
+Polytechnic University of Turin,27709.00,0.16,2012
+Polytechnic University of Valencia,33172.00,0.07,2012
+Pontifical Catholic University of Chile,25075.00,0.07,2012
+Saint Petersburg State University,20836.00,0.07,2012
+Swansea University,12801.00,0.2,2012
+Swinburne University of Technology,20314.00,0.33,2012
+Tokyo University of Agriculture and Technology,5865.00,0.05,2012
+University of Bari Aldo Moro,51560.00,0.02,2012
+University of Coimbra,22795.00,0.11,2012
+University of Idaho,11641.00,0.06,2012
+University of Kent,17638.00,0.27,2012
+University of Paris North – Paris 13,23026.00,0.22,2012
+University of Salento,19959.00,0.01,2012
+University of South Australia,18971.00,0.32,2012
+University of Strathclyde,15705.00,0.2,2012
+University of Tartu,10269.00,0.03,2012
+University of Turku,12326.00,0.05,2012
+University of Wyoming,,,2012
+University of Zaragoza,31046.00,0.05,2012
+Waseda University,52316.00,0.08,2012
+Wuhan University,46227.00,0.07,2012
+Yuan Ze University,8663.00,0.04,2012
+California Institute of Technology,2243.00,0.27,2013
+Stanford University,15596.00,0.22,2013
+University of Oxford,19919.00,0.34,2013
+Harvard University,20152.00,0.25,2013
+Massachusetts Institute of Technology,11074.00,0.33,2013
+Princeton University,7929.00,0.27,2013
+University of Cambridge,18812.00,0.34,2013
+Imperial College London,15060.00,0.51,2013
+"University of California, Berkeley",36186.00,0.15,2013
+University of Chicago,14221.00,0.21,2013
+Yale University,11751.00,0.2,2013
+ETH Zurich – Swiss Federal Institute of Technology Zurich,18178.00,0.37,2013
+"University of California, Los Angeles",38206.00,0.15,2013
+Columbia University,25055.00,0.28,2013
+University of Pennsylvania,20376.00,0.2,2013
+Johns Hopkins University,15128.00,0.23,2013
+University College London,26607.00,0.46,2013
+Cornell University,21424.00,0.19,2013
+Northwestern University,18334.00,0.15,2013
+University of Michigan,41786.00,0.16,2013
+University of Toronto,66198.00,0.15,2013
+Carnegie Mellon University,11885.00,0.35,2013
+Duke University,15172.00,0.17,2013
+University of Washington,44020.00,0.13,2013
+Georgia Institute of Technology,19967.00,0.26,2013
+University of Texas at Austin,49427.00,0.09,2013
+University of Tokyo,26199.00,0.1,2013
+University of Melbourne,40128.00,0.35,2013
+National University of Singapore,31592.00,0.34,2013
+University of British Columbia,50152.00,0.25,2013
+University of Wisconsin-Madison,39655.00,0.11,2013
+University of Edinburgh,25774.00,0.36,2013
+University of Illinois at Urbana-Champaign,42727.00,0.2,2013
+McGill University,31326.00,0.23,2013
+"University of California, Santa Barbara",22020.00,0.11,2013
+University of Hong Kong,19835.00,0.38,2013
+Australian National University,14604.00,0.35,2013
+"University of California, San Diego",27233.00,0.11,2013
+London School of Economics and Political Science,,,2013
+École Polytechnique Fédérale de Lausanne,9666.00,0.54,2013
+New York University,42056.00,0.19,2013
+Karolinska Institute,7774.00,0.22,2013
+University of North Carolina at Chapel Hill,26518.00,0.08,2013
+"University of California, Davis",35364.00,0.13,2013
+Washington University in St Louis,12528.00,0.17,2013
+Peking University,40148.00,0.14,2013
+University of Minnesota,46825.00,0.13,2013
+LMU Munich,35691.00,0.13,2013
+University of Manchester,34938.00,0.34,2013
+Pohang University of Science and Technology,3055.00,0.04,2013
+Brown University,8653.00,0.19,2013
+Tsinghua University,39763.00,0.1,2013
+Ohio State University,51462.00,0.12,2013
+Boston University,24789.00,0.17,2013
+Kyoto University,22809.00,0.07,2013
+University of Southern California,36534.00,0.2,2013
+King’s College London,21394.00,0.37,2013
+KU Leuven,42503.00,0.18,2013
+Seoul National University,26389.00,0.1,2013
+École Normale Supérieure,2400.00,0.2,2013
+Pennsylvania State University,44501.00,0.12,2013
+University of Sydney,41868.00,0.28,2013
+École Polytechnique,2429.00,0.3,2013
+Leiden University,21222.00,0.1,2013
+Hong Kong University of Science and Technology,11385.00,0.36,2013
+The University of Queensland,34718.00,0.27,2013
+Utrecht University,30779.00,0.07,2013
+Korea Advanced Institute of Science and Technology (KAIST),9027.00,0.09,2013
+Purdue University,39256.00,0.22,2013
+University of Göttingen,25581.00,0.12,2013
+Wageningen University and Research Center,9248.00,0.21,2013
+Erasmus University Rotterdam,20580.00,0.18,2013
+University of Massachusetts,56959.00,0.11,2013
+University of Bristol,17906.00,0.25,2013
+Rice University,6333.00,0.26,2013
+University of Pittsburgh,26485.00,0.1,2013
+Delft University of Technology,15920.00,0.25,2013
+Heidelberg University,28881.00,0.17,2013
+Emory University,12338.00,0.18,2013
+Durham University,15489.00,0.24,2013
+Pierre and Marie Curie University,27862.00,0.18,2013
+Lund University,28251.00,0.15,2013
+University of Amsterdam,24570.00,0.11,2013
+University of Montreal,38264.00,0.25,2013
+University of New South Wales,38309.00,0.33,2013
+Nanyang Technological University,25028.00,0.33,2013
+Tufts University,10410.00,0.14,2013
+McMaster University,23823.00,0.15,2013
+University of Groningen,24556.00,0.12,2013
+University of Zurich,26583.00,0.19,2013
+University of Colorado Boulder,29325.00,0.08,2013
+Paris-Sud University,27603.00,0.17,2013
+Ghent University,32166.00,0.09,2013
+Michigan State University,44750.00,0.15,2013
+University of Notre Dame,11829.00,0.1,2013
+"University of California, Irvine",26614.00,0.16,2013
+"University of Maryland, College Park",31331.00,0.09,2013
+University of Arizona,36429.00,0.08,2013
+Humboldt University of Berlin,29987.00,0.16,2013
+Monash University,50882.00,0.36,2013
+"Rutgers, the State University of New Jersey",37032.00,0.08,2013
+University of Rochester,9390.00,0.26,2013
+University of York,,,2013
+Case Western Reserve University,9259.00,0.17,2013
+Technical University of Munich,35565.00,0.2,2013
+Uppsala University,25266.00,0.12,2013
+Vanderbilt University,12161.00,0.1,2013
+University of St Andrews,8338.00,0.47,2013
+University of Helsinki,23505.00,0.06,2013
+Trinity College Dublin,15521.00,0.25,2013
+University of Sheffield,23311.00,0.31,2013
+University of Sussex,12001.00,0.35,2013
+University of Cape Town,20040.00,0.18,2013
+Eindhoven University of Technology,8176.00,0.14,2013
+Maastricht University,15626.00,0.48,2013
+Aarhus University,23895.00,0.14,2013
+Stockholm University,31715.00,0.08,2013
+University of Virginia,23845.00,0.12,2013
+"Royal Holloway, University of London",8747.00,0.37,2013
+University of Nottingham,30144.00,0.27,2013
+University of Alberta,36299.00,0.23,2013
+"University of California, Santa Cruz",17404.00,0.01,2013
+University of Florida,50095.00,0.09,2013
+Chinese University of Hong Kong,17916.00,0.22,2013
+Dartmouth College,6178.00,0.16,2013
+University of Warwick,18529.00,0.37,2013
+Radboud University Nijmegen,17713.00,0.1,2013
+Free University of Berlin,33062.00,0.2,2013
+Tokyo Institute of Technology,9586.00,0.13,2013
+University of Copenhagen,27545.00,0.19,2013
+University of Lausanne,11964.00,0.22,2013
+University of Southampton,20925.00,0.29,2013
+University of Geneva,15668.00,0.39,2013
+Indiana University,62468.00,0.13,2013
+National Taiwan University,31891.00,0.07,2013
+University of Utah,25674.00,0.09,2013
+Hebrew University of Jerusalem,17612.00,0.05,2013
+Tohoku University,17200.00,0.07,2013
+University of Glasgow,22616.00,0.29,2013
+KTH Royal Institute of Technology,12062.00,0.21,2013
+VU University Amsterdam,23280.00,0.06,2013
+University of Basel,12551.00,0.24,2013
+University of Leeds,27703.00,0.21,2013
+University of Freiburg,26467.00,0.16,2013
+Lancaster University,11512.00,0.33,2013
+Queen Mary University of London,14260.00,0.4,2013
+Osaka University,23144.00,0.09,2013
+Arizona State University,83236.00,0.09,2013
+Technical University of Denmark,9990.00,0.18,2013
+Boston College,13216.00,0.19,2013
+Karlsruhe Institute of Technology,25294.00,0.16,2013
+University of Bern,14708.00,0.14,2013
+University of Exeter,17755.00,0.28,2013
+RWTH Aachen University,37917.00,0.16,2013
+"University of California, Riverside",20626.00,0.12,2013
+Texas A&M University,50657.00,0.09,2013
+Yeshiva University,6753.00,0.07,2013
+Tel Aviv University,23977.00,0.04,2013
+University of Birmingham,25295.00,0.23,2013
+University of São Paulo,81402.00,0.04,2013
+University of Auckland,29787.00,0.28,2013
+Stony Brook University,21908.00,0.24,2013
+University of Vienna,34651.00,0.25,2013
+Université Catholique de Louvain,28856.00,0.19,2013
+University of Delaware,19262.00,0.1,2013
+Paris Diderot University – Paris 7,27756.00,0.17,2013
+University of Texas at Dallas,16306.00,0.23,2013
+George Washington University,20541.00,0.16,2013
+University of Iowa,27526.00,0.11,2013
+École Normale Supérieure de Lyon,2218.00,0.14,2013
+University of Bonn,32474.00,0.13,2013
+University of Liverpool,18815.00,0.3,2013
+University of Ottawa,36733.00,0.15,2013
+Georgetown University,15408.00,0.14,2013
+Rensselaer Polytechnic Institute,6671.00,0.16,2013
+University of Aberdeen,12938.00,0.33,2013
+University of Adelaide,20771.00,0.26,2013
+University of East Anglia,14992.00,0.28,2013
+University of Reading,12050.00,0.28,2013
+Joseph Fourier University,16130.00,0.13,2013
+Newcastle University,20174.00,0.29,2013
+City University of Hong Kong,10015.00,0.28,2013
+Yonsei University,24774.00,0.14,2013
+Colorado School of Mines,5287.00,0.12,2013
+University of Illinois at Chicago,24313.00,0.17,2013
+William & Mary,7867.00,0.07,2013
+University College Dublin,22193.00,0.23,2013
+University of Twente,6631.00,0.26,2013
+Medical University of South Carolina,,,2013
+University of Western Australia,20851.00,0.27,2013
+Wake Forest University,7326.00,0.05,2013
+University of Antwerp,12346.00,0.16,2013
+Iowa State University,29991.00,0.11,2013
+Technion Israel Institute of Technology,13855.00,0.04,2013
+University of Miami,15286.00,0.14,2013
+University of Leicester,14541.00,0.35,2013
+University of Victoria,17581.00,0.11,2013
+University at Buffalo,25668.00,0.19,2013
+Goethe University Frankfurt,31861.00,0.15,2013
+"Birkbeck, University of London",9454.00,0.38,2013
+Autonomous University of Barcelona,30538.00,0.1,2013
+Brandeis University,5495.00,0.22,2013
+Cardiff University,23347.00,0.23,2013
+Fudan University,32175.00,0.11,2013
+Johannes Gutenberg University of Mainz,35609.00,0.1,2013
+Lomonosov Moscow State University,30822.00,0.2,2013
+Middle East Technical University,25779.00,0.07,2013
+Nagoya University,15529.00,0.1,2013
+Northeastern University,18539.00,0.26,2013
+Pompeu Fabra University,10901.00,0.13,2013
+Queen’s University,20488.00,0.1,2013
+"St George’s, University of London",2958.00,0.17,2013
+Sungkyunkwan University (SKKU),24365.00,0.09,2013
+Tilburg University,7576.00,0.1,2013
+University of Barcelona,47491.00,0.1,2013
+University of Dundee,11628.00,0.25,2013
+University of Erlangen-Nuremberg,36146.00,0.09,2013
+University of Georgia,33119.00,0.07,2013
+University of Gothenburg,26420.00,0.12,2013
+University of Innsbruck,18209.00,0.39,2013
+University of Konstanz,10930.00,0.12,2013
+University of Oslo,27139.00,0.18,2013
+University of Science and Technology of China,14290.00,0.02,2013
+University of Strasbourg,46208.00,0.21,2013
+University of Tübingen,28327.00,0.12,2013
+Bilkent University,,,2013
+Carleton University,25036.00,0.18,2013
+Chalmers University of Technology,8605.00,0.15,2013
+Florida Institute of Technology,4408.00,0.26,2013
+Georgia Health Sciences University,,,2013
+Indian Institute of Technology Kharagpur,9928.00,0,2013
+Korea University,24043.00,0.14,2013
+Koç University,4488.00,0.08,2013
+Laval University,27227.00,0.12,2013
+Mines ParisTech,1283.00,0.22,2013
+National Research Nuclear University MePhI,7801.00,0.07,2013
+National Tsing Hua University,10221.00,0.05,2013
+Simon Fraser University,26640.00,0.19,2013
+Technical University of Darmstadt,20300.00,0.18,2013
+Tulane University,11381.00,0.08,2013
+University of Bergen,11623.00,0.12,2013
+University of Calgary,28341.00,0.17,2013
+University of Cincinnati,36108.00,0.06,2013
+University of Missouri,29885.00,0.05,2013
+University of Otago,18600.00,0.21,2013
+University of South Florida,31424.00,0.1,2013
+University of the Witwatersrand,23321.00,0.09,2013
+University of Waterloo,30726.00,0.14,2013
+University of Western Ontario,27387.00,0.16,2013
+University of Würzburg,26576.00,0.08,2013
+Université Libre de Bruxelles,23819.00,0.32,2013
+Aalto University,16099.00,0.17,2013
+Dalhousie University,15064.00,0.18,2013
+Hong Kong Polytechnic University,22064.00,0.26,2013
+Indian Institute of Technology Bombay,8327.00,0.01,2013
+Macquarie University,27930.00,0.44,2013
+Nanjing University,29743.00,0.1,2013
+National Chiao Tung University,12646.00,0.05,2013
+Norwegian University of Science and Technology,17381.00,0.09,2013
+Queensland University of Technology,33391.00,0.17,2013
+State University of Campinas,27095.00,0.03,2013
+Stellenbosch University,21849.00,0.08,2013
+Tokyo Metropolitan University,9303.00,0.04,2013
+Umeå University,16667.00,0.07,2013
+University of Connecticut,25742.00,0.11,2013
+University of Essex,12695.00,0.39,2013
+University of Iceland,13960.00,0.08,2013
+University of Kiel,24444.00,0.08,2013
+University of Milan,58618.00,0.05,2013
+University of Milan-Bicocca,33370.00,0.05,2013
+University of Münster,39838.00,0.08,2013
+University of Oregon,24418.00,0.11,2013
+University of Trieste,18135.00,0.09,2013
+Victoria University of Wellington,17142.00,0.21,2013
+Vienna University of Technology,26419.00,0.27,2013
+Aberystwyth University,9252.00,0.18,2013
+Bangor University,9567.00,0.22,2013
+Bayreuth University,12520.00,0.08,2013
+Bielefeld University,21428.00,0.08,2013
+Boğaziçi University,11506.00,0.07,2013
+Colorado State University,26769.00,0.05,2013
+Drexel University,20713.00,0.18,2013
+Istanbul Technical University,34550.00,0.05,2013
+Montpellier University,36731.00,0.14,2013
+Oregon State University,22578.00,0.09,2013
+Queen’s University Belfast,17940.00,0.3,2013
+Ruhr University Bochum,38675.00,0.13,2013
+Shanghai Jiao Tong University,38191.00,0.06,2013
+Swedish University of Agricultural Sciences,3879.00,,2013
+Tokyo Medical and Dental University (TMDU),2872.00,0.07,2013
+TU Dresden,35487.00,0.12,2013
+University of Bath,12830.00,0.3,2013
+University of Bologna,85532.00,0.07,2013
+University of Kansas,,,2013
+University of Montana,12470.00,0.03,2013
+University of Newcastle,23508.00,0.18,2013
+University of South Carolina,29336.00,0.01,2013
+University of Southern Denmark,22210.00,0.16,2013
+University of Trento,16841.00,0.08,2013
+University of Turin,67552.00,0.06,2013
+Virginia Polytechnic Institute and State University,30850.00,0.1,2013
+Autonomous University of Madrid,28296.00,0.15,2013
+Brunel University London,12613.00,0.38,2013
+Charles University in Prague,51438.00,0.15,2013
+Claude Bernard University Lyon 1,35308.00,0.11,2013
+Creighton University,7086.00,0.02,2013
+Hokkaido University,18162.00,0.09,2013
+Hong Kong Baptist University,10441.00,0.25,2013
+Johannes Kepler University of Linz,19646.00,0.1,2013
+King Abdulaziz University,35889.00,0.21,2013
+Kyushu University,18925.00,0.08,2013
+Linköping University,17866.00,0.1,2013
+Medical University of Vienna,7426.00,0.28,2013
+Murdoch University,16606.00,0.43,2013
+National Cheng Kung University,21234.00,0.11,2013
+National Sun Yat-Sen University,9336.00,0.04,2013
+"National University of Ireland, Galway",14067.00,0.14,2013
+North Carolina State University,30533.00,0.11,2013
+Polytechnic University of Milan,30025.00,0.12,2013
+Renmin University of China,24954.00,0.06,2013
+Sapienza University of Rome,120986.00,0.07,2013
+Sharif University of Technology,10977.00,0,2013
+State University of New York Albany,15387.00,0.08,2013
+Sun Yat-sen University,51351.00,0.08,2013
+UiT The Arctic University of Norway,10398.00,0.1,2013
+University College Cork,15805.00,0.15,2013
+University of Canterbury,12187.00,0.2,2013
+University of Crete,14650.00,0.05,2013
+University of Eastern Finland,10798.00,0.06,2013
+University of Fribourg,10416.00,0.19,2013
+University of Graz,20584.00,0.12,2013
+University of Guelph,21643.00,0.04,2013
+University of Kentucky,,,2013
+University of Manitoba,28576.00,0.11,2013
+"University of Maryland, Baltimore County",13908.00,0.07,2013
+University of Padua,62577.00,0.04,2013
+University of Pavia,22958.00,0.06,2013
+University of Pisa,47247.00,0.04,2013
+University of Portsmouth,20161.00,0.23,2013
+University of South Australia,18971.00,0.32,2013
+University of Tampere,10045.00,0.04,2013
+University of Tsukuba,15930.00,0.16,2013
+University of Vermont,,,2013
+University of Waikato,10159.00,0.25,2013
+University of Wollongong,16489.00,0.24,2013
+Vrije Universiteit Brussel,9020.00,0.16,2013
+Washington State University,24550.00,0.07,2013
+Wayne State University,23065.00,0.07,2013
+York University,48007.00,0.09,2013
+Zhejiang University,47508.00,0.05,2013
+Aalborg University,17422.00,0.15,2013
+"Binghamton University, State University of New York",15799.00,0.14,2013
+Charles Darwin University,5570.00,0.15,2013
+Deakin University,32713.00,0.17,2013
+Flinders University,15655.00,0.15,2013
+George Mason University,26622.00,0.07,2013
+Heriot-Watt University,8773.00,0.43,2013
+Indian Institute of Technology Roorkee,8061.00,0.01,2013
+Jagiellonian University,42835.00,0.05,2013
+Keele University,8397.00,0.2,2013
+Keio University,33751.00,0.05,2013
+King Mongkut’s University of Technology Thonburi,17791.00,0.01,2013
+Lehigh University,6300.00,0.15,2013
+Leibniz University of Hanover,22401.00,0.12,2013
+Loughborough University,13951.00,0.22,2013
+Massey University,19101.00,0.15,2013
+National Autonomous University of Mexico,137378.00,0.05,2013
+National Central University,10915.00,0.06,2013
+National Taiwan University of Science and Technology (Taiwan Tech),7446.00,0.11,2013
+"National University of Ireland, Maynooth",7653.00,0.11,2013
+Paris Dauphine University,9565.00,0.28,2013
+Polytechnic University of Valencia,33172.00,0.07,2013
+Southern Methodist University,,,2013
+Temple University,33268.00,0.05,2013
+University of Aveiro,10791.00,0.1,2013
+University of Duisburg-Essen,36051.00,0.11,2013
+University of Ferrara,18882.00,0.07,2013
+University of Hertfordshire,19665.00,0.27,2013
+University of Houston,40325.00,0.09,2013
+University of Jyväskylä,9703.00,0.05,2013
+University of KwaZulu-Natal,30572.00,0.06,2013
+University of Liège,20951.00,0.23,2013
+University of Minho,19090.00,0.09,2013
+University of Modena and Reggio Emilia,19693.00,0.06,2013
+University of Oklahoma,,,2013
+University of Porto,32720.00,0.09,2013
+University of Salento,19959.00,0.01,2013
+University of Stirling,7828.00,0.22,2013
+University of Strathclyde,15705.00,0.2,2013
+University of Surrey,12063.00,0.38,2013
+University of Tartu,10269.00,0.03,2013
+University of Tasmania,18340.00,0.21,2013
+University of Technology Sydney,24519.00,0.31,2013
+University of Texas at San Antonio,27520.00,0.06,2013
+"University of the Andes, Colombia",15773.00,0.02,2013
+University of Valencia,58413.00,0.09,2013
+University of Vigo,22793.00,0.03,2013
+University of Warsaw,49292.00,0.07,2013
+University of Wyoming,,,2013
+Waseda University,52316.00,0.08,2013
+California Institute of Technology,2243.00,0.27,2014
+Harvard University,20152.00,0.25,2014
+University of Oxford,19919.00,0.34,2014
+Stanford University,15596.00,0.22,2014
+Massachusetts Institute of Technology,11074.00,0.33,2014
+Princeton University,7929.00,0.27,2014
+University of Cambridge,18812.00,0.34,2014
+"University of California, Berkeley",36186.00,0.15,2014
+University of Chicago,14221.00,0.21,2014
+Imperial College London,15060.00,0.51,2014
+Yale University,11751.00,0.2,2014
+"University of California, Los Angeles",38206.00,0.15,2014
+Columbia University,25055.00,0.28,2014
+ETH Zurich – Swiss Federal Institute of Technology Zurich,18178.00,0.37,2014
+Johns Hopkins University,15128.00,0.23,2014
+University of Pennsylvania,20376.00,0.2,2014
+Duke University,15172.00,0.17,2014
+University of Michigan,41786.00,0.16,2014
+Cornell University,21424.00,0.19,2014
+University of Toronto,66198.00,0.15,2014
+University College London,26607.00,0.46,2014
+Northwestern University,18334.00,0.15,2014
+University of Tokyo,26199.00,0.1,2014
+Carnegie Mellon University,11885.00,0.35,2014
+University of Washington,44020.00,0.13,2014
+National University of Singapore,31592.00,0.34,2014
+University of Texas at Austin,49427.00,0.09,2014
+Georgia Institute of Technology,19967.00,0.26,2014
+University of Illinois at Urbana-Champaign,42727.00,0.2,2014
+University of Wisconsin-Madison,39655.00,0.11,2014
+University of British Columbia,50152.00,0.25,2014
+London School of Economics and Political Science,,,2014
+"University of California, Santa Barbara",22020.00,0.11,2014
+University of Melbourne,40128.00,0.35,2014
+McGill University,31326.00,0.23,2014
+Karolinska Institute,7774.00,0.22,2014
+École Polytechnique Fédérale de Lausanne,9666.00,0.54,2014
+King’s College London,21394.00,0.37,2014
+University of Edinburgh,25774.00,0.36,2014
+New York University,42056.00,0.19,2014
+"University of California, San Diego",27233.00,0.11,2014
+Washington University in St Louis,12528.00,0.17,2014
+University of Hong Kong,19835.00,0.38,2014
+Seoul National University,26389.00,0.1,2014
+Peking University,40148.00,0.14,2014
+University of Minnesota,46825.00,0.13,2014
+University of North Carolina at Chapel Hill,26518.00,0.08,2014
+Australian National University,14604.00,0.35,2014
+Pennsylvania State University,44501.00,0.12,2014
+Boston University,24789.00,0.17,2014
+Tsinghua University,39763.00,0.1,2014
+Brown University,8653.00,0.19,2014
+Kyoto University,22809.00,0.07,2014
+"University of California, Davis",35364.00,0.13,2014
+LMU Munich,35691.00,0.13,2014
+Korea Advanced Institute of Science and Technology (KAIST),9027.00,0.09,2014
+Hong Kong University of Science and Technology,11385.00,0.36,2014
+University of Manchester,34938.00,0.34,2014
+Ohio State University,51462.00,0.12,2014
+Pohang University of Science and Technology,3055.00,0.04,2014
+KU Leuven,42503.00,0.18,2014
+Purdue University,39256.00,0.22,2014
+The University of Queensland,34718.00,0.27,2014
+University of Göttingen,25581.00,0.12,2014
+Rice University,6333.00,0.26,2014
+École Normale Supérieure,2400.00,0.2,2014
+Leiden University,21222.00,0.1,2014
+Heidelberg University,28881.00,0.17,2014
+Delft University of Technology,15920.00,0.25,2014
+University of Southern California,36534.00,0.2,2014
+École Polytechnique,2429.00,0.3,2014
+University of Sydney,41868.00,0.28,2014
+Erasmus University Rotterdam,20580.00,0.18,2014
+University of Basel,12551.00,0.24,2014
+Utrecht University,30779.00,0.07,2014
+Nanyang Technological University,25028.00,0.33,2014
+Wageningen University and Research Center,9248.00,0.21,2014
+University of Pittsburgh,26485.00,0.1,2014
+University of Bristol,17906.00,0.25,2014
+Durham University,15489.00,0.24,2014
+Emory University,12338.00,0.18,2014
+Tufts University,10410.00,0.14,2014
+Michigan State University,44750.00,0.15,2014
+University of Amsterdam,24570.00,0.11,2014
+Ghent University,32166.00,0.09,2014
+Free University of Berlin,33062.00,0.2,2014
+Technical University of Munich,35565.00,0.2,2014
+Case Western Reserve University,9259.00,0.17,2014
+Vanderbilt University,12161.00,0.1,2014
+University of Notre Dame,11829.00,0.1,2014
+Monash University,50882.00,0.36,2014
+McMaster University,23823.00,0.15,2014
+"University of California, Irvine",26614.00,0.16,2014
+Humboldt University of Berlin,29987.00,0.16,2014
+University of Rochester,9390.00,0.26,2014
+Pierre and Marie Curie University,27862.00,0.18,2014
+University of Colorado Boulder,29325.00,0.08,2014
+Maastricht University,15626.00,0.48,2014
+University of Groningen,24556.00,0.12,2014
+University of Helsinki,23505.00,0.06,2014
+University of York,,,2014
+"Royal Holloway, University of London",8747.00,0.37,2014
+"Rutgers, the State University of New Jersey",37032.00,0.08,2014
+Stockholm University,31715.00,0.08,2014
+University of Arizona,36429.00,0.08,2014
+Eindhoven University of Technology,8176.00,0.14,2014
+University of Montreal,38264.00,0.25,2014
+"University of Maryland, College Park",31331.00,0.09,2014
+Chinese University of Hong Kong,17916.00,0.22,2014
+University of Alberta,36299.00,0.23,2014
+Uppsala University,25266.00,0.12,2014
+University of Sheffield,23311.00,0.31,2014
+University of Virginia,23845.00,0.12,2014
+Paris-Sud University,27603.00,0.17,2014
+Queen Mary University of London,14260.00,0.4,2014
+University of New South Wales,38309.00,0.33,2014
+KTH Royal Institute of Technology,12062.00,0.21,2014
+Technical University of Denmark,9990.00,0.18,2014
+University of Glasgow,22616.00,0.29,2014
+University of St Andrews,8338.00,0.47,2014
+University of Sussex,12001.00,0.35,2014
+University of Zurich,26583.00,0.19,2014
+Lund University,28251.00,0.15,2014
+University of Geneva,15668.00,0.39,2014
+Tokyo Institute of Technology,9586.00,0.13,2014
+Dartmouth College,6178.00,0.16,2014
+University of Cape Town,20040.00,0.18,2014
+University of Florida,50095.00,0.09,2014
+RWTH Aachen University,37917.00,0.16,2014
+Trinity College Dublin,15521.00,0.25,2014
+Radboud University Nijmegen,17713.00,0.1,2014
+Indiana University,62468.00,0.13,2014
+University of Lausanne,11964.00,0.22,2014
+University of Massachusetts,56959.00,0.11,2014
+Boston College,13216.00,0.19,2014
+"University of California, Santa Cruz",17404.00,0.01,2014
+Lancaster University,11512.00,0.33,2014
+Aarhus University,23895.00,0.14,2014
+Colorado School of Mines,5287.00,0.12,2014
+University of Leeds,27703.00,0.21,2014
+University of Warwick,18529.00,0.37,2014
+National Taiwan University,31891.00,0.07,2014
+University of Utah,25674.00,0.09,2014
+Osaka University,23144.00,0.09,2014
+VU University Amsterdam,23280.00,0.06,2014
+Arizona State University,83236.00,0.09,2014
+University of Southampton,20925.00,0.29,2014
+"University of California, Riverside",20626.00,0.12,2014
+University of Exeter,17755.00,0.28,2014
+Tohoku University,17200.00,0.07,2014
+University of Copenhagen,27545.00,0.19,2014
+University of Freiburg,26467.00,0.16,2014
+University of Birmingham,25295.00,0.23,2014
+Karlsruhe Institute of Technology,25294.00,0.16,2014
+Joseph Fourier University,16130.00,0.13,2014
+École Normale Supérieure de Lyon,2218.00,0.14,2014
+University of Bern,14708.00,0.14,2014
+University of Nottingham,30144.00,0.27,2014
+Texas A&M University,50657.00,0.09,2014
+Georgetown University,15408.00,0.14,2014
+University College Dublin,22193.00,0.23,2014
+University of Iowa,27526.00,0.11,2014
+University of Leicester,14541.00,0.35,2014
+Brandeis University,5495.00,0.22,2014
+Pompeu Fabra University,10901.00,0.13,2014
+University of Antwerp,12346.00,0.16,2014
+University of Auckland,29787.00,0.28,2014
+University of Western Australia,20851.00,0.27,2014
+University of Liverpool,18815.00,0.3,2014
+University of Twente,6631.00,0.26,2014
+University of Vienna,34651.00,0.25,2014
+Université Catholique de Louvain,28856.00,0.19,2014
+Yeshiva University,6753.00,0.07,2014
+University of Delaware,19262.00,0.1,2014
+University of East Anglia,14992.00,0.28,2014
+University at Buffalo,25668.00,0.19,2014
+Université Libre de Bruxelles,23819.00,0.32,2014
+Paris Diderot University – Paris 7,27756.00,0.17,2014
+Stony Brook University,21908.00,0.24,2014
+Wake Forest University,7326.00,0.05,2014
+Rensselaer Polytechnic Institute,6671.00,0.16,2014
+University of Bonn,32474.00,0.13,2014
+Iowa State University,29991.00,0.11,2014
+Northeastern University,18539.00,0.26,2014
+University of Miami,15286.00,0.14,2014
+University of Oslo,27139.00,0.18,2014
+University of Ottawa,36733.00,0.15,2014
+University of Aberdeen,12938.00,0.33,2014
+University of Texas at Dallas,16306.00,0.23,2014
+Yonsei University,24774.00,0.14,2014
+Hebrew University of Jerusalem,17612.00,0.05,2014
+University of Illinois at Chicago,24313.00,0.17,2014
+Mines ParisTech,1283.00,0.22,2014
+George Washington University,20541.00,0.16,2014
+University of Reading,12050.00,0.28,2014
+University of Dundee,11628.00,0.25,2014
+Florida Institute of Technology,4408.00,0.26,2014
+Newcastle University,20174.00,0.29,2014
+Boğaziçi University,11506.00,0.07,2014
+Tel Aviv University,23977.00,0.04,2014
+"Birkbeck, University of London",9454.00,0.38,2014
+Cardiff University,23347.00,0.23,2014
+City University of Hong Kong,10015.00,0.28,2014
+Fudan University,32175.00,0.11,2014
+Goethe University Frankfurt,31861.00,0.15,2014
+Istanbul Technical University,34550.00,0.05,2014
+Korea University,24043.00,0.14,2014
+Laval University,27227.00,0.12,2014
+Middle East Technical University,25779.00,0.07,2014
+Nagoya University,15529.00,0.1,2014
+"St George’s, University of London",2958.00,0.17,2014
+Sungkyunkwan University (SKKU),24365.00,0.09,2014
+Technion Israel Institute of Technology,13855.00,0.04,2014
+Tokyo Metropolitan University,9303.00,0.04,2014
+Ulm University,9187.00,0.1,2014
+University of Adelaide,20771.00,0.26,2014
+University of Bergen,11623.00,0.12,2014
+University of Calgary,28341.00,0.17,2014
+University of Gothenburg,26420.00,0.12,2014
+University of Innsbruck,18209.00,0.39,2014
+University of Science and Technology of China,14290.00,0.02,2014
+University of Strasbourg,46208.00,0.21,2014
+University of Trento,16841.00,0.08,2014
+University of Tübingen,28327.00,0.12,2014
+University of Victoria,17581.00,0.11,2014
+William & Mary,7867.00,0.07,2014
+Autonomous University of Barcelona,30538.00,0.1,2014
+Bilkent University,,,2014
+Georgia Health Sciences University,,,2014
+Lomonosov Moscow State University,30822.00,0.2,2014
+Panjab University,16691.00,0.01,2014
+Queen’s University,20488.00,0.1,2014
+Renmin University of China,24954.00,0.06,2014
+Simon Fraser University,26640.00,0.19,2014
+Technical University of Darmstadt,20300.00,0.18,2014
+Tilburg University,7576.00,0.1,2014
+Tulane University,11381.00,0.08,2014
+University of Barcelona,47491.00,0.1,2014
+University of Cincinnati,36108.00,0.06,2014
+University of Erlangen-Nuremberg,36146.00,0.09,2014
+University of Kiel,24444.00,0.08,2014
+University of Konstanz,10930.00,0.12,2014
+University of Milan-Bicocca,33370.00,0.05,2014
+University of Münster,39838.00,0.08,2014
+University of Otago,18600.00,0.21,2014
+University of São Paulo,81402.00,0.04,2014
+University of the Witwatersrand,23321.00,0.09,2014
+University of Trieste,18135.00,0.09,2014
+University of Turin,67552.00,0.06,2014
+University of Waterloo,30726.00,0.14,2014
+University of Western Ontario,27387.00,0.16,2014
+University of Würzburg,26576.00,0.08,2014
+Vienna University of Technology,26419.00,0.27,2014
+Brunel University London,12613.00,0.38,2014
+Dalhousie University,15064.00,0.18,2014
+Hong Kong Polytechnic University,22064.00,0.26,2014
+Medical University of Vienna,7426.00,0.28,2014
+Montpellier University,36731.00,0.14,2014
+Nanjing University,29743.00,0.1,2014
+National Chiao Tung University,12646.00,0.05,2014
+National Tsing Hua University,10221.00,0.05,2014
+Norwegian University of Science and Technology,17381.00,0.09,2014
+Queen’s University Belfast,17940.00,0.3,2014
+Sharif University of Technology,10977.00,0,2014
+Swedish University of Agricultural Sciences,3879.00,,2014
+TU Dresden,35487.00,0.12,2014
+University of Cologne,43280.00,0.11,2014
+University of Essex,12695.00,0.39,2014
+University of Iceland,13960.00,0.08,2014
+University of Nebraska-Lincoln,21789.00,0.09,2014
+University of Newcastle,23508.00,0.18,2014
+University of Pavia,22958.00,0.06,2014
+University of South Carolina,29336.00,0.01,2014
+"University of the Andes, Colombia",15773.00,0.02,2014
+Vrije Universiteit Brussel,9020.00,0.16,2014
+Carleton University,25036.00,0.18,2014
+Chalmers University of Technology,8605.00,0.15,2014
+Colorado State University,26769.00,0.05,2014
+Creighton University,7086.00,0.02,2014
+Koç University,4488.00,0.08,2014
+Macquarie University,27930.00,0.44,2014
+Plymouth University,24121.00,0.13,2014
+Polytechnic University of Milan,30025.00,0.12,2014
+Queensland University of Technology,33391.00,0.17,2014
+Tokyo Medical and Dental University (TMDU),2872.00,0.07,2014
+University College Cork,15805.00,0.15,2014
+University of Alaska Fairbanks,3837.00,0.07,2014
+University of Bath,12830.00,0.3,2014
+University of Bologna,85532.00,0.07,2014
+University of Fribourg,10416.00,0.19,2014
+University of Georgia,33119.00,0.07,2014
+University of Kansas,,,2014
+University of Milan,58618.00,0.05,2014
+University of Montana,12470.00,0.03,2014
+University of South Florida,31424.00,0.1,2014
+University of Southern Denmark,22210.00,0.16,2014
+University of Wollongong,16489.00,0.24,2014
+Victoria University of Wellington,17142.00,0.21,2014
+Virginia Polytechnic Institute and State University,30850.00,0.1,2014
+York University,48007.00,0.09,2014
+Aalborg University,17422.00,0.15,2014
+Aalto University,16099.00,0.17,2014
+Aberystwyth University,9252.00,0.18,2014
+Autonomous University of Madrid,28296.00,0.15,2014
+Bangor University,9567.00,0.22,2014
+Bayreuth University,12520.00,0.08,2014
+Bielefeld University,21428.00,0.08,2014
+Claude Bernard University Lyon 1,35308.00,0.11,2014
+Deakin University,32713.00,0.17,2014
+Drexel University,20713.00,0.18,2014
+Heriot-Watt University,8773.00,0.43,2014
+Hokkaido University,18162.00,0.09,2014
+Hong Kong Baptist University,10441.00,0.25,2014
+Kansas State University,21379.00,0.1,2014
+Keele University,8397.00,0.2,2014
+King Mongkut’s University of Technology Thonburi,17791.00,0.01,2014
+Kyushu University,18925.00,0.08,2014
+Lehigh University,6300.00,0.15,2014
+Linköping University,17866.00,0.1,2014
+Murdoch University,16606.00,0.43,2014
+National Cheng Kung University,21234.00,0.11,2014
+National Sun Yat-Sen University,9336.00,0.04,2014
+"National University of Ireland, Galway",14067.00,0.14,2014
+Oregon State University,22578.00,0.09,2014
+Sapienza University of Rome,120986.00,0.07,2014
+Shanghai Jiao Tong University,38191.00,0.06,2014
+State University of Campinas,27095.00,0.03,2014
+State University of New York Albany,15387.00,0.08,2014
+Stellenbosch University,21849.00,0.08,2014
+Umeå University,16667.00,0.07,2014
+University of Canterbury,12187.00,0.2,2014
+University of Connecticut,25742.00,0.11,2014
+University of Crete,14650.00,0.05,2014
+University of Eastern Finland,10798.00,0.06,2014
+University of Hertfordshire,19665.00,0.27,2014
+University of Houston,40325.00,0.09,2014
+University of Liège,20951.00,0.23,2014
+University of Manitoba,28576.00,0.11,2014
+University of Missouri,29885.00,0.05,2014
+University of Padua,62577.00,0.04,2014
+University of Pisa,47247.00,0.04,2014
+University of Salento,19959.00,0.01,2014
+University of South Australia,18971.00,0.32,2014
+University of Tampere,10045.00,0.04,2014
+University of Technology Sydney,24519.00,0.31,2014
+University of Tsukuba,15930.00,0.16,2014
+University of Vermont,,,2014
+University of Waikato,10159.00,0.25,2014
+University of Warsaw,49292.00,0.07,2014
+Washington State University,24550.00,0.07,2014
+Wayne State University,23065.00,0.07,2014
+Wuhan University of Technology,50260.00,0.02,2014
+Zhejiang University,47508.00,0.05,2014
+Charles Darwin University,5570.00,0.15,2014
+Charles University in Prague,51438.00,0.15,2014
+"China Medical University, Taiwan",7983.00,0.08,2014
+George Mason University,26622.00,0.07,2014
+Hanyang University,16729.00,0.19,2014
+Indian Institute of Technology Delhi,8371.00,0.01,2014
+Indian Institute of Technology Kanpur,6167.00,0,2014
+Indian Institute of Technology Kharagpur,9928.00,0,2014
+Indian Institute of Technology Roorkee,8061.00,0.01,2014
+Johannes Kepler University of Linz,19646.00,0.1,2014
+King Abdulaziz University,35889.00,0.21,2014
+King Saud University,40666.00,0.07,2014
+Leibniz University of Hanover,22401.00,0.12,2014
+Liverpool John Moores University,18513.00,0.13,2014
+Loughborough University,13951.00,0.22,2014
+National Central University,10915.00,0.06,2014
+National Taiwan University of Science and Technology (Taiwan Tech),7446.00,0.11,2014
+"National University of Ireland, Maynooth",7653.00,0.11,2014
+Old Dominion University,,,2014
+Polytechnic University of Valencia,33172.00,0.07,2014
+Ruhr University Bochum,38675.00,0.13,2014
+San Diego State University,27420.00,0.05,2014
+Sun Yat-sen University,51351.00,0.08,2014
+Swinburne University of Technology,20314.00,0.33,2014
+Temple University,33268.00,0.05,2014
+UiT The Arctic University of Norway,10398.00,0.1,2014
+University of Bari Aldo Moro,51560.00,0.02,2014
+University of Duisburg-Essen,36051.00,0.11,2014
+University of Ferrara,18882.00,0.07,2014
+University of Florence,54290.00,0.07,2014
+University of Graz,20584.00,0.12,2014
+University of Guelph,21643.00,0.04,2014
+University of Jyväskylä,9703.00,0.05,2014
+"University of Maryland, Baltimore County",13908.00,0.07,2014
+University of Minho,19090.00,0.09,2014
+University of Navarra,11259.00,0.16,2014
+University of Oklahoma,,,2014
+University of Porto,32720.00,0.09,2014
+University of Portsmouth,20161.00,0.23,2014
+University of Rovira i Virgili,12533.00,0.09,2014
+University of Stirling,7828.00,0.22,2014
+University of Surrey,12063.00,0.38,2014
+University of Tartu,10269.00,0.03,2014
+University of Tasmania,18340.00,0.21,2014
+University of Valencia,58413.00,0.09,2014
+University of Vigo,22793.00,0.03,2014
+University of Wyoming,,,2014
+California Institute of Technology,2243.00,0.27,2015
+Harvard University,20152.00,0.25,2015
+University of Oxford,19919.00,0.34,2015
+Stanford University,15596.00,0.22,2015
+University of Cambridge,18812.00,0.34,2015
+Massachusetts Institute of Technology,11074.00,0.33,2015
+Princeton University,7929.00,0.27,2015
+"University of California, Berkeley",36186.00,0.15,2015
+Imperial College London,15060.00,0.51,2015
+Yale University,11751.00,0.2,2015
+University of Chicago,14221.00,0.21,2015
+"University of California, Los Angeles",38206.00,0.15,2015
+ETH Zurich – Swiss Federal Institute of Technology Zurich,18178.00,0.37,2015
+Columbia University,25055.00,0.28,2015
+Johns Hopkins University,15128.00,0.23,2015
+University of Pennsylvania,20376.00,0.2,2015
+University of Michigan,41786.00,0.16,2015
+Duke University,15172.00,0.17,2015
+Cornell University,21424.00,0.19,2015
+University of Toronto,66198.00,0.15,2015
+Northwestern University,18334.00,0.15,2015
+University College London,26607.00,0.46,2015
+University of Tokyo,26199.00,0.1,2015
+Carnegie Mellon University,11885.00,0.35,2015
+National University of Singapore,31592.00,0.34,2015
+University of Washington,44020.00,0.13,2015
+Georgia Institute of Technology,19967.00,0.26,2015
+University of Texas at Austin,49427.00,0.09,2015
+LMU Munich,35691.00,0.13,2015
+University of Illinois at Urbana-Champaign,42727.00,0.2,2015
+University of Wisconsin-Madison,39655.00,0.11,2015
+University of British Columbia,50152.00,0.25,2015
+University of Melbourne,40128.00,0.35,2015
+London School of Economics and Political Science,,,2015
+École Polytechnique Fédérale de Lausanne,9666.00,0.54,2015
+University of Edinburgh,25774.00,0.36,2015
+"University of California, Santa Barbara",22020.00,0.11,2015
+New York University,42056.00,0.19,2015
+McGill University,31326.00,0.23,2015
+King’s College London,21394.00,0.37,2015
+"University of California, San Diego",27233.00,0.11,2015
+Washington University in St Louis,12528.00,0.17,2015
+University of Hong Kong,19835.00,0.38,2015
+Karolinska Institute,7774.00,0.22,2015
+Australian National University,14604.00,0.35,2015
+University of Minnesota,46825.00,0.13,2015
+University of North Carolina at Chapel Hill,26518.00,0.08,2015
+Peking University,40148.00,0.14,2015
+Tsinghua University,39763.00,0.1,2015
+Seoul National University,26389.00,0.1,2015
+Hong Kong University of Science and Technology,11385.00,0.36,2015
+Korea Advanced Institute of Science and Technology (KAIST),9027.00,0.09,2015
+University of Manchester,34938.00,0.34,2015
+Brown University,8653.00,0.19,2015
+KU Leuven,42503.00,0.18,2015
+"University of California, Davis",35364.00,0.13,2015
+Boston University,24789.00,0.17,2015
+Pennsylvania State University,44501.00,0.12,2015
+Kyoto University,22809.00,0.07,2015
+University of Sydney,41868.00,0.28,2015
+Nanyang Technological University,25028.00,0.33,2015
+École Polytechnique,2429.00,0.3,2015
+Scuola Normale Superiore di Pisa,462.00,0.05,2015
+Leiden University,21222.00,0.1,2015
+The University of Queensland,34718.00,0.27,2015
+Pohang University of Science and Technology,3055.00,0.04,2015
+University of Göttingen,25581.00,0.12,2015
+Ohio State University,51462.00,0.12,2015
+Rice University,6333.00,0.26,2015
+Heidelberg University,28881.00,0.17,2015
+Delft University of Technology,15920.00,0.25,2015
+Erasmus University Rotterdam,20580.00,0.18,2015
+Wageningen University and Research Center,9248.00,0.21,2015
+University of Bristol,17906.00,0.25,2015
+University of Basel,12551.00,0.24,2015
+University of Southern California,36534.00,0.2,2015
+University of Amsterdam,24570.00,0.11,2015
+École Normale Supérieure,2400.00,0.2,2015
+Utrecht University,30779.00,0.07,2015
+Humboldt University of Berlin,29987.00,0.16,2015
+Free University of Berlin,33062.00,0.2,2015
+Michigan State University,44750.00,0.15,2015
+Durham University,15489.00,0.24,2015
+Monash University,50882.00,0.36,2015
+Middle East Technical University,25779.00,0.07,2015
+University of Arizona,36429.00,0.08,2015
+University of Notre Dame,11829.00,0.1,2015
+Tufts University,10410.00,0.14,2015
+"University of California, Irvine",26614.00,0.16,2015
+Ghent University,32166.00,0.09,2015
+University of Massachusetts,56959.00,0.11,2015
+University of Pittsburgh,26485.00,0.1,2015
+Emory University,12338.00,0.18,2015
+McMaster University,23823.00,0.15,2015
+University of Glasgow,22616.00,0.29,2015
+Vanderbilt University,12161.00,0.1,2015
+University of Colorado Boulder,29325.00,0.08,2015
+Stockholm University,31715.00,0.08,2015
+Technical University of Munich,35565.00,0.2,2015
+Uppsala University,25266.00,0.12,2015
+Maastricht University,15626.00,0.48,2015
+Purdue University,39256.00,0.22,2015
+Pierre and Marie Curie University,27862.00,0.18,2015
+University of Helsinki,23505.00,0.06,2015
+University of Warwick,18529.00,0.37,2015
+University of Zurich,26583.00,0.19,2015
+Queen Mary University of London,14260.00,0.4,2015
+University of Geneva,15668.00,0.39,2015
+"University of California, Santa Cruz",17404.00,0.01,2015
+University of New South Wales,38309.00,0.33,2015
+University of St Andrews,8338.00,0.47,2015
+University of Sussex,12001.00,0.35,2015
+University of Montreal,38264.00,0.25,2015
+University of Tübingen,28327.00,0.12,2015
+University of York,,,2015
+Case Western Reserve University,9259.00,0.17,2015
+University of Groningen,24556.00,0.12,2015
+"Royal Holloway, University of London",8747.00,0.37,2015
+Lund University,28251.00,0.15,2015
+Paris-Sud University,27603.00,0.17,2015
+Technical University of Denmark,9990.00,0.18,2015
+University of Rochester,9390.00,0.26,2015
+University of Sheffield,23311.00,0.31,2015
+University of Alberta,36299.00,0.23,2015
+University of Cape Town,20040.00,0.18,2015
+Boston College,13216.00,0.19,2015
+KTH Royal Institute of Technology,12062.00,0.21,2015
+University of Florida,50095.00,0.09,2015
+Chinese University of Hong Kong,17916.00,0.22,2015
+University of Virginia,23845.00,0.12,2015
+Lancaster University,11512.00,0.33,2015
+University of Bern,14708.00,0.14,2015
+"University of Maryland, College Park",31331.00,0.09,2015
+University of Southampton,20925.00,0.29,2015
+TU Dresden,35487.00,0.12,2015
+University of Lausanne,11964.00,0.22,2015
+VU University Amsterdam,23280.00,0.06,2015
+Trinity College Dublin,15521.00,0.25,2015
+Boğaziçi University,11506.00,0.07,2015
+Radboud University Nijmegen,17713.00,0.1,2015
+Colorado School of Mines,5287.00,0.12,2015
+Texas A&M University,50657.00,0.09,2015
+Tokyo Institute of Technology,9586.00,0.13,2015
+Eindhoven University of Technology,8176.00,0.14,2015
+"Rutgers, the State University of New Jersey",37032.00,0.08,2015
+University of Leeds,27703.00,0.21,2015
+Brandeis University,5495.00,0.22,2015
+Sungkyunkwan University (SKKU),24365.00,0.09,2015
+University of Birmingham,25295.00,0.23,2015
+Indiana University,62468.00,0.13,2015
+"University of California, Riverside",20626.00,0.12,2015
+Dartmouth College,6178.00,0.16,2015
+Aarhus University,23895.00,0.14,2015
+University of Exeter,17755.00,0.28,2015
+National Taiwan University,31891.00,0.07,2015
+RWTH Aachen University,37917.00,0.16,2015
+Osaka University,23144.00,0.09,2015
+University of Liverpool,18815.00,0.3,2015
+University of Western Australia,20851.00,0.27,2015
+University of Copenhagen,27545.00,0.19,2015
+École Normale Supérieure de Lyon,2218.00,0.14,2015
+University of Utah,25674.00,0.09,2015
+University of Freiburg,26467.00,0.16,2015
+University of Adelaide,20771.00,0.26,2015
+Istanbul Technical University,34550.00,0.05,2015
+Karlsruhe Institute of Technology,25294.00,0.16,2015
+Pompeu Fabra University,10901.00,0.13,2015
+Tohoku University,17200.00,0.07,2015
+University of Miami,15286.00,0.14,2015
+University of Antwerp,12346.00,0.16,2015
+University of Nottingham,30144.00,0.27,2015
+Université Catholique de Louvain,28856.00,0.19,2015
+Georgetown University,15408.00,0.14,2015
+University of Victoria,17581.00,0.11,2015
+University of Auckland,29787.00,0.28,2015
+University of Iowa,27526.00,0.11,2015
+Syracuse University,19660.00,0.15,2015
+Joseph Fourier University,16130.00,0.13,2015
+University of Aberdeen,12938.00,0.33,2015
+Paris Diderot University – Paris 7,27756.00,0.17,2015
+University of Delaware,19262.00,0.1,2015
+Arizona State University,83236.00,0.09,2015
+Sabancı University,2739.00,0.06,2015
+University of Vienna,34651.00,0.25,2015
+Northeastern University,18539.00,0.26,2015
+University of Oslo,27139.00,0.18,2015
+Yeshiva University,6753.00,0.07,2015
+Stony Brook University,21908.00,0.24,2015
+Tel Aviv University,23977.00,0.04,2015
+University of Ottawa,36733.00,0.15,2015
+University at Buffalo,25668.00,0.19,2015
+City University of Hong Kong,10015.00,0.28,2015
+Fudan University,32175.00,0.11,2015
+Iowa State University,29991.00,0.11,2015
+University of Bonn,32474.00,0.13,2015
+Lomonosov Moscow State University,30822.00,0.2,2015
+"St George’s, University of London",2958.00,0.17,2015
+University of East Anglia,14992.00,0.28,2015
+University of Leicester,14541.00,0.35,2015
+Florida Institute of Technology,4408.00,0.26,2015
+George Washington University,20541.00,0.16,2015
+Bilkent University,,,2015
+Cardiff University,23347.00,0.23,2015
+Goethe University Frankfurt,31861.00,0.15,2015
+Hebrew University of Jerusalem,17612.00,0.05,2015
+Hong Kong Polytechnic University,22064.00,0.26,2015
+Korea University,24043.00,0.14,2015
+Newcastle University,20174.00,0.29,2015
+Technion Israel Institute of Technology,13855.00,0.04,2015
+Ulm University,9187.00,0.1,2015
+University of Barcelona,47491.00,0.1,2015
+University of Bergen,11623.00,0.12,2015
+University of Dundee,11628.00,0.25,2015
+University of Illinois at Chicago,24313.00,0.17,2015
+University of Innsbruck,18209.00,0.39,2015
+University of Reading,12050.00,0.28,2015
+University of Science and Technology of China,14290.00,0.02,2015
+University of Strasbourg,46208.00,0.21,2015
+University of São Paulo,81402.00,0.04,2015
+University of Texas at Dallas,16306.00,0.23,2015
+University of Trieste,18135.00,0.09,2015
+University of Twente,6631.00,0.26,2015
+Université Libre de Bruxelles,23819.00,0.32,2015
+Wake Forest University,7326.00,0.05,2015
+William & Mary,7867.00,0.07,2015
+Yonsei University,24774.00,0.14,2015
+Autonomous University of Barcelona,30538.00,0.1,2015
+"Birkbeck, University of London",9454.00,0.38,2015
+Brunel University London,12613.00,0.38,2015
+Carleton University,25036.00,0.18,2015
+Dalhousie University,15064.00,0.18,2015
+Laval University,27227.00,0.12,2015
+Mines ParisTech,1283.00,0.22,2015
+Nagoya University,15529.00,0.1,2015
+Rensselaer Polytechnic Institute,6671.00,0.16,2015
+Simon Fraser University,26640.00,0.19,2015
+State University of New York Albany,15387.00,0.08,2015
+Technical University of Berlin,,,2015
+Tokyo Metropolitan University,9303.00,0.04,2015
+University College Dublin,22193.00,0.23,2015
+University of Calgary,28341.00,0.17,2015
+University of Gothenburg,26420.00,0.12,2015
+University of Kiel,24444.00,0.08,2015
+University of Konstanz,10930.00,0.12,2015
+University of Milan-Bicocca,33370.00,0.05,2015
+University of Technology Sydney,24519.00,0.31,2015
+University of Western Ontario,27387.00,0.16,2015
+University of Würzburg,26576.00,0.08,2015
+Vienna University of Technology,26419.00,0.27,2015
+York University,48007.00,0.09,2015
+Aalto University,16099.00,0.17,2015
+Federico Santa María Technical University,11718.00,0.02,2015
+Medical University of Vienna,7426.00,0.28,2015
+Nanjing University,29743.00,0.1,2015
+National Tsing Hua University,10221.00,0.05,2015
+"National University of Ireland, Galway",14067.00,0.14,2015
+Queen’s University,20488.00,0.1,2015
+Queen’s University Belfast,17940.00,0.3,2015
+Swedish University of Agricultural Sciences,3879.00,,2015
+Technical University of Darmstadt,20300.00,0.18,2015
+University of Bremen,18590.00,0.11,2015
+University of Hawai’i at Mānoa,,,2015
+University of Iceland,13960.00,0.08,2015
+University of Münster,39838.00,0.08,2015
+University of New Mexico,,,2015
+University of Newcastle,23508.00,0.18,2015
+University of Otago,18600.00,0.21,2015
+University of Pavia,22958.00,0.06,2015
+University of Salento,19959.00,0.01,2015
+University of South Florida,31424.00,0.1,2015
+"University of the Andes, Colombia",15773.00,0.02,2015
+University of the Witwatersrand,23321.00,0.09,2015
+University of Trento,16841.00,0.08,2015
+University of Turin,67552.00,0.06,2015
+University of Waterloo,30726.00,0.14,2015
+Chalmers University of Technology,8605.00,0.15,2015
+Colorado State University,26769.00,0.05,2015
+Indian Institute of Science,3318.00,0.01,2015
+Lappeenranta University of Technology,3486.00,0.19,2015
+Montpellier University,36731.00,0.14,2015
+National Chiao Tung University,12646.00,0.05,2015
+Norwegian University of Science and Technology,17381.00,0.09,2015
+Panjab University,16691.00,0.01,2015
+Plymouth University,24121.00,0.13,2015
+Queensland University of Technology,33391.00,0.17,2015
+Shanghai Jiao Tong University,38191.00,0.06,2015
+Stellenbosch University,21849.00,0.08,2015
+Tilburg University,7576.00,0.1,2015
+Tokyo Medical and Dental University (TMDU),2872.00,0.07,2015
+University College Cork,15805.00,0.15,2015
+University of Bologna,85532.00,0.07,2015
+University of Cincinnati,36108.00,0.06,2015
+University of Erlangen-Nuremberg,36146.00,0.09,2015
+University of Fribourg,10416.00,0.19,2015
+University of Georgia,33119.00,0.07,2015
+University of Macau,8521.00,0.31,2015
+University of Milan,58618.00,0.05,2015
+University of Nebraska-Lincoln,21789.00,0.09,2015
+University of South Australia,18971.00,0.32,2015
+University of South Carolina,29336.00,0.01,2015
+University of Wollongong,16489.00,0.24,2015
+Victoria University of Wellington,17142.00,0.21,2015
+Virginia Polytechnic Institute and State University,30850.00,0.1,2015
+Autonomous University of Madrid,28296.00,0.15,2015
+Bangor University,9567.00,0.22,2015
+Charles Darwin University,5570.00,0.15,2015
+Charles University in Prague,51438.00,0.15,2015
+Creighton University,7086.00,0.02,2015
+Deakin University,32713.00,0.17,2015
+Drexel University,20713.00,0.18,2015
+Hong Kong Baptist University,10441.00,0.25,2015
+Illinois Institute of Technology,,,2015
+Kansas State University,21379.00,0.1,2015
+Koç University,4488.00,0.08,2015
+Macquarie University,27930.00,0.44,2015
+Novosibirsk State University,7131.00,0.13,2015
+Oregon State University,22578.00,0.09,2015
+Polytechnic University of Milan,30025.00,0.12,2015
+Renmin University of China,24954.00,0.06,2015
+San Diego State University,27420.00,0.05,2015
+Sapienza University of Rome,120986.00,0.07,2015
+Sharif University of Technology,10977.00,0,2015
+State University of Campinas,27095.00,0.03,2015
+Sun Yat-sen University,51351.00,0.08,2015
+Tulane University,11381.00,0.08,2015
+University of Bath,12830.00,0.3,2015
+University of Canterbury,12187.00,0.2,2015
+University of Cologne,43280.00,0.11,2015
+University of Connecticut,25742.00,0.11,2015
+University of Crete,14650.00,0.05,2015
+University of Duisburg-Essen,36051.00,0.11,2015
+University of Essex,12695.00,0.39,2015
+University of Houston,40325.00,0.09,2015
+University of Jyväskylä,9703.00,0.05,2015
+University of Kansas,,,2015
+University of Manitoba,28576.00,0.11,2015
+University of Marrakech Cadi Ayyad,56060.00,0.01,2015
+University of Montana,12470.00,0.03,2015
+University of Nebraska Medical Center,2857.00,0.08,2015
+University of Oklahoma,,,2015
+University of Padua,62577.00,0.04,2015
+University of Pisa,47247.00,0.04,2015
+University of Southern Denmark,22210.00,0.16,2015
+University of Stirling,7828.00,0.22,2015
+University of Stuttgart,24099.00,0.2,2015
+University of Tampere,10045.00,0.04,2015
+University of Tsukuba,15930.00,0.16,2015
+University of Valencia,58413.00,0.09,2015
+University of Warsaw,49292.00,0.07,2015
+Wayne State University,23065.00,0.07,2015
+Zhejiang University,47508.00,0.05,2015
+Aalborg University,17422.00,0.15,2015
+Aberystwyth University,9252.00,0.18,2015
+Aston University,,,2015
+Bayreuth University,12520.00,0.08,2015
+Bielefeld University,21428.00,0.08,2015
+Claude Bernard University Lyon 1,35308.00,0.11,2015
+Curtin University,30333.00,0.38,2015
+Ewha Womans University,17625.00,0.06,2015
+George Mason University,26622.00,0.07,2015
+Hanyang University,16729.00,0.19,2015
+Hokkaido University,18162.00,0.09,2015
+Indian Institute of Technology Bombay,8327.00,0.01,2015
+Indian Institute of Technology Roorkee,8061.00,0.01,2015
+Isfahan University of Technology,10964.00,0.01,2015
+King Mongkut’s University of Technology Thonburi,17791.00,0.01,2015
+Kyushu University,18925.00,0.08,2015
+Lehigh University,6300.00,0.15,2015
+Linköping University,17866.00,0.1,2015
+Murdoch University,16606.00,0.43,2015
+National Cheng Kung University,21234.00,0.11,2015
+National Sun Yat-Sen University,9336.00,0.04,2015
+National Taiwan University of Science and Technology (Taiwan Tech),7446.00,0.11,2015
+Royal College of Surgeons in Ireland,2473.00,0.63,2015
+Ruhr University Bochum,38675.00,0.13,2015
+Swinburne University of Technology,20314.00,0.33,2015
+UiT The Arctic University of Norway,10398.00,0.1,2015
+Umeå University,16667.00,0.07,2015
+University of Bari Aldo Moro,51560.00,0.02,2015
+University of Eastern Finland,10798.00,0.06,2015
+University of Ferrara,18882.00,0.07,2015
+University of Florence,54290.00,0.07,2015
+University of Graz,20584.00,0.12,2015
+University of Hertfordshire,19665.00,0.27,2015
+University of Lisbon,47849.00,0.09,2015
+University of Liège,20951.00,0.23,2015
+University of Minho,19090.00,0.09,2015
+University of Missouri,29885.00,0.05,2015
+University of Navarra,11259.00,0.16,2015
+University of Portsmouth,20161.00,0.23,2015
+University of Rome III,36353.00,0.05,2015
+University of Seoul,10243.00,0.03,2015
+University of Turku,12326.00,0.05,2015
+University of Vermont,,,2015
+University of Waikato,10159.00,0.25,2015
+Vrije Universiteit Brussel,9020.00,0.16,2015
+Waseda University,52316.00,0.08,2015
+Washington State University,24550.00,0.07,2015
+Western Sydney University,30704.00,0.09,2015
+Wuhan University,46227.00,0.07,2015
+Wuhan University of Technology,50260.00,0.02,2015
+California Institute of Technology,2243.00,0.27,2016
+University of Oxford,19919.00,0.34,2016
+Stanford University,15596.00,0.22,2016
+University of Cambridge,18812.00,0.34,2016
+Massachusetts Institute of Technology,11074.00,0.33,2016
+Harvard University,20152.00,0.25,2016
+Princeton University,7929.00,0.27,2016
+Imperial College London,15060.00,0.51,2016
+ETH Zurich – Swiss Federal Institute of Technology Zurich,18178.00,0.37,2016
+University of Chicago,14221.00,0.21,2016
+Johns Hopkins University,15128.00,0.23,2016
+Yale University,11751.00,0.2,2016
+"University of California, Berkeley",36186.00,0.15,2016
+University College London,26607.00,0.46,2016
+Columbia University,25055.00,0.28,2016
+"University of California, Los Angeles",38206.00,0.15,2016
+University of Pennsylvania,20376.00,0.2,2016
+Cornell University,21424.00,0.19,2016
+University of Toronto,66198.00,0.15,2016
+Duke University,15172.00,0.17,2016
+University of Michigan,41786.00,0.16,2016
+Carnegie Mellon University,11885.00,0.35,2016
+London School of Economics and Political Science,,,2016
+University of Edinburgh,25774.00,0.36,2016
+Northwestern University,18334.00,0.15,2016
+National University of Singapore,31592.00,0.34,2016
+King’s College London,21394.00,0.37,2016
+Karolinska Institute,7774.00,0.22,2016
+LMU Munich,35691.00,0.13,2016
+New York University,42056.00,0.19,2016
+École Polytechnique Fédérale de Lausanne,9666.00,0.54,2016
+University of Washington,44020.00,0.13,2016
+University of Melbourne,40128.00,0.35,2016
+University of British Columbia,50152.00,0.25,2016
+KU Leuven,42503.00,0.18,2016
+University of Illinois at Urbana-Champaign,42727.00,0.2,2016
+Heidelberg University,28881.00,0.17,2016
+McGill University,31326.00,0.23,2016
+"University of California, San Diego",27233.00,0.11,2016
+"University of California, Santa Barbara",22020.00,0.11,2016
+Georgia Institute of Technology,19967.00,0.26,2016
+Peking University,40148.00,0.14,2016
+University of Tokyo,26199.00,0.1,2016
+"University of California, Davis",35364.00,0.13,2016
+University of Hong Kong,19835.00,0.38,2016
+University of Texas at Austin,49427.00,0.09,2016
+Tsinghua University,39763.00,0.1,2016
+Wageningen University and Research Center,9248.00,0.21,2016
+Humboldt University of Berlin,29987.00,0.16,2016
+University of Wisconsin-Madison,39655.00,0.11,2016
+Brown University,8653.00,0.19,2016
+Australian National University,14604.00,0.35,2016
+Technical University of Munich,35565.00,0.2,2016
+École Normale Supérieure,2400.00,0.2,2016
+Nanyang Technological University,25028.00,0.33,2016
+University of Manchester,34938.00,0.34,2016
+University of Sydney,41868.00,0.28,2016
+University of Amsterdam,24570.00,0.11,2016
+Hong Kong University of Science and Technology,11385.00,0.36,2016
+The University of Queensland,34718.00,0.27,2016
+Washington University in St Louis,12528.00,0.17,2016
+Utrecht University,30779.00,0.07,2016
+University of North Carolina at Chapel Hill,26518.00,0.08,2016
+Boston University,24789.00,0.17,2016
+Delft University of Technology,15920.00,0.25,2016
+University of Minnesota,46825.00,0.13,2016
+Leiden University,21222.00,0.1,2016
+University of Southern California,36534.00,0.2,2016
+University of Bristol,17906.00,0.25,2016
+Durham University,15489.00,0.24,2016
+Erasmus University Rotterdam,20580.00,0.18,2016
+Free University of Berlin,33062.00,0.2,2016
+Monash University,50882.00,0.36,2016
+University of Groningen,24556.00,0.12,2016
+Pennsylvania State University,44501.00,0.12,2016
+University of Glasgow,22616.00,0.29,2016
+University of Helsinki,23505.00,0.06,2016
+University of Tübingen,28327.00,0.12,2016
+University of Pittsburgh,26485.00,0.1,2016
+University of Warwick,18529.00,0.37,2016
+Uppsala University,25266.00,0.12,2016
+University of Copenhagen,27545.00,0.19,2016
+University of New South Wales,38309.00,0.33,2016
+University of Freiburg,26467.00,0.16,2016
+Seoul National University,26389.00,0.1,2016
+University of St Andrews,8338.00,0.47,2016
+Vanderbilt University,12161.00,0.1,2016
+Kyoto University,22809.00,0.07,2016
+Maastricht University,15626.00,0.48,2016
+Emory University,12338.00,0.18,2016
+Lund University,28251.00,0.15,2016
+Ohio State University,51462.00,0.12,2016
+University of Exeter,17755.00,0.28,2016
+University of Bonn,32474.00,0.13,2016
+Georgetown University,15408.00,0.14,2016
+McMaster University,23823.00,0.15,2016
+University of Sheffield,23311.00,0.31,2016
+Queen Mary University of London,14260.00,0.4,2016
+University of Göttingen,25581.00,0.12,2016
+Michigan State University,44750.00,0.15,2016
+University of Basel,12551.00,0.24,2016
+École Polytechnique,2429.00,0.3,2016
+Rice University,6333.00,0.26,2016
+Dartmouth College,6178.00,0.16,2016
+University of Zurich,26583.00,0.19,2016
+Aarhus University,23895.00,0.14,2016
+"University of California, Irvine",26614.00,0.16,2016
+University of Mannheim,11761.00,0.15,2016
+University of Notre Dame,11829.00,0.1,2016
+University of Western Australia,20851.00,0.27,2016
+RWTH Aachen University,37917.00,0.16,2016
+University of Southampton,20925.00,0.29,2016
+Scuola Normale Superiore di Pisa,462.00,0.05,2016
+University of Montreal,38264.00,0.25,2016
+Pierre and Marie Curie University,27862.00,0.18,2016
+Purdue University,39256.00,0.22,2016
+Pohang University of Science and Technology,3055.00,0.04,2016
+"University of Maryland, College Park",31331.00,0.09,2016
+Ghent University,32166.00,0.09,2016
+University of Birmingham,25295.00,0.23,2016
+University of Bern,14708.00,0.14,2016
+University of Cape Town,20040.00,0.18,2016
+University of Florida,50095.00,0.09,2016
+University of Erlangen-Nuremberg,36146.00,0.09,2016
+"Rutgers, the State University of New Jersey",37032.00,0.08,2016
+University of Münster,39838.00,0.08,2016
+Radboud University Nijmegen,17713.00,0.1,2016
+University of Colorado Boulder,29325.00,0.08,2016
+Tufts University,10410.00,0.14,2016
+"Royal Holloway, University of London",8747.00,0.37,2016
+Lancaster University,11512.00,0.33,2016
+University of Geneva,15668.00,0.39,2016
+University of York,,,2016
+Case Western Reserve University,9259.00,0.17,2016
+University of Leeds,27703.00,0.21,2016
+University of Oslo,27139.00,0.18,2016
+Stockholm University,31715.00,0.08,2016
+University of Alberta,36299.00,0.23,2016
+Chinese University of Hong Kong,17916.00,0.22,2016
+Karlsruhe Institute of Technology,25294.00,0.16,2016
+University of Sussex,12001.00,0.35,2016
+University of Massachusetts,56959.00,0.11,2016
+University of Vienna,34651.00,0.25,2016
+University of Nottingham,30144.00,0.27,2016
+"University of California, Santa Cruz",17404.00,0.01,2016
+University of Lausanne,11964.00,0.22,2016
+Autonomous University of Barcelona,30538.00,0.1,2016
+University of Virginia,23845.00,0.12,2016
+Korea Advanced Institute of Science and Technology (KAIST),9027.00,0.09,2016
+University of Adelaide,20771.00,0.26,2016
+University of East Anglia,14992.00,0.28,2016
+University of Twente,6631.00,0.26,2016
+Sungkyunkwan University (SKKU),24365.00,0.09,2016
+VU University Amsterdam,23280.00,0.06,2016
+KTH Royal Institute of Technology,12062.00,0.21,2016
+University of Cologne,43280.00,0.11,2016
+University of Liverpool,18815.00,0.3,2016
+TU Dresden,35487.00,0.12,2016
+University of Rochester,9390.00,0.26,2016
+Trinity College Dublin,15521.00,0.25,2016
+Lomonosov Moscow State University,30822.00,0.2,2016
+University of Miami,15286.00,0.14,2016
+University of Arizona,36429.00,0.08,2016
+Pompeu Fabra University,10901.00,0.13,2016
+University of Reading,12050.00,0.28,2016
+Yeshiva University,6753.00,0.07,2016
+"University of California, Riverside",20626.00,0.12,2016
+University of Leicester,14541.00,0.35,2016
+National Taiwan University,31891.00,0.07,2016
+Technical University of Denmark,9990.00,0.18,2016
+Université Catholique de Louvain,28856.00,0.19,2016
+University of Aberdeen,12938.00,0.33,2016
+University of Auckland,29787.00,0.28,2016
+University of Barcelona,47491.00,0.1,2016
+University of Konstanz,10930.00,0.12,2016
+Eindhoven University of Technology,8176.00,0.14,2016
+University College Dublin,22193.00,0.23,2016
+Hebrew University of Jerusalem,17612.00,0.05,2016
+University of Waterloo,30726.00,0.14,2016
+University of Gothenburg,26420.00,0.12,2016
+Scuola Superiore Sant’Anna,769.00,0.17,2016
+University of Bergen,11623.00,0.12,2016
+Cardiff University,23347.00,0.23,2016
+University of Utah,25674.00,0.09,2016
+Brandeis University,5495.00,0.22,2016
+University of Dundee,11628.00,0.25,2016
+University of Würzburg,26576.00,0.08,2016
+Paris-Sud University,27603.00,0.17,2016
+Arizona State University,83236.00,0.09,2016
+University of Antwerp,12346.00,0.16,2016
+Boston College,13216.00,0.19,2016
+Ulm University,9187.00,0.1,2016
+University of Luxembourg,5144.00,0.52,2016
+Texas A&M University,50657.00,0.09,2016
+Charité - Universitätsmedizin Berlin,6853.00,0.16,2016
+Newcastle University,20174.00,0.29,2016
+"St George’s, University of London",2958.00,0.17,2016
+University of Trento,16841.00,0.08,2016
+Paris Diderot University – Paris 7,27756.00,0.17,2016
+Queen’s University Belfast,17940.00,0.3,2016
+Aalborg University,17422.00,0.15,2016
+"Birkbeck, University of London",9454.00,0.38,2016
+University of Bologna,85532.00,0.07,2016
+University at Buffalo,25668.00,0.19,2016
+University of Calgary,28341.00,0.17,2016
+Chalmers University of Technology,8605.00,0.15,2016
+City University of Hong Kong,10015.00,0.28,2016
+Copenhagen Business School,18293.00,0.19,2016
+Dalhousie University,15064.00,0.18,2016
+University of Duisburg-Essen,36051.00,0.11,2016
+École Normale Supérieure de Lyon,2218.00,0.14,2016
+Florida State University,41226.00,0.07,2016
+University of Fribourg,10416.00,0.19,2016
+Fudan University,32175.00,0.11,2016
+George Washington University,20541.00,0.16,2016
+Goethe University Frankfurt,31861.00,0.15,2016
+University of Hawai’i at Mānoa,,,2016
+Hong Kong Polytechnic University,22064.00,0.26,2016
+University of Illinois at Chicago,24313.00,0.17,2016
+Indiana University,62468.00,0.13,2016
+University of Iowa,27526.00,0.11,2016
+Johannes Gutenberg University of Mainz,35609.00,0.1,2016
+Joseph Fourier University,16130.00,0.13,2016
+University of Kiel,24444.00,0.08,2016
+Laval University,27227.00,0.12,2016
+Medical University of Vienna,7426.00,0.28,2016
+Northeastern University,18539.00,0.26,2016
+Oregon Health and Science University,2838.00,0.03,2016
+University of Otago,18600.00,0.21,2016
+University of Ottawa,36733.00,0.15,2016
+Paris Descartes University,34691.00,0.15,2016
+Peter the Great St Petersburg Polytechnic University,17155.00,0.08,2016
+Polytechnic University of Milan,30025.00,0.12,2016
+Royal Veterinary College,1819.00,0.18,2016
+Rush University,1855.00,0.05,2016
+Sapienza University of Rome,120986.00,0.07,2016
+University of Science and Technology of China,14290.00,0.02,2016
+University of South Florida,31424.00,0.1,2016
+Stony Brook University,21908.00,0.24,2016
+University of Stuttgart,24099.00,0.2,2016
+Swedish University of Agricultural Sciences,3879.00,,2016
+Technical University of Darmstadt,20300.00,0.18,2016
+University of Technology Sydney,24519.00,0.31,2016
+Tel Aviv University,23977.00,0.04,2016
+University of Texas at Dallas,16306.00,0.23,2016
+Tilburg University,7576.00,0.1,2016
+Tohoku University,17200.00,0.07,2016
+Tokyo Institute of Technology,9586.00,0.13,2016
+University of Victoria,17581.00,0.11,2016
+Wake Forest University,7326.00,0.05,2016
+University of Western Ontario,27387.00,0.16,2016
+William & Mary,7867.00,0.07,2016
+University of the Witwatersrand,23321.00,0.09,2016
+Aalto University,16099.00,0.17,2016
+Aix-Marseille University,71749.00,0.13,2016
+University of Bath,12830.00,0.3,2016
+Bayreuth University,12520.00,0.08,2016
+Bielefeld University,21428.00,0.08,2016
+University of Bordeaux,51239.00,0.12,2016
+Charles Darwin University,5570.00,0.15,2016
+Colorado School of Mines,5287.00,0.12,2016
+Colorado State University,26769.00,0.05,2016
+University of Delaware,19262.00,0.1,2016
+Flinders University,15655.00,0.15,2016
+University of Georgia,33119.00,0.07,2016
+Griffith University,30251.00,0.21,2016
+University of Iceland,13960.00,0.08,2016
+Indian Institute of Science,3318.00,0.01,2016
+Iowa State University,29991.00,0.11,2016
+James Cook University,11713.00,0.11,2016
+Justus Liebig University Giessen,25682.00,0.09,2016
+King Abdulaziz University,35889.00,0.21,2016
+Koç University,4488.00,0.08,2016
+Korea University,24043.00,0.14,2016
+University of Liège,20951.00,0.23,2016
+Linköping University,17866.00,0.1,2016
+Nanjing University,29743.00,0.1,2016
+National Tsing Hua University,10221.00,0.05,2016
+"National University of Ireland, Galway",14067.00,0.14,2016
+University of Newcastle,23508.00,0.18,2016
+North Carolina State University,30533.00,0.11,2016
+Oregon State University,22578.00,0.09,2016
+Osaka University,23144.00,0.09,2016
+Queen’s University,20488.00,0.1,2016
+Queensland University of Technology,33391.00,0.17,2016
+Rensselaer Polytechnic Institute,6671.00,0.16,2016
+Royal College of Surgeons in Ireland,2473.00,0.63,2016
+Ruhr University Bochum,38675.00,0.13,2016
+Saint Louis University,11919.00,0.08,2016
+University of São Paulo,81402.00,0.04,2016
+Simon Fraser University,26640.00,0.19,2016
+University of Surrey,12063.00,0.38,2016
+Syracuse University,19660.00,0.15,2016
+University of Tasmania,18340.00,0.21,2016
+"University of Tennessee, Knoxville",24716.00,0.05,2016
+Tomsk Polytechnic University,11902.00,0.17,2016
+Tulane University,11381.00,0.08,2016
+Umeå University,16667.00,0.07,2016
+Vienna University of Technology,26419.00,0.27,2016
+Virginia Polytechnic Institute and State University,30850.00,0.1,2016
+University of Wollongong,16489.00,0.24,2016
+Zhejiang University,47508.00,0.05,2016
+Aberystwyth University,9252.00,0.18,2016
+University of Alaska Fairbanks,3837.00,0.07,2016
+Autonomous University of Madrid,28296.00,0.15,2016
+Bangor University,9567.00,0.22,2016
+University of Bremen,18590.00,0.11,2016
+University of Cincinnati,36108.00,0.06,2016
+University of Connecticut,25742.00,0.11,2016
+Deakin University,32713.00,0.17,2016
+University of Essex,12695.00,0.39,2016
+George Mason University,26622.00,0.07,2016
+University of Greifswald,10931.00,0.06,2016
+Gwangju Institute of Science and Technology,1394.00,0.08,2016
+University of Hohenheim,9163.00,0.13,2016
+University of Innsbruck,18209.00,0.39,2016
+Kazan Federal University,23321.00,0.06,2016
+University of Kent,17638.00,0.27,2016
+Leibniz University of Hanover,22401.00,0.12,2016
+Macquarie University,27930.00,0.44,2016
+Medical College of Wisconsin,1211.00,0.05,2016
+University of Milan,58618.00,0.05,2016
+University of Milan-Bicocca,33370.00,0.05,2016
+Montpellier University,36731.00,0.14,2016
+Nagoya University,15529.00,0.1,2016
+University of Naples Federico II,83653.00,0.01,2016
+National Chiao Tung University,12646.00,0.05,2016
+National Research Nuclear University MePhI,7801.00,0.07,2016
+National Taiwan University of Science and Technology (Taiwan Tech),7446.00,0.11,2016
+University of Navarra,11259.00,0.16,2016
+University of Nebraska-Lincoln,21789.00,0.09,2016
+Örebro University,8788.00,0.02,2016
+University of Oregon,24418.00,0.11,2016
+University of Padua,62577.00,0.04,2016
+University of Pavia,22958.00,0.06,2016
+Plymouth University,24121.00,0.13,2016
+Shanghai Jiao Tong University,38191.00,0.06,2016
+University of Southern Denmark,22210.00,0.16,2016
+Stellenbosch University,21849.00,0.08,2016
+University of Strasbourg,46208.00,0.21,2016
+Technical University of Dortmund,29143.00,0.1,2016
+Technion Israel Institute of Technology,13855.00,0.04,2016
+Toulouse 1 Capitole University,19011.00,0.19,2016
+University of Trieste,18135.00,0.09,2016
+University of Turin,67552.00,0.06,2016
+University of Turku,12326.00,0.05,2016
+Vrije Universiteit Brussel,9020.00,0.16,2016
+VŠB - Technical University of Ostrava,14991.00,0.05,2016
+Yonsei University,24774.00,0.14,2016
+York University,48007.00,0.09,2016
+Bilkent University,,,2016
+"Binghamton University, State University of New York",15799.00,0.14,2016
+University of Crete,14650.00,0.05,2016
+University of Cyprus,6880.00,0.08,2016
+Drexel University,20713.00,0.18,2016
+University of Eastern Finland,10798.00,0.06,2016
+University of Florence,54290.00,0.07,2016
+University of St Gallen,6848.00,0.34,2016
+Graz University of Technology,7542.00,0.16,2016
+University of Guelph,21643.00,0.04,2016
+Hanyang University,16729.00,0.19,2016
+Hong Kong Baptist University,10441.00,0.25,2016
+University of Houston,40325.00,0.09,2016
+Indian Institute of Technology Bombay,8327.00,0.01,2016
+Instituto Superior Técnico Lisboa,11778.00,0.09,2016
+University of Jyväskylä,9703.00,0.05,2016
+La Trobe University,22037.00,0.27,2016
+Loughborough University,13951.00,0.22,2016
+University of Manitoba,28576.00,0.11,2016
+University of Missouri,29885.00,0.05,2016
+University of Modena and Reggio Emilia,19693.00,0.06,2016
+University of Montana,12470.00,0.03,2016
+"National University of Ireland, Maynooth",7653.00,0.11,2016
+University of Nebraska Medical Center,2857.00,0.08,2016
+University of New Mexico,,,2016
+Norwegian University of Science and Technology,17381.00,0.09,2016
+University of Oulu,14056.00,0.06,2016
+Panthéon-Sorbonne University – Paris 1,42215.00,0.2,2016
+Polytechnic University of Turin,27709.00,0.16,2016
+University of Rome III,36353.00,0.05,2016
+Sabancı University,2739.00,0.06,2016
+San Diego State University,27420.00,0.05,2016
+University of South Australia,18971.00,0.32,2016
+University of South Carolina,29336.00,0.01,2016
+University of South Dakota,8003.00,0.02,2016
+State University of Campinas,27095.00,0.03,2016
+University of Stirling,7828.00,0.22,2016
+Sun Yat-sen University,51351.00,0.08,2016
+Swansea University,12801.00,0.2,2016
+Swinburne University of Technology,20314.00,0.33,2016
+University of Tartu,10269.00,0.03,2016
+Temple University,33268.00,0.05,2016
+University of Texas at San Antonio,27520.00,0.06,2016
+UiT The Arctic University of Norway,10398.00,0.1,2016
+Université Libre de Bruxelles,23819.00,0.32,2016
+Lille 2 University – Health and Law,26894.00,0.08,2016
+University College Cork,15805.00,0.15,2016
+Verona University,25250.00,0.07,2016
+Victoria University of Wellington,17142.00,0.21,2016
+Washington State University,24550.00,0.07,2016
+Wayne State University,23065.00,0.07,2016
+American University,11604.00,0.12,2016
+Aston University,,,2016
+University of Aveiro,10791.00,0.1,2016
+University of Bari Aldo Moro,51560.00,0.02,2016
+Bar-Ilan University,17503.00,0.05,2016
+Bournemouth University,14907.00,0.18,2016
+University of Brescia,14076.00,0.07,2016
+Brno University of Technology,23694.00,0.15,2016
+Brunel University London,12613.00,0.38,2016
+Ca’ Foscari University of Venice,19267.00,0.07,2016
+University of Cagliari,30638.00,0.01,2016
+University of Canterbury,12187.00,0.2,2016
+Catholic University of the Sacred Heart,30304.00,0.1,2016
+Charles University in Prague,51438.00,0.15,2016
+"China Medical University, Taiwan",7983.00,0.08,2016
+City University London,13053.00,0.5,2016
+Claude Bernard University Lyon 1,35308.00,0.11,2016
+University of Coimbra,22795.00,0.11,2016
+Complutense University of Madrid,86519.00,0.13,2016
+Concordia University,31017.00,0.27,2016
+Curtin University,30333.00,0.38,2016
+Dublin City University,8546.00,0.17,2016
+East China University of Science and Technology,27140.00,0.05,2016
+Ewha Womans University,17625.00,0.06,2016
+Federico Santa María Technical University,11718.00,0.02,2016
+University of Ferrara,18882.00,0.07,2016
+Florida International University,32566.00,0.07,2016
+University of Genoa,37373.00,0.09,2016
+Georgia State University,28534.00,0.05,2016
+University of Graz,20584.00,0.12,2016
+Heriot-Watt University,8773.00,0.43,2016
+Hokkaido University,18162.00,0.09,2016
+Howard University,10297.00,0.05,2016
+University of Hull,15141.00,0.2,2016
+University of Idaho,11641.00,0.06,2016
+Indian Institute of Technology Delhi,8371.00,0.01,2016
+Indian Institute of Technology Kharagpur,9928.00,0,2016
+Indian Institute of Technology Madras,8234.00,0.01,2016
+University of Ioannina,20825.00,0.04,2016
+Iran University of Science and Technology,10311.00,0,2016
+Johannes Kepler University of Linz,19646.00,0.1,2016
+University of Kaiserslautern,14184.00,0.14,2016
+Keele University,8397.00,0.2,2016
+University of KwaZulu-Natal,30572.00,0.06,2016
+Kyung Hee University,24356.00,0.14,2016
+Kyushu University,18925.00,0.08,2016
+Lehigh University,6300.00,0.15,2016
+Louisiana State University,28116.00,0.06,2016
+University of Macau,8521.00,0.31,2016
+Makerere University,37340.00,0.09,2016
+Marche Polytechnic University,16589.00,0.04,2016
+"University of Maryland, Baltimore County",13908.00,0.07,2016
+Murdoch University,16606.00,0.43,2016
+University of Nantes,33866.00,0.11,2016
+National and Kapodistrian University of Athens,63052.00,0.09,2016
+National Autonomous University of Mexico,137378.00,0.05,2016
+National Cheng Kung University,21234.00,0.11,2016
+National Institute of Applied Sciences of Lyon (INSA Lyon),6137.00,0.31,2016
+National Yang-Ming University,4496.00,0.02,2016
+University of Neuchâtel,4358.00,0.22,2016
+New University of Lisbon,18867.00,0.07,2016
+University of Nice Sophia Antipolis,27304.00,0.22,2016
+Novosibirsk State University,7131.00,0.13,2016
+The Open University,76683.00,0.09,2016
+Oxford Brookes University,14238.00,0.25,2016
+University of Palermo,43875.00,0.01,2016
+University of Parma,26937.00,0.07,2016
+University of Pisa,47247.00,0.04,2016
+Polytechnic University of Catalonia,22893.00,0.28,2016
+Pontifical Catholic University of Chile,25075.00,0.07,2016
+University of Porto,32720.00,0.09,2016
+University of Portsmouth,20161.00,0.23,2016
+RMIT University,29501.00,0.25,2016
+University of Rome II – Tor Vergata,33504.00,0.06,2016
+University of Rovira i Virgili,12533.00,0.09,2016
+Saint Petersburg State University,20836.00,0.07,2016
+University of Salento,19959.00,0.01,2016
+University of San Francisco,10788.00,0.17,2016
+University of Saskatchewan,19028.00,0.14,2016
+Sharif University of Technology,10977.00,0,2016
+University of Siena,18846.00,0.05,2016
+Southern Cross University,9026.00,0.15,2016
+State University of New York Albany,15387.00,0.08,2016
+University of Strathclyde,15705.00,0.2,2016
+University of Tampere,10045.00,0.04,2016
+Tampere University of Technology,6147.00,0.13,2016
+Tokyo Medical and Dental University (TMDU),2872.00,0.07,2016
+Tokyo Metropolitan University,9303.00,0.04,2016
+University of Tsukuba,15930.00,0.16,2016
+University of Ulsan,14037.00,0.03,2016
+Ulster University,19622.00,0.15,2016
+Université du Québec à Montréal,27046.00,0.09,2016
+Universiti Teknologi Malaysia,16270.00,0.13,2016
+University of Urbino Carlo Bo,13435.00,0.07,2016
+University of Valencia,58413.00,0.09,2016
+University of Waikato,10159.00,0.25,2016
+Western Sydney University,30704.00,0.09,2016
+Wuhan University,46227.00,0.07,2016
+Xiamen University,32921.00,0.05,2016
+American University of Beirut,7695.00,0.25,2016
+Amirkabir University of Technology,14080.00,0.01,2016
+"University of the Andes, Colombia",15773.00,0.02,2016
+University of Arkansas,22819.00,0.05,2016
+Auburn University,22386.00,0.04,2016
+Babeş-Bolyai University,37915.00,0.02,2016
+University of the Basque Country,46373.00,0.05,2016
+Bauman Moscow State Technical University,18808.00,0.04,2016
+Ben-Gurion University of the Negev,16695.00,0.02,2016
+Blaise Pascal University,15619.00,0.17,2016
+Boğaziçi University,11506.00,0.07,2016
+University of Burgundy,26612.00,0.11,2016
+University of Canberra,11221.00,0.24,2016
+Carleton University,25036.00,0.18,2016
+University of Catania,55859.00,0.01,2016
+Central Queensland University,11452.00,0.27,2016
+University of Chile,29207.00,0.03,2016
+China Agricultural University,19342.00,0.01,2016
+Chung-Ang University,13015.00,0.17,2016
+Czech Technical University in Prague,22751.00,,2016
+De Montfort University,16812.00,0.21,2016
+East China Normal University,29623.00,0.11,2016
+Edith Cowan University,27491.00,0.16,2016
+Federal University of Rio de Janeiro,52878.00,0.02,2016
+University of Granada,53476.00,0.06,2016
+University of Haifa,17758.00,0.01,2016
+Harbin Institute of Technology,31658.00,0.07,2016
+University of Hertfordshire,19665.00,0.27,2016
+Hiroshima University,14686.00,0.05,2016
+Huazhong University of Science and Technology,57242.00,0.04,2016
+Indian Institute of Technology Guwahati,4710.00,0.01,2016
+Indian Institute of Technology Kanpur,6167.00,0,2016
+Indian Institute of Technology Roorkee,8061.00,0.01,2016
+Isfahan University of Technology,10964.00,0.01,2016
+Istanbul Technical University,34550.00,0.05,2016
+Jadavpur University,10697.00,0,2016
+Kanazawa University,10546.00,0.05,2016
+Kansas State University,21379.00,0.1,2016
+Keio University,33751.00,0.05,2016
+Kent State University,23122.00,0.08,2016
+King Fahd University of Petroleum and Minerals,6898.00,0.2,2016
+King Saud University,40666.00,0.07,2016
+University of La Laguna,22422.00,0.05,2016
+Lappeenranta University of Technology,3486.00,0.19,2016
+University of Limerick,12212.00,0.13,2016
+University of Lisbon,47849.00,0.09,2016
+Liverpool John Moores University,18513.00,0.13,2016
+Mahidol University,27402.00,0.03,2016
+Manchester Metropolitan University,28037.00,0.14,2016
+University of Maribor,14531.00,0.04,2016
+Masaryk University,40898.00,0.17,2016
+Massey University,19101.00,0.15,2016
+Memorial University of Newfoundland,15464.00,0.1,2016
+Middle East Technical University,25779.00,0.07,2016
+University of Minho,19090.00,0.09,2016
+Missouri University of Science and Technology,7647.00,0.12,2016
+Montana State University,12331.00,0.04,2016
+Monterrey Institute of Technology and Higher Education,14353.00,0.12,2016
+National Central University,10915.00,0.06,2016
+National Sun Yat-Sen University,9336.00,0.04,2016
+National Taiwan Normal University,11072.00,0.19,2016
+National Technical University of Athens,14780.00,0.07,2016
+New Jersey Institute of Technology,10646.00,0.17,2016
+New Mexico State University,15035.00,0.07,2016
+University of North Carolina at Greensboro,16446.00,0.02,2016
+Oklahoma State University,21270.00,0.07,2016
+Osaka City University,8604.00,0.04,2016
+Otto von Guericke University of Magdeburg,14104.00,0.13,2016
+University of Oviedo,24210.00,0.05,2016
+Palacký University in Olomouc,18540.00,0.09,2016
+Panjab University,16691.00,0.01,2016
+Paris Dauphine University,9565.00,0.28,2016
+Pontifical Catholic University of Rio de Janeiro (PUC-Rio),14300.00,0.03,2016
+Portland State University,20398.00,0.08,2016
+University of Pretoria,37314.00,0.08,2016
+Pusan National University,24929.00,0.12,2016
+Quaid-i-azam University,12688.00,0,2016
+University of Regina,11550.00,0.12,2016
+Renmin University of China,24954.00,0.06,2016
+University of Rennes 1,22186.00,0.12,2016
+University of Salamanca,31035.00,0.12,2016
+University of Santiago de Compostela,29085.00,0.06,2016
+Semmelweis University,12920.00,0.25,2016
+University of Seville,64931.00,0.07,2016
+Université de Sherbrooke,13438.00,0.05,2016
+Soochow University,36465.00,0.02,2016
+South China University of Technology,41438.00,0.03,2016
+Tallinn University of Technology,14061.00,0.05,2016
+Tehran University of Medical Sciences,13912.00,0.01,2016
+University of Texas at Arlington,29396.00,0.1,2016
+Tianjin University,29693.00,0.01,2016
+Tokyo University of Agriculture and Technology,5865.00,0.05,2016
+University of Toledo,19465.00,0.09,2016
+Tongji University,37394.00,0.1,2016
+University of Tulsa,4597.00,0.25,2016
+United Arab Emirates University,9221.00,0.26,2016
+University of Warsaw,49292.00,0.07,2016
+University of Wisconsin-Milwaukee,22542.00,0.05,2016
+Xi’an Jiaotong University,29863.00,0.04,2016
+University of Zaragoza,31046.00,0.05,2016
+University of A Coruña,17062.00,0.02,2016
+Adam Mickiewicz University,40633.00,0.01,2016
+AGH University of Science and Technology,35569.00,0.01,2016
+Ajou University,12706.00,0.02,2016
+University of Alcalá,30812.00,0.18,2016
+Alexandria University,127431.00,0.01,2016
+Alexandru Ioan Cuza University,25724.00,0.05,2016
+Aligarh Muslim University,11197.00,0.02,2016
+American University of Sharjah,5226.00,0.82,2016
+Amrita University,17273.00,0.08,2016
+Anadolu University,379231.00,0.01,2016
+Andhra University,10407.00,0.03,2016
+University of Antioquia,38872.00,0.01,2016
+Aristotle University of Thessaloniki,46288.00,0.09,2016
+"Asia University, Taiwan",12119.00,0.03,2016
+Athens University of Economics and Business,13167.00,0.06,2016
+Auckland University of Technology,18981.00,0.38,2016
+Austral University of Chile,13794.00,0.01,2016
+Beijing Institute of Technology,,,2016
+Belarusian State University,29303.00,0.06,2016
+University of Belgrade,96968.00,0.05,2016
+"Birla Institute of Technology and Science, Pilani",11837.00,0,2016
+University of Bradford,11065.00,0.32,2016
+University of Brasília,45880.00,0.02,2016
+University of Brighton,16924.00,0.19,2016
+University of Bucharest,31806.00,0.02,2016
+Budapest University of Technology and Economics,22447.00,0.04,2016
+Cairo University,231941.00,0.03,2016
+University of Calcutta,18511.00,0,2016
+"California State University, Long Beach",29594.00,0.05,2016
+Capital Medical University,11506.00,0.03,2016
+University of Castilla-La Mancha,26381.00,0.03,2016
+University of Central Lancashire,18542.00,0.17,2016
+University of Cergy-Pontoise,17000.00,0.11,2016
+Chang Gung University,7506.00,0,2016
+Carlos III University of Madrid,15730.00,0.09,2016
+"University of Chemistry and Technology, Prague",4699.00,0.19,2016
+Chiang Mai University,35617.00,0.01,2016
+Chiba University,14554.00,0.05,2016
+China University of Geosciences (Wuhan),29483.00,0.03,2016
+China University of Petroleum (Beijing),14579.00,0.06,2016
+Chonbuk National University,23270.00,0.03,2016
+Chongqing University,43955.00,0.03,2016
+Chonnam National University,35779.00,0.03,2016
+Chulalongkorn University,38719.00,0.02,2016
+Chung Yuan Christian University,15020.00,0.03,2016
+Chungnam National University,18361.00,0.03,2016
+Clemson University,19198.00,0.08,2016
+Comenius University in Bratislava,20879.00,0.1,2016
+Coventry University,21934.00,0.35,2016
+Dalian University of Technology,34326.00,0.02,2016
+University of Debrecen,29714.00,0.13,2016
+University of Delhi,32567.00,0.01,2016
+University of Dhaka,62716.00,0.05,2016
+Dublin Institute of Technology,13839.00,0.25,2016
+Ehime University,8394.00,0.01,2016
+University of Electronic Science and Technology of China,21689.00,0,2016
+Eötvös Loránd University,28698.00,0.04,2016
+Erciyes University,28079.00,0.02,2016
+Federal University of Bahia,39861.00,0.01,2016
+Federal University of Minas Gerais,42612.00,0.01,2016
+Federal University of Paraná (UFPR),21850.00,0.01,2016
+Federal University of Rio Grande do Sul,38743.00,0.01,2016
+Federal University of Santa Catarina,26078.00,0.01,2016
+Federal University of São Carlos,18587.00,0,2016
+Federal University of Viçosa,13163.00,0.03,2016
+Federal University of Lavras,10350.00,0.02,2016
+Feng Chia University,20213.00,0.07,2016
+Florida Institute of Technology,4408.00,0.26,2016
+Fu Jen Catholic University,25951.00,0.04,2016
+Gdańsk University of Technology,25217.00,0.01,2016
+University of Ghana,37274.00,0.02,2016
+Gifu University,7318.00,0.04,2016
+Glasgow Caledonian University,13527.00,0.16,2016
+University of Greenwich,18096.00,0.32,2016
+Hacettepe University,39606.00,0.04,2016
+University of Huddersfield,15436.00,0.25,2016
+Hunan University,42756.00,0.02,2016
+University of Ibadan,26247.00,0.01,2016
+University of Indonesia,43565.00,0,2016
+Inha University,20353.00,0.03,2016
+I-Shou University,16263.00,0.1,2016
+Istanbul University,82096.00,0.06,2016
+Jagiellonian University,42835.00,0.05,2016
+Jilin University,65605.00,0.03,2016
+University of Jordan,35577.00,0.13,2016
+Jordan University of Science and Technology,24686.00,0.23,2016
+Juntendo University,3955.00,0.01,2016
+K.N. Toosi University of Technology,7146.00,0,2016
+Kaohsiung Medical University,7009.00,0.05,2016
+Khon Kaen University,39669.00,0.01,2016
+King Mongkut’s University of Technology Thonburi,17791.00,0.01,2016
+Kingston University,20778.00,0.34,2016
+Kinki University,31216.00,0.02,2016
+Kobe University,15885.00,0.06,2016
+Konkuk University,26483.00,0.06,2016
+Kumamoto University,10226.00,0.05,2016
+Kyungpook National University,27152.00,0.04,2016
+Kyushu Institute of Technology,5890.00,0.04,2016
+University of Latvia,15100.00,0.03,2016
+Lille 1 University – Science and Technology,19599.00,0.18,2016
+University of Lincoln,10665.00,0.11,2016
+University of Ljubljana,48821.00,0.04,2016
+University of Marrakech Cadi Ayyad,56060.00,0.01,2016
+Miami University,16370.00,0.07,2016
+Middlesex University,17753.00,0.44,2016
+Moscow Institute of Physics and Technology,5395.00,0.12,2016
+University of Murcia,31460.00,0.06,2016
+Nagasaki University,9137.00,0.04,2016
+University of Nairobi,72676.00,0.01,2016
+National Chengchi University,16867.00,0.1,2016
+National Chung Cheng University,11989.00,0.01,2016
+National Chung Hsing University,15632.00,0.04,2016
+National Taipei University of Technology,10227.00,0.03,2016
+National Taiwan Ocean University,8240.00,0.05,2016
+National University of Córdoba,108373.00,0.02,2016
+National University of Science and Technology (MISiS),4441.00,0.13,2016
+National University of Sciences and Technology,9808.00,0.03,2016
+Niigata University,12460.00,0.03,2016
+Northumbria University,22750.00,0.16,2016
+Northwestern Polytechnical University,23056.00,0.03,2016
+Nottingham Trent University,21852.00,0.18,2016
+Oakland University,14584.00,0.02,2016
+Ocean University of China,36205.00,0.01,2016
+Ohio University,22224.00,0.1,2016
+Okayama University,13035.00,0.03,2016
+Osaka Prefecture University,8051.00,0.03,2016
+University of Pardubice,10671.00,0.04,2016
+University of Paris North – Paris 13,23026.00,0.22,2016
+Paris-Sorbonne University – Paris 4,21580.00,0.21,2016
+University of Patras,29251.00,0.04,2016
+University of Pécs,21819.00,0.1,2016
+Polytechnic University of Valencia,33172.00,0.07,2016
+Pontifical Catholic University of Paraná,7741.00,0.02,2016
+Pontifical Catholic University of Rio Grande do Sul (PUCRS),14797.00,0,2016
+Pontifical Catholic University of Valparaíso,13493.00,0,2016
+Prince of Songkla University,38274.00,0.01,2016
+Qatar University,9583.00,0.42,2016
+Rio de Janeiro State University (UERJ),28757.00,0,2016
+Rochester Institute of Technology,12965.00,0.13,2016
+Saitama University,7469.00,0.02,2016
+University of Salford,16152.00,0.25,2016
+"University of Santiago, Chile (USACH)",22739.00,0.01,2016
+São Paulo State University (UNESP),50594.00,0.05,2016
+Savitribai Phule Pune University,4858.00,0.03,2016
+University of Science and Technology Beijing,22780.00,0.04,2016
+Sejong University,11704.00,0.03,2016
+University of Seoul,10243.00,0.03,2016
+Shahid Beheshti University,17800.00,0.01,2016
+Shanghai University,46044.00,0.03,2016
+Shantou University,9593.00,0,2016
+Sheffield Hallam University,27477.00,0.15,2016
+Shinshu University,11232.00,0.03,2016
+Showa University,3675.00,0,2016
+Sichuan University,65035.00,0.02,2016
+University of Silesia in Katowice,32764.00,0.01,2016
+Slovak University of Technology in Bratislava,16400.00,0.02,2016
+Sogang University,10625.00,0.07,2016
+Sophia University,12799.00,0.08,2016
+University of South Africa,197102.00,0.09,2016
+Southern Federal University,27556.00,0.03,2016
+University of Southern Mississippi,14569.00,0.03,2016
+University of Southern Queensland,13761.00,0.21,2016
+Suez Canal University,16817.00,,2016
+Sultan Qaboos University,7089.00,0.03,2016
+Suranaree University of Technology,12650.00,0.01,2016
+University of Szeged,22684.00,0.09,2016
+Taipei Medical University,6001.00,0.06,2016
+Taras Shevchenko National University of Kyiv,22686.00,0.02,2016
+Technical University of Madrid,41500.00,0.11,2016
+University of Tehran,53802.00,0.01,2016
+University of Texas at El Paso,19123.00,0.07,2016
+Texas Tech University,29512.00,0.07,2016
+Tokai University,29700.00,0.01,2016
+Tokushima University,7519.00,0.03,2016
+Tokyo University of Marine Science and Technology,2597.00,0.07,2016
+Tokyo University of Science,20243.00,0.02,2016
+Tomsk State University,10413.00,0.12,2016
+Tottori University,6248.00,0.02,2016
+Toyohashi University of Technology,2153.00,0.09,2016
+Universiti Kebangsaan Malaysia,24227.00,0.12,2016
+Universiti Putra Malaysia,23883.00,0.16,2016
+Universiti Sains Malaysia,28179.00,0.1,2016
+Universiti Teknologi MARA,69268.00,0,2016
+Ural Federal University,28427.00,0.03,2016
+V.N. Karazin Kharkiv National University,14410.00,0.22,2016
+University of Vigo,22793.00,0.03,2016
+Vilnius University,19019.00,0.04,2016
+Warsaw University of Technology,34572.00,0.03,2016
+Waseda University,52316.00,0.08,2016
+University of West Bohemia,15639.00,0.02,2016
+University of the West of England,22525.00,0.15,2016
+West University of Timişoara,12933.00,0.03,2016
+University of Westminster,16609.00,0.43,2016
+Xidian University,31618.00,0.02,2016
+Yeungnam University,21958.00,0.03,2016
+Yıldız Technical University,31268.00,0.02,2016
+Yokohama City University,4122.00,0.03,2016
+Yokohama National University,10117.00,0.08,2016
+Yuan Ze University,8663.00,0.04,2016

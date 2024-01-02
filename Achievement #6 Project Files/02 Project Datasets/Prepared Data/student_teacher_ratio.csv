@@ -1,0 +1,2604 @@
+institution,student_staff_ratio,year
+Harvard University,8.9,2011
+California Institute of Technology,6.9,2011
+Massachusetts Institute of Technology,9,2011
+Stanford University,7.8,2011
+Princeton University,8.4,2011
+University of Cambridge,11.8,2011
+University of Oxford,11.6,2011
+"University of California, Berkeley",16.4,2011
+Imperial College London,11.7,2011
+Yale University,4.4,2011
+"University of California, Los Angeles",10.3,2011
+University of Chicago,6.9,2011
+Johns Hopkins University,3.6,2011
+Cornell University,10.2,2011
+ETH Zurich – Swiss Federal Institute of Technology Zurich,14.7,2011
+University of Michigan,9,2011
+University of Toronto,19.5,2011
+Columbia University,5.9,2011
+University of Pennsylvania,6.5,2011
+Carnegie Mellon University,13.1,2011
+University of Hong Kong,17.6,2011
+University College London,10.7,2011
+University of Washington,11.8,2011
+Duke University,4.8,2011
+Northwestern University,13.8,2011
+University of Tokyo,5.7,2011
+Georgia Institute of Technology,20.1,2011
+Pohang University of Science and Technology,10.1,2011
+"University of California, Santa Barbara",27.3,2011
+University of British Columbia,17.6,2011
+University of North Carolina at Chapel Hill,7.3,2011
+"University of California, San Diego",6.5,2011
+University of Illinois at Urbana-Champaign,18.7,2011
+National University of Singapore,15.5,2011
+McGill University,13.7,2011
+University of Melbourne,23.7,2011
+Peking University,8.3,2011
+Washington University in St Louis,5.7,2011
+École Polytechnique,4.8,2011
+University of Edinburgh,14.1,2011
+Hong Kong University of Science and Technology,23.8,2011
+École Normale Supérieure,7.9,2011
+Australian National University,19.2,2011
+Karolinska Institute,11.5,2011
+University of Göttingen,25.6,2011
+University of Wisconsin,,2011
+Rice University,9,2011
+École Polytechnique Fédérale de Lausanne,10.5,2011
+"University of California, Irvine",16.1,2011
+University of Science and Technology of China,7.9,2011
+Vanderbilt University,3.6,2011
+University of Minnesota,18,2011
+Tufts University,10,2011
+"University of California, Davis",13.9,2011
+Brown University,10.1,2011
+University of Massachusetts,13,2011
+Kyoto University,5.6,2011
+Tsinghua University,13.7,2011
+Boston University,8.6,2011
+New York University,6.8,2011
+Emory University,4.5,2011
+LMU Munich,15.5,2011
+University of Notre Dame,13.8,2011
+University of Pittsburgh,5.8,2011
+Case Western Reserve University,6.4,2011
+Ohio State University,13.4,2011
+University of Colorado Boulder,16.1,2011
+University of Bristol,14,2011
+"University of California, Santa Cruz",22.7,2011
+Yeshiva University,5.5,2011
+University of Sydney,20.2,2011
+University of Virginia,10.2,2011
+University of Adelaide,30.1,2011
+University of Southern California,12.9,2011
+William & Mary,11.8,2011
+Trinity College Dublin,18,2011
+King’s College London,11.4,2011
+Stony Brook University,10.9,2011
+Korea Advanced Institute of Science and Technology (KAIST),10,2011
+University of Sussex,17.4,2011
+The University of Queensland,32.7,2011
+University of York,,2011
+Heidelberg University,24.5,2011
+University of Utah,16.9,2011
+Durham University,15.7,2011
+London School of Economics and Political Science,,2011
+University of Manchester,15.3,2011
+"Royal Holloway, University of London",15.9,2011
+Lund University,11.5,2011
+University of Southampton,13.5,2011
+University of Zurich,6.5,2011
+Wake Forest University,4.6,2011
+McMaster University,19.3,2011
+University College Dublin,24.5,2011
+George Washington University,12,2011
+University of Arizona,12.7,2011
+University of Basel,17.3,2011
+"University of Maryland, College Park",8.4,2011
+Dartmouth College,6.6,2011
+École Normale Supérieure de Lyon,8,2011
+Technical University of Munich,31.5,2011
+University of Helsinki,15.1,2011
+University of St Andrews,12.7,2011
+Rensselaer Polytechnic Institute,15,2011
+"Rutgers, the State University of New Jersey",17.3,2011
+Purdue University,18.1,2011
+National Tsing Hua University,13.5,2011
+University of Cape Town,12.1,2011
+Pennsylvania State University,12.4,2011
+Seoul National University,13.9,2011
+Hong Kong Baptist University,11,2011
+Bilkent University,,2011
+Tokyo Institute of Technology,7.3,2011
+Eindhoven University of Technology,16,2011
+National Taiwan University,11.9,2011
+University of Hawai’i at Mānoa,,2011
+"University of California, Riverside",22,2011
+University of Geneva,15,2011
+KU Leuven,41.9,2011
+Nanjing University,13.3,2011
+Queen Mary University of London,14,2011
+Michigan State University,15.7,2011
+Technical University of Denmark,5,2011
+Ghent University,34.1,2011
+Lancaster University,14.9,2011
+Leiden University,17.1,2011
+University of Alberta,21.6,2011
+University of Glasgow,16,2011
+Stockholm University,23.7,2011
+Osaka University,7.8,2011
+University of Victoria,21.5,2011
+Tohoku University,5,2011
+University of Freiburg,31.2,2011
+University of Iowa,11.6,2011
+University of Bergen,11.1,2011
+University of Lausanne,13.1,2011
+University of Sheffield,15.5,2011
+University of Montreal,20.3,2011
+VU University Amsterdam,16.3,2011
+Pierre and Marie Curie University,8.7,2011
+University of Dundee,15.3,2011
+University of Barcelona,12.2,2011
+Utrecht University,15.4,2011
+Wageningen University and Research Center,17,2011
+University of Auckland,18.9,2011
+University of Birmingham,16.4,2011
+Alexandria University,23.3,2011
+Uppsala University,18.2,2011
+Hong Kong Polytechnic University,25.9,2011
+University of Aberdeen,15.8,2011
+Delft University of Technology,19.4,2011
+"Birkbeck, University of London",17.2,2011
+Newcastle University,15.2,2011
+University of New South Wales,25.9,2011
+Pompeu Fabra University,18.3,2011
+Indiana University,13.6,2011
+Iowa State University,17.4,2011
+Georgia Health Sciences University,,2011
+Erasmus University Rotterdam,18.9,2011
+University of Delaware,15.9,2011
+Arizona State University,29.9,2011
+Boston College,17.4,2011
+National Sun Yat-Sen University,19.6,2011
+Georgetown University,8.5,2011
+University of Amsterdam,14.4,2011
+University of Liverpool,13.6,2011
+Aarhus University,13.6,2011
+University of Leeds,14.7,2011
+University of Würzburg,38.4,2011
+University of Groningen,25.6,2011
+Sun Yat-sen University,16.6,2011
+Goethe University Frankfurt,9.3,2011
+Bielefeld University,67.8,2011
+Nanyang Technological University,16.2,2011
+University of East Anglia,14.7,2011
+University of Nottingham,15,2011
+University of Copenhagen,4.1,2011
+Humboldt University of Berlin,52.5,2011
+Monash University,40.5,2011
+University of Bonn,70.4,2011
+National Chiao Tung University,16.6,2011
+RWTH Aachen University,27.6,2011
+Middle East Technical University,22.2,2011
+University of Exeter,18.8,2011
+University of Twente,12,2011
+University of Konstanz,59.1,2011
+Karlsruhe Institute of Technology,24.6,2011
+University of Innsbruck,16.9,2011
+University of Tübingen,38.9,2011
+Drexel University,10.8,2011
+University of Cincinnati,15.7,2011
+Yonsei University,11.6,2011
+Dalhousie University,14.4,2011
+KTH Royal Institute of Technology,14.6,2011
+University of Vienna,20.5,2011
+Kent State University,19,2011
+University of Illinois at Chicago,9.2,2011
+Zhejiang University,15.9,2011
+Simon Fraser University,28.3,2011
+Swedish University of Agricultural Sciences,4.6,2011
+California Institute of Technology,6.9,2012
+Harvard University,8.9,2012
+Stanford University,7.8,2012
+University of Oxford,11.6,2012
+Princeton University,8.4,2012
+University of Cambridge,11.8,2012
+Massachusetts Institute of Technology,9,2012
+Imperial College London,11.7,2012
+University of Chicago,6.9,2012
+"University of California, Berkeley",16.4,2012
+Yale University,4.4,2012
+Columbia University,5.9,2012
+"University of California, Los Angeles",10.3,2012
+Johns Hopkins University,3.6,2012
+ETH Zurich – Swiss Federal Institute of Technology Zurich,14.7,2012
+University of Pennsylvania,6.5,2012
+University College London,10.7,2012
+University of Michigan,9,2012
+University of Toronto,19.5,2012
+Cornell University,10.2,2012
+Carnegie Mellon University,13.1,2012
+Duke University,4.8,2012
+University of British Columbia,17.6,2012
+Georgia Institute of Technology,20.1,2012
+University of Washington,11.8,2012
+Northwestern University,13.8,2012
+University of Wisconsin-Madison,10.8,2012
+McGill University,13.7,2012
+University of Texas at Austin,17.4,2012
+University of Tokyo,5.7,2012
+University of Illinois at Urbana-Champaign,18.7,2012
+Karolinska Institute,11.5,2012
+"University of California, San Diego",6.5,2012
+University of Hong Kong,17.6,2012
+"University of California, Santa Barbara",27.3,2012
+University of Edinburgh,14.1,2012
+University of Melbourne,23.7,2012
+Australian National University,19.2,2012
+"University of California, Davis",13.9,2012
+National University of Singapore,15.5,2012
+Washington University in St Louis,5.7,2012
+University of Minnesota,18,2012
+University of North Carolina at Chapel Hill,7.3,2012
+New York University,6.8,2012
+LMU Munich,15.5,2012
+École Polytechnique Fédérale de Lausanne,10.5,2012
+London School of Economics and Political Science,,2012
+University of Manchester,15.3,2012
+Brown University,10.1,2012
+Peking University,8.3,2012
+Pennsylvania State University,12.4,2012
+Kyoto University,5.6,2012
+Pohang University of Science and Technology,10.1,2012
+Boston University,8.6,2012
+University of Southern California,12.9,2012
+King’s College London,11.4,2012
+Ohio State University,13.4,2012
+University of Sydney,20.2,2012
+University of Pittsburgh,5.8,2012
+École Normale Supérieure,7.9,2012
+University of Zurich,6.5,2012
+Hong Kong University of Science and Technology,23.8,2012
+École Polytechnique,4.8,2012
+University of Massachusetts,13,2012
+McMaster University,19.3,2012
+University of Bristol,14,2012
+KU Leuven,41.9,2012
+Utrecht University,15.4,2012
+University of Göttingen,25.6,2012
+Vanderbilt University,3.6,2012
+Tsinghua University,13.7,2012
+Rice University,9,2012
+Heidelberg University,24.5,2012
+The University of Queensland,32.7,2012
+Emory University,4.5,2012
+Wageningen University and Research Center,17,2012
+Tufts University,10,2012
+University of Colorado Boulder,16.1,2012
+Leiden University,17.1,2012
+Lund University,11.5,2012
+"Rutgers, the State University of New Jersey",17.3,2012
+University of Rochester,4.5,2012
+Durham University,15.7,2012
+Pierre and Marie Curie University,8.7,2012
+University of St Andrews,12.7,2012
+"University of California, Irvine",16.1,2012
+Uppsala University,18.2,2012
+Technical University of Munich,31.5,2012
+University of Notre Dame,13.8,2012
+Dartmouth College,6.6,2012
+University of Helsinki,15.1,2012
+University of Amsterdam,14.4,2012
+Case Western Reserve University,6.4,2012
+Korea Advanced Institute of Science and Technology (KAIST),10,2012
+"University of Maryland, College Park",8.4,2012
+Michigan State University,15.7,2012
+University of Arizona,12.7,2012
+Purdue University,18.1,2012
+University of Sussex,17.4,2012
+University of Alberta,21.6,2012
+University of Sheffield,15.5,2012
+University of Glasgow,16,2012
+University of Cape Town,12.1,2012
+Delft University of Technology,19.4,2012
+University of Montreal,20.3,2012
+Ghent University,34.1,2012
+"Royal Holloway, University of London",15.9,2012
+Tokyo Institute of Technology,7.3,2012
+Humboldt University of Berlin,52.5,2012
+"University of California, Santa Cruz",22.7,2012
+University of Basel,17.3,2012
+University of Bern,22.5,2012
+University of Utah,16.9,2012
+Stony Brook University,10.9,2012
+Eindhoven University of Technology,16,2012
+University of Lausanne,13.1,2012
+Monash University,40.5,2012
+Trinity College Dublin,18,2012
+Osaka University,7.8,2012
+Tohoku University,5,2012
+Hebrew University of Jerusalem,10.7,2012
+University of York,,2012
+Indiana University,13.6,2012
+Seoul National University,13.9,2012
+Aarhus University,13.6,2012
+University of Florida,18.7,2012
+Arizona State University,29.9,2012
+Queen Mary University of London,14,2012
+University of Southampton,13.5,2012
+University of Geneva,15,2012
+Lancaster University,14.9,2012
+Stockholm University,23.7,2012
+University of Leeds,14.7,2012
+University of Groningen,25.6,2012
+George Washington University,12,2012
+University of Copenhagen,4.1,2012
+University of Virginia,10.2,2012
+Georgetown University,8.5,2012
+University of Vienna,20.5,2012
+University of Nottingham,15,2012
+University of Iowa,11.6,2012
+École Normale Supérieure de Lyon,8,2012
+"University of California, Riverside",22,2012
+Rensselaer Polytechnic Institute,15,2012
+University of East Anglia,14.7,2012
+Newcastle University,15.2,2012
+William & Mary,11.8,2012
+University of Birmingham,16.4,2012
+"Birkbeck, University of London",17.2,2012
+Brandeis University,12.6,2012
+Chinese University of Hong Kong,10.2,2012
+Free University of Berlin,39.3,2012
+University of Aberdeen,15.8,2012
+National Taiwan University,11.9,2012
+Yeshiva University,5.5,2012
+University of Exeter,18.8,2012
+Erasmus University Rotterdam,18.9,2012
+University of Warwick,16.6,2012
+Radboud University Nijmegen,13,2012
+University College Dublin,24.5,2012
+VU University Amsterdam,16.3,2012
+Medical University of South Carolina,,2012
+Wake Forest University,4.6,2012
+Texas A&M University,21.4,2012
+University of Reading,14.8,2012
+Tel Aviv University,24.4,2012
+University of Illinois at Chicago,9.2,2012
+RWTH Aachen University,27.6,2012
+Nanyang Technological University,16.2,2012
+Paris Diderot University – Paris 7,14.8,2012
+Université Catholique de Louvain,42,2012
+University of Miami,5.7,2012
+Queen’s University,22.1,2012
+University of Auckland,18.9,2012
+University of New South Wales,25.9,2012
+University of Dundee,15.3,2012
+University of Victoria,21.5,2012
+Technical University of Denmark,5,2012
+University of São Paulo,14.6,2012
+University of Delaware,15.9,2012
+Goethe University Frankfurt,9.3,2012
+University of Liverpool,13.6,2012
+University of Oslo,18.8,2012
+Iowa State University,17.4,2012
+University of Ottawa,26.3,2012
+Pompeu Fabra University,18.3,2012
+KTH Royal Institute of Technology,14.6,2012
+University of Tübingen,38.9,2012
+University of Freiburg,31.2,2012
+University of Western Australia,20.7,2012
+University of Bergen,11.1,2012
+University of Science and Technology of China,7.9,2012
+City University of Hong Kong,7.1,2012
+University of Konstanz,59.1,2012
+Boston College,17.4,2012
+Karlsruhe Institute of Technology,24.6,2012
+Georgia Health Sciences University,,2012
+Maastricht University,18.9,2012
+University of Leicester,13.4,2012
+University of Twente,12,2012
+Autonomous University of Barcelona,12.3,2012
+Bilkent University,,2012
+Cardiff University,13.1,2012
+Colorado School of Mines,18.2,2012
+Nagoya University,7.9,2012
+National Tsing Hua University,13.5,2012
+Northeastern University,15.1,2012
+Technion Israel Institute of Technology,19.4,2012
+Tulane University,8.4,2012
+Ulm University,11.2,2012
+Umeå University,11.9,2012
+University at Buffalo,19,2012
+University of Adelaide,30.1,2012
+University of Barcelona,12.2,2012
+University of Cincinnati,15.7,2012
+University of Essex,19.8,2012
+University of Georgia,19.9,2012
+University of Gothenburg,16.4,2012
+University of Innsbruck,16.9,2012
+University of Medicine and Dentistry of New Jersey,,2012
+University of Otago,20.3,2012
+University of South Carolina,16.3,2012
+University of Strasbourg,17.8,2012
+University of Waterloo,24.2,2012
+University of Western Ontario,20.7,2012
+University of Würzburg,38.4,2012
+Université Libre de Bruxelles,26.1,2012
+Carleton University,29.8,2012
+Chalmers University of Technology,11.6,2012
+Colorado State University,19,2012
+Creighton University,8.3,2012
+Dalhousie University,14.4,2012
+Drexel University,10.8,2012
+Fudan University,12.2,2012
+Korea University,15.8,2012
+Macquarie University,20,2012
+National Chiao Tung University,16.6,2012
+Simon Fraser University,28.3,2012
+State University of New York Albany,18.5,2012
+Swedish University of Agricultural Sciences,4.6,2012
+Tokyo Metropolitan University,9.9,2012
+University of Bologna,22.9,2012
+University of Calgary,16.5,2012
+University of Hamburg,,2012
+University of Milan,24.3,2012
+University of Milan-Bicocca,72.5,2012
+University of Missouri,14.1,2012
+University of Padua,18.3,2012
+University of Trieste,25.8,2012
+Yonsei University,11.6,2012
+Bangor University,19.5,2012
+Bielefeld University,67.8,2012
+Brunel University London,17.6,2012
+Hong Kong Polytechnic University,25.9,2012
+Johannes Kepler University of Linz,29.1,2012
+Kyushu University,6.7,2012
+Nanjing University,13.3,2012
+National Sun Yat-Sen University,19.6,2012
+Norwegian University of Science and Technology,13.9,2012
+Queen’s University Belfast,17.9,2012
+Ruhr University Bochum,46.3,2012
+Stellenbosch University,23,2012
+Tilburg University,22.4,2012
+TU Dresden,37.4,2012
+University of Bath,18.8,2012
+University of Graz,26.8,2012
+University of Hawai’i at Mānoa,,2012
+University of Kiel,23.8,2012
+University of Southern Denmark,12.7,2012
+University of Texas at Dallas,22.8,2012
+University of the Witwatersrand,18.6,2012
+University of Tsukuba,12.6,2012
+University of Wollongong,25.4,2012
+Victoria University of Wellington,21.1,2012
+Virginia Polytechnic Institute and State University,18.6,2012
+Wayne State University,10.7,2012
+Aberystwyth University,19.2,2012
+Autonomous University of Madrid,13,2012
+Hokkaido University,8.2,2012
+Hong Kong Baptist University,11,2012
+Istanbul Technical University,16,2012
+Lomonosov Moscow State University,7.7,2012
+Middle East Technical University,22.2,2012
+Montpellier University,18.4,2012
+Queensland University of Technology,35.8,2012
+State University of Campinas,15.3,2012
+Sun Yat-sen University,16.6,2012
+Technical University of Darmstadt,53.6,2012
+Tokyo Medical and Dental University (TMDU),3.3,2012
+UiT The Arctic University of Norway,12.2,2012
+University of Antwerp,30.3,2012
+University of Crete,26.9,2012
+University of Guelph,28.3,2012
+University of Iceland,25.9,2012
+University of Kansas,,2012
+University of Kentucky,,2012
+University of Münster,46.1,2012
+University of Newcastle,21.9,2012
+University of Texas at San Antonio,26.9,2012
+University of Trento,43.2,2012
+York University,39.4,2012
+Aalborg University,15.9,2012
+Aalto University,24.2,2012
+Alexandria University,23.3,2012
+Bar-Ilan University,16,2012
+"Binghamton University, State University of New York",23.3,2012
+Boğaziçi University,25,2012
+Charles Darwin University,25.4,2012
+Charles University in Prague,13,2012
+George Mason University,17,2012
+Indian Institute of Technology Bombay,14.9,2012
+Jagiellonian University,11.5,2012
+Keele University,15.7,2012
+Keio University,11.9,2012
+Kent State University,19,2012
+Lehigh University,11.3,2012
+Linköping University,7.7,2012
+National Taiwan University of Science and Technology (Taiwan Tech),17.4,2012
+Plymouth University,25.9,2012
+Polytechnic University of Milan,22.2,2012
+Sapienza University of Rome,32.3,2012
+Shanghai Jiao Tong University,12.8,2012
+Sharif University of Technology,18.7,2012
+Sungkyunkwan University (SKKU),20.3,2012
+University College Cork,22.3,2012
+University of Aveiro,17.8,2012
+University of Canterbury,16.5,2012
+University of Eastern Finland,17.3,2012
+University of Ferrara,30.2,2012
+University of Hertfordshire,19.4,2012
+University of Houston,43.7,2012
+University of Hull,18.7,2012
+University of Liège,25.9,2012
+University of Manitoba,27.8,2012
+"University of Maryland, Baltimore County",18.1,2012
+University of Modena and Reggio Emilia,25.3,2012
+University of Oklahoma,,2012
+University of Pisa,18,2012
+University of Porto,18.8,2012
+University of South Florida,21.5,2012
+University of Stirling,15.9,2012
+University of Surrey,16.6,2012
+University of Tampere,9.5,2012
+University of Tasmania,23.8,2012
+University of Valencia,15.4,2012
+University of Waikato,17,2012
+University of Warsaw,14.1,2012
+Vienna University of Technology,52,2012
+Vrije Universiteit Brussel,17.1,2012
+Washington State University,18.3,2012
+Zhejiang University,15.9,2012
+Aston University,,2012
+Auburn University,17.6,2012
+Clemson University,17.1,2012
+Curtin University,17.1,2012
+Deakin University,30.4,2012
+Flinders University,22.6,2012
+Georgia State University,20.4,2012
+Griffith University,22,2012
+Harbin Institute of Technology,10.8,2012
+Heriot-Watt University,17.8,2012
+Hiroshima University,8.2,2012
+Kansas State University,15.1,2012
+Kobe University,8.4,2012
+Kyung Hee University,17.4,2012
+La Trobe University,29,2012
+Leibniz University of Hanover,62.7,2012
+Liverpool John Moores University,19.8,2012
+Loughborough University,15.9,2012
+Mahidol University,7.5,2012
+Massey University,16.8,2012
+Michigan Technological University,,2012
+National Central University,9.8,2012
+National Taiwan Ocean University,20.9,2012
+"National University of Ireland, Galway",26.8,2012
+"National University of Ireland, Maynooth",28,2012
+New Jersey Institute of Technology,26.2,2012
+New University of Lisbon,17.9,2012
+Old Dominion University,,2012
+Polytechnic University of Catalonia,11.7,2012
+Polytechnic University of Turin,19.6,2012
+Polytechnic University of Valencia,13.6,2012
+Pontifical Catholic University of Chile,15.3,2012
+Saint Petersburg State University,5.2,2012
+Swansea University,17.1,2012
+Swinburne University of Technology,36.5,2012
+Tokyo University of Agriculture and Technology,14.4,2012
+University of Bari Aldo Moro,65.1,2012
+University of Coimbra,19,2012
+University of Idaho,21.5,2012
+University of Kent,14.4,2012
+University of Paris North – Paris 13,23.4,2012
+University of Salento,58.4,2012
+University of South Australia,26.2,2012
+University of Strathclyde,20.2,2012
+University of Tartu,13,2012
+University of Turku,14.6,2012
+University of Wyoming,,2012
+University of Zaragoza,11.8,2012
+Waseda University,16.9,2012
+Wuhan University,14.4,2012
+Yuan Ze University,20.6,2012
+California Institute of Technology,6.9,2013
+Stanford University,7.8,2013
+University of Oxford,11.6,2013
+Harvard University,8.9,2013
+Massachusetts Institute of Technology,9,2013
+Princeton University,8.4,2013
+University of Cambridge,11.8,2013
+Imperial College London,11.7,2013
+"University of California, Berkeley",16.4,2013
+University of Chicago,6.9,2013
+Yale University,4.4,2013
+ETH Zurich – Swiss Federal Institute of Technology Zurich,14.7,2013
+"University of California, Los Angeles",10.3,2013
+Columbia University,5.9,2013
+University of Pennsylvania,6.5,2013
+Johns Hopkins University,3.6,2013
+University College London,10.7,2013
+Cornell University,10.2,2013
+Northwestern University,13.8,2013
+University of Michigan,9,2013
+University of Toronto,19.5,2013
+Carnegie Mellon University,13.1,2013
+Duke University,4.8,2013
+University of Washington,11.8,2013
+Georgia Institute of Technology,20.1,2013
+University of Texas at Austin,17.4,2013
+University of Tokyo,5.7,2013
+University of Melbourne,23.7,2013
+National University of Singapore,15.5,2013
+University of British Columbia,17.6,2013
+University of Wisconsin-Madison,10.8,2013
+University of Edinburgh,14.1,2013
+University of Illinois at Urbana-Champaign,18.7,2013
+McGill University,13.7,2013
+"University of California, Santa Barbara",27.3,2013
+University of Hong Kong,17.6,2013
+Australian National University,19.2,2013
+"University of California, San Diego",6.5,2013
+London School of Economics and Political Science,,2013
+École Polytechnique Fédérale de Lausanne,10.5,2013
+New York University,6.8,2013
+Karolinska Institute,11.5,2013
+University of North Carolina at Chapel Hill,7.3,2013
+"University of California, Davis",13.9,2013
+Washington University in St Louis,5.7,2013
+Peking University,8.3,2013
+University of Minnesota,18,2013
+LMU Munich,15.5,2013
+University of Manchester,15.3,2013
+Pohang University of Science and Technology,10.1,2013
+Brown University,10.1,2013
+Tsinghua University,13.7,2013
+Ohio State University,13.4,2013
+Boston University,8.6,2013
+Kyoto University,5.6,2013
+University of Southern California,12.9,2013
+King’s College London,11.4,2013
+KU Leuven,41.9,2013
+Seoul National University,13.9,2013
+École Normale Supérieure,7.9,2013
+Pennsylvania State University,12.4,2013
+University of Sydney,20.2,2013
+École Polytechnique,4.8,2013
+Leiden University,17.1,2013
+Hong Kong University of Science and Technology,23.8,2013
+The University of Queensland,32.7,2013
+Utrecht University,15.4,2013
+Korea Advanced Institute of Science and Technology (KAIST),10,2013
+Purdue University,18.1,2013
+University of Göttingen,25.6,2013
+Wageningen University and Research Center,17,2013
+Erasmus University Rotterdam,18.9,2013
+University of Massachusetts,13,2013
+University of Bristol,14,2013
+Rice University,9,2013
+University of Pittsburgh,5.8,2013
+Delft University of Technology,19.4,2013
+Heidelberg University,24.5,2013
+Emory University,4.5,2013
+Durham University,15.7,2013
+Pierre and Marie Curie University,8.7,2013
+Lund University,11.5,2013
+University of Amsterdam,14.4,2013
+University of Montreal,20.3,2013
+University of New South Wales,25.9,2013
+Nanyang Technological University,16.2,2013
+Tufts University,10,2013
+McMaster University,19.3,2013
+University of Groningen,25.6,2013
+University of Zurich,6.5,2013
+University of Colorado Boulder,16.1,2013
+Paris-Sud University,15,2013
+Ghent University,34.1,2013
+Michigan State University,15.7,2013
+University of Notre Dame,13.8,2013
+"University of California, Irvine",16.1,2013
+"University of Maryland, College Park",8.4,2013
+University of Arizona,12.7,2013
+Humboldt University of Berlin,52.5,2013
+Monash University,40.5,2013
+"Rutgers, the State University of New Jersey",17.3,2013
+University of Rochester,4.5,2013
+University of York,,2013
+Case Western Reserve University,6.4,2013
+Technical University of Munich,31.5,2013
+Uppsala University,18.2,2013
+Vanderbilt University,3.6,2013
+University of St Andrews,12.7,2013
+University of Helsinki,15.1,2013
+Trinity College Dublin,18,2013
+University of Sheffield,15.5,2013
+University of Sussex,17.4,2013
+University of Cape Town,12.1,2013
+Eindhoven University of Technology,16,2013
+Maastricht University,18.9,2013
+Aarhus University,13.6,2013
+Stockholm University,23.7,2013
+University of Virginia,10.2,2013
+"Royal Holloway, University of London",15.9,2013
+University of Nottingham,15,2013
+University of Alberta,21.6,2013
+"University of California, Santa Cruz",22.7,2013
+University of Florida,18.7,2013
+Chinese University of Hong Kong,10.2,2013
+Dartmouth College,6.6,2013
+University of Warwick,16.6,2013
+Radboud University Nijmegen,13,2013
+Free University of Berlin,39.3,2013
+Tokyo Institute of Technology,7.3,2013
+University of Copenhagen,4.1,2013
+University of Lausanne,13.1,2013
+University of Southampton,13.5,2013
+University of Geneva,15,2013
+Indiana University,13.6,2013
+National Taiwan University,11.9,2013
+University of Utah,16.9,2013
+Hebrew University of Jerusalem,10.7,2013
+Tohoku University,5,2013
+University of Glasgow,16,2013
+KTH Royal Institute of Technology,14.6,2013
+VU University Amsterdam,16.3,2013
+University of Basel,17.3,2013
+University of Leeds,14.7,2013
+University of Freiburg,31.2,2013
+Lancaster University,14.9,2013
+Queen Mary University of London,14,2013
+Osaka University,7.8,2013
+Arizona State University,29.9,2013
+Technical University of Denmark,5,2013
+Boston College,17.4,2013
+Karlsruhe Institute of Technology,24.6,2013
+University of Bern,22.5,2013
+University of Exeter,18.8,2013
+RWTH Aachen University,27.6,2013
+"University of California, Riverside",22,2013
+Texas A&M University,21.4,2013
+Yeshiva University,5.5,2013
+Tel Aviv University,24.4,2013
+University of Birmingham,16.4,2013
+University of São Paulo,14.6,2013
+University of Auckland,18.9,2013
+Stony Brook University,10.9,2013
+University of Vienna,20.5,2013
+Université Catholique de Louvain,42,2013
+University of Delaware,15.9,2013
+Paris Diderot University – Paris 7,14.8,2013
+University of Texas at Dallas,22.8,2013
+George Washington University,12,2013
+University of Iowa,11.6,2013
+École Normale Supérieure de Lyon,8,2013
+University of Bonn,70.4,2013
+University of Liverpool,13.6,2013
+University of Ottawa,26.3,2013
+Georgetown University,8.5,2013
+Rensselaer Polytechnic Institute,15,2013
+University of Aberdeen,15.8,2013
+University of Adelaide,30.1,2013
+University of East Anglia,14.7,2013
+University of Reading,14.8,2013
+Joseph Fourier University,12.1,2013
+Newcastle University,15.2,2013
+City University of Hong Kong,7.1,2013
+Yonsei University,11.6,2013
+Colorado School of Mines,18.2,2013
+University of Illinois at Chicago,9.2,2013
+William & Mary,11.8,2013
+University College Dublin,24.5,2013
+University of Twente,12,2013
+Medical University of South Carolina,,2013
+University of Western Australia,20.7,2013
+Wake Forest University,4.6,2013
+University of Antwerp,30.3,2013
+Iowa State University,17.4,2013
+Technion Israel Institute of Technology,19.4,2013
+University of Miami,5.7,2013
+University of Leicester,13.4,2013
+University of Victoria,21.5,2013
+University at Buffalo,19,2013
+Goethe University Frankfurt,9.3,2013
+"Birkbeck, University of London",17.2,2013
+Autonomous University of Barcelona,12.3,2013
+Brandeis University,12.6,2013
+Cardiff University,13.1,2013
+Fudan University,12.2,2013
+Johannes Gutenberg University of Mainz,32.6,2013
+Lomonosov Moscow State University,7.7,2013
+Middle East Technical University,22.2,2013
+Nagoya University,7.9,2013
+Northeastern University,15.1,2013
+Pompeu Fabra University,18.3,2013
+Queen’s University,22.1,2013
+"St George’s, University of London",13.4,2013
+Sungkyunkwan University (SKKU),20.3,2013
+Tilburg University,22.4,2013
+University of Barcelona,12.2,2013
+University of Dundee,15.3,2013
+University of Erlangen-Nuremberg,53.9,2013
+University of Georgia,19.9,2013
+University of Gothenburg,16.4,2013
+University of Innsbruck,16.9,2013
+University of Konstanz,59.1,2013
+University of Oslo,18.8,2013
+University of Science and Technology of China,7.9,2013
+University of Strasbourg,17.8,2013
+University of Tübingen,38.9,2013
+Bilkent University,,2013
+Carleton University,29.8,2013
+Chalmers University of Technology,11.6,2013
+Florida Institute of Technology,13.7,2013
+Georgia Health Sciences University,,2013
+Indian Institute of Technology Kharagpur,17.5,2013
+Korea University,15.8,2013
+Koç University,14.6,2013
+Laval University,16.2,2013
+Mines ParisTech,5.6,2013
+National Research Nuclear University MePhI,7.3,2013
+National Tsing Hua University,13.5,2013
+Simon Fraser University,28.3,2013
+Technical University of Darmstadt,53.6,2013
+Tulane University,8.4,2013
+University of Bergen,11.1,2013
+University of Calgary,16.5,2013
+University of Cincinnati,15.7,2013
+University of Missouri,14.1,2013
+University of Otago,20.3,2013
+University of South Florida,21.5,2013
+University of the Witwatersrand,18.6,2013
+University of Waterloo,24.2,2013
+University of Western Ontario,20.7,2013
+University of Würzburg,38.4,2013
+Université Libre de Bruxelles,26.1,2013
+Aalto University,24.2,2013
+Dalhousie University,14.4,2013
+Hong Kong Polytechnic University,25.9,2013
+Indian Institute of Technology Bombay,14.9,2013
+Macquarie University,20,2013
+Nanjing University,13.3,2013
+National Chiao Tung University,16.6,2013
+Norwegian University of Science and Technology,13.9,2013
+Queensland University of Technology,35.8,2013
+State University of Campinas,15.3,2013
+Stellenbosch University,23,2013
+Tokyo Metropolitan University,9.9,2013
+Umeå University,11.9,2013
+University of Connecticut,13,2013
+University of Essex,19.8,2013
+University of Iceland,25.9,2013
+University of Kiel,23.8,2013
+University of Milan,24.3,2013
+University of Milan-Bicocca,72.5,2013
+University of Münster,46.1,2013
+University of Oregon,20.2,2013
+University of Trieste,25.8,2013
+Victoria University of Wellington,21.1,2013
+Vienna University of Technology,52,2013
+Aberystwyth University,19.2,2013
+Bangor University,19.5,2013
+Bayreuth University,35.5,2013
+Bielefeld University,67.8,2013
+Boğaziçi University,25,2013
+Colorado State University,19,2013
+Drexel University,10.8,2013
+Istanbul Technical University,16,2013
+Montpellier University,18.4,2013
+Oregon State University,16.8,2013
+Queen’s University Belfast,17.9,2013
+Ruhr University Bochum,46.3,2013
+Shanghai Jiao Tong University,12.8,2013
+Swedish University of Agricultural Sciences,4.6,2013
+Tokyo Medical and Dental University (TMDU),3.3,2013
+TU Dresden,37.4,2013
+University of Bath,18.8,2013
+University of Bologna,22.9,2013
+University of Kansas,,2013
+University of Montana,15.2,2013
+University of Newcastle,21.9,2013
+University of South Carolina,16.3,2013
+University of Southern Denmark,12.7,2013
+University of Trento,43.2,2013
+University of Turin,66,2013
+Virginia Polytechnic Institute and State University,18.6,2013
+Autonomous University of Madrid,13,2013
+Brunel University London,17.6,2013
+Charles University in Prague,13,2013
+Claude Bernard University Lyon 1,16.1,2013
+Creighton University,8.3,2013
+Hokkaido University,8.2,2013
+Hong Kong Baptist University,11,2013
+Johannes Kepler University of Linz,29.1,2013
+King Abdulaziz University,8.4,2013
+Kyushu University,6.7,2013
+Linköping University,7.7,2013
+Medical University of Vienna,2.9,2013
+Murdoch University,32.8,2013
+National Cheng Kung University,14.4,2013
+National Sun Yat-Sen University,19.6,2013
+"National University of Ireland, Galway",26.8,2013
+North Carolina State University,13.6,2013
+Polytechnic University of Milan,22.2,2013
+Renmin University of China,12.7,2013
+Sapienza University of Rome,32.3,2013
+Sharif University of Technology,18.7,2013
+State University of New York Albany,18.5,2013
+Sun Yat-sen University,16.6,2013
+UiT The Arctic University of Norway,12.2,2013
+University College Cork,22.3,2013
+University of Canterbury,16.5,2013
+University of Crete,26.9,2013
+University of Eastern Finland,17.3,2013
+University of Fribourg,46.9,2013
+University of Graz,26.8,2013
+University of Guelph,28.3,2013
+University of Kentucky,,2013
+University of Manitoba,27.8,2013
+"University of Maryland, Baltimore County",18.1,2013
+University of Padua,18.3,2013
+University of Pavia,40.6,2013
+University of Pisa,18,2013
+University of Portsmouth,19.1,2013
+University of South Australia,26.2,2013
+University of Tampere,9.5,2013
+University of Tsukuba,12.6,2013
+University of Vermont,,2013
+University of Waikato,17,2013
+University of Wollongong,25.4,2013
+Vrije Universiteit Brussel,17.1,2013
+Washington State University,18.3,2013
+Wayne State University,10.7,2013
+York University,39.4,2013
+Zhejiang University,15.9,2013
+Aalborg University,15.9,2013
+"Binghamton University, State University of New York",23.3,2013
+Charles Darwin University,25.4,2013
+Deakin University,30.4,2013
+Flinders University,22.6,2013
+George Mason University,17,2013
+Heriot-Watt University,17.8,2013
+Indian Institute of Technology Roorkee,18.7,2013
+Jagiellonian University,11.5,2013
+Keele University,15.7,2013
+Keio University,11.9,2013
+King Mongkut’s University of Technology Thonburi,23.7,2013
+Lehigh University,11.3,2013
+Leibniz University of Hanover,62.7,2013
+Loughborough University,15.9,2013
+Massey University,16.8,2013
+National Autonomous University of Mexico,11.6,2013
+National Central University,9.8,2013
+National Taiwan University of Science and Technology (Taiwan Tech),17.4,2013
+"National University of Ireland, Maynooth",28,2013
+Paris Dauphine University,15.4,2013
+Polytechnic University of Valencia,13.6,2013
+Southern Methodist University,,2013
+Temple University,13.3,2013
+University of Aveiro,17.8,2013
+University of Duisburg-Essen,46.6,2013
+University of Ferrara,30.2,2013
+University of Hertfordshire,19.4,2013
+University of Houston,43.7,2013
+University of Jyväskylä,15.2,2013
+University of KwaZulu-Natal,24.9,2013
+University of Liège,25.9,2013
+University of Minho,18.8,2013
+University of Modena and Reggio Emilia,25.3,2013
+University of Oklahoma,,2013
+University of Porto,18.8,2013
+University of Salento,58.4,2013
+University of Stirling,15.9,2013
+University of Strathclyde,20.2,2013
+University of Surrey,16.6,2013
+University of Tartu,13,2013
+University of Tasmania,23.8,2013
+University of Technology Sydney,44.1,2013
+University of Texas at San Antonio,26.9,2013
+"University of the Andes, Colombia",16.9,2013
+University of Valencia,15.4,2013
+University of Vigo,19,2013
+University of Warsaw,14.1,2013
+University of Wyoming,,2013
+Waseda University,16.9,2013
+California Institute of Technology,6.9,2014
+Harvard University,8.9,2014
+University of Oxford,11.6,2014
+Stanford University,7.8,2014
+Massachusetts Institute of Technology,9,2014
+Princeton University,8.4,2014
+University of Cambridge,11.8,2014
+"University of California, Berkeley",16.4,2014
+University of Chicago,6.9,2014
+Imperial College London,11.7,2014
+Yale University,4.4,2014
+"University of California, Los Angeles",10.3,2014
+Columbia University,5.9,2014
+ETH Zurich – Swiss Federal Institute of Technology Zurich,14.7,2014
+Johns Hopkins University,3.6,2014
+University of Pennsylvania,6.5,2014
+Duke University,4.8,2014
+University of Michigan,9,2014
+Cornell University,10.2,2014
+University of Toronto,19.5,2014
+University College London,10.7,2014
+Northwestern University,13.8,2014
+University of Tokyo,5.7,2014
+Carnegie Mellon University,13.1,2014
+University of Washington,11.8,2014
+National University of Singapore,15.5,2014
+University of Texas at Austin,17.4,2014
+Georgia Institute of Technology,20.1,2014
+University of Illinois at Urbana-Champaign,18.7,2014
+University of Wisconsin-Madison,10.8,2014
+University of British Columbia,17.6,2014
+London School of Economics and Political Science,,2014
+"University of California, Santa Barbara",27.3,2014
+University of Melbourne,23.7,2014
+McGill University,13.7,2014
+Karolinska Institute,11.5,2014
+École Polytechnique Fédérale de Lausanne,10.5,2014
+King’s College London,11.4,2014
+University of Edinburgh,14.1,2014
+New York University,6.8,2014
+"University of California, San Diego",6.5,2014
+Washington University in St Louis,5.7,2014
+University of Hong Kong,17.6,2014
+Seoul National University,13.9,2014
+Peking University,8.3,2014
+University of Minnesota,18,2014
+University of North Carolina at Chapel Hill,7.3,2014
+Australian National University,19.2,2014
+Pennsylvania State University,12.4,2014
+Boston University,8.6,2014
+Tsinghua University,13.7,2014
+Brown University,10.1,2014
+Kyoto University,5.6,2014
+"University of California, Davis",13.9,2014
+LMU Munich,15.5,2014
+Korea Advanced Institute of Science and Technology (KAIST),10,2014
+Hong Kong University of Science and Technology,23.8,2014
+University of Manchester,15.3,2014
+Ohio State University,13.4,2014
+Pohang University of Science and Technology,10.1,2014
+KU Leuven,41.9,2014
+Purdue University,18.1,2014
+The University of Queensland,32.7,2014
+University of Göttingen,25.6,2014
+Rice University,9,2014
+École Normale Supérieure,7.9,2014
+Leiden University,17.1,2014
+Heidelberg University,24.5,2014
+Delft University of Technology,19.4,2014
+University of Southern California,12.9,2014
+École Polytechnique,4.8,2014
+University of Sydney,20.2,2014
+Erasmus University Rotterdam,18.9,2014
+University of Basel,17.3,2014
+Utrecht University,15.4,2014
+Nanyang Technological University,16.2,2014
+Wageningen University and Research Center,17,2014
+University of Pittsburgh,5.8,2014
+University of Bristol,14,2014
+Durham University,15.7,2014
+Emory University,4.5,2014
+Tufts University,10,2014
+Michigan State University,15.7,2014
+University of Amsterdam,14.4,2014
+Ghent University,34.1,2014
+Free University of Berlin,39.3,2014
+Technical University of Munich,31.5,2014
+Case Western Reserve University,6.4,2014
+Vanderbilt University,3.6,2014
+University of Notre Dame,13.8,2014
+Monash University,40.5,2014
+McMaster University,19.3,2014
+"University of California, Irvine",16.1,2014
+Humboldt University of Berlin,52.5,2014
+University of Rochester,4.5,2014
+Pierre and Marie Curie University,8.7,2014
+University of Colorado Boulder,16.1,2014
+Maastricht University,18.9,2014
+University of Groningen,25.6,2014
+University of Helsinki,15.1,2014
+University of York,,2014
+"Royal Holloway, University of London",15.9,2014
+"Rutgers, the State University of New Jersey",17.3,2014
+Stockholm University,23.7,2014
+University of Arizona,12.7,2014
+Eindhoven University of Technology,16,2014
+University of Montreal,20.3,2014
+"University of Maryland, College Park",8.4,2014
+Chinese University of Hong Kong,10.2,2014
+University of Alberta,21.6,2014
+Uppsala University,18.2,2014
+University of Sheffield,15.5,2014
+University of Virginia,10.2,2014
+Paris-Sud University,15,2014
+Queen Mary University of London,14,2014
+University of New South Wales,25.9,2014
+KTH Royal Institute of Technology,14.6,2014
+Technical University of Denmark,5,2014
+University of Glasgow,16,2014
+University of St Andrews,12.7,2014
+University of Sussex,17.4,2014
+University of Zurich,6.5,2014
+Lund University,11.5,2014
+University of Geneva,15,2014
+Tokyo Institute of Technology,7.3,2014
+Dartmouth College,6.6,2014
+University of Cape Town,12.1,2014
+University of Florida,18.7,2014
+RWTH Aachen University,27.6,2014
+Trinity College Dublin,18,2014
+Radboud University Nijmegen,13,2014
+Indiana University,13.6,2014
+University of Lausanne,13.1,2014
+University of Massachusetts,13,2014
+Boston College,17.4,2014
+"University of California, Santa Cruz",22.7,2014
+Lancaster University,14.9,2014
+Aarhus University,13.6,2014
+Colorado School of Mines,18.2,2014
+University of Leeds,14.7,2014
+University of Warwick,16.6,2014
+National Taiwan University,11.9,2014
+University of Utah,16.9,2014
+Osaka University,7.8,2014
+VU University Amsterdam,16.3,2014
+Arizona State University,29.9,2014
+University of Southampton,13.5,2014
+"University of California, Riverside",22,2014
+University of Exeter,18.8,2014
+Tohoku University,5,2014
+University of Copenhagen,4.1,2014
+University of Freiburg,31.2,2014
+University of Birmingham,16.4,2014
+Karlsruhe Institute of Technology,24.6,2014
+Joseph Fourier University,12.1,2014
+École Normale Supérieure de Lyon,8,2014
+University of Bern,22.5,2014
+University of Nottingham,15,2014
+Texas A&M University,21.4,2014
+Georgetown University,8.5,2014
+University College Dublin,24.5,2014
+University of Iowa,11.6,2014
+University of Leicester,13.4,2014
+Brandeis University,12.6,2014
+Pompeu Fabra University,18.3,2014
+University of Antwerp,30.3,2014
+University of Auckland,18.9,2014
+University of Western Australia,20.7,2014
+University of Liverpool,13.6,2014
+University of Twente,12,2014
+University of Vienna,20.5,2014
+Université Catholique de Louvain,42,2014
+Yeshiva University,5.5,2014
+University of Delaware,15.9,2014
+University of East Anglia,14.7,2014
+University at Buffalo,19,2014
+Université Libre de Bruxelles,26.1,2014
+Paris Diderot University – Paris 7,14.8,2014
+Stony Brook University,10.9,2014
+Wake Forest University,4.6,2014
+Rensselaer Polytechnic Institute,15,2014
+University of Bonn,70.4,2014
+Iowa State University,17.4,2014
+Northeastern University,15.1,2014
+University of Miami,5.7,2014
+University of Oslo,18.8,2014
+University of Ottawa,26.3,2014
+University of Aberdeen,15.8,2014
+University of Texas at Dallas,22.8,2014
+Yonsei University,11.6,2014
+Hebrew University of Jerusalem,10.7,2014
+University of Illinois at Chicago,9.2,2014
+Mines ParisTech,5.6,2014
+George Washington University,12,2014
+University of Reading,14.8,2014
+University of Dundee,15.3,2014
+Florida Institute of Technology,13.7,2014
+Newcastle University,15.2,2014
+Boğaziçi University,25,2014
+Tel Aviv University,24.4,2014
+"Birkbeck, University of London",17.2,2014
+Cardiff University,13.1,2014
+City University of Hong Kong,7.1,2014
+Fudan University,12.2,2014
+Goethe University Frankfurt,9.3,2014
+Istanbul Technical University,16,2014
+Korea University,15.8,2014
+Laval University,16.2,2014
+Middle East Technical University,22.2,2014
+Nagoya University,7.9,2014
+"St George’s, University of London",13.4,2014
+Sungkyunkwan University (SKKU),20.3,2014
+Technion Israel Institute of Technology,19.4,2014
+Tokyo Metropolitan University,9.9,2014
+Ulm University,11.2,2014
+University of Adelaide,30.1,2014
+University of Bergen,11.1,2014
+University of Calgary,16.5,2014
+University of Gothenburg,16.4,2014
+University of Innsbruck,16.9,2014
+University of Science and Technology of China,7.9,2014
+University of Strasbourg,17.8,2014
+University of Trento,43.2,2014
+University of Tübingen,38.9,2014
+University of Victoria,21.5,2014
+William & Mary,11.8,2014
+Autonomous University of Barcelona,12.3,2014
+Bilkent University,,2014
+Georgia Health Sciences University,,2014
+Lomonosov Moscow State University,7.7,2014
+Panjab University,23.9,2014
+Queen’s University,22.1,2014
+Renmin University of China,12.7,2014
+Simon Fraser University,28.3,2014
+Technical University of Darmstadt,53.6,2014
+Tilburg University,22.4,2014
+Tulane University,8.4,2014
+University of Barcelona,12.2,2014
+University of Cincinnati,15.7,2014
+University of Erlangen-Nuremberg,53.9,2014
+University of Kiel,23.8,2014
+University of Konstanz,59.1,2014
+University of Milan-Bicocca,72.5,2014
+University of Münster,46.1,2014
+University of Otago,20.3,2014
+University of São Paulo,14.6,2014
+University of the Witwatersrand,18.6,2014
+University of Trieste,25.8,2014
+University of Turin,66,2014
+University of Waterloo,24.2,2014
+University of Western Ontario,20.7,2014
+University of Würzburg,38.4,2014
+Vienna University of Technology,52,2014
+Brunel University London,17.6,2014
+Dalhousie University,14.4,2014
+Hong Kong Polytechnic University,25.9,2014
+Medical University of Vienna,2.9,2014
+Montpellier University,18.4,2014
+Nanjing University,13.3,2014
+National Chiao Tung University,16.6,2014
+National Tsing Hua University,13.5,2014
+Norwegian University of Science and Technology,13.9,2014
+Queen’s University Belfast,17.9,2014
+Sharif University of Technology,18.7,2014
+Swedish University of Agricultural Sciences,4.6,2014
+TU Dresden,37.4,2014
+University of Cologne,43.4,2014
+University of Essex,19.8,2014
+University of Iceland,25.9,2014
+University of Nebraska-Lincoln,16.4,2014
+University of Newcastle,21.9,2014
+University of Pavia,40.6,2014
+University of South Carolina,16.3,2014
+"University of the Andes, Colombia",16.9,2014
+Vrije Universiteit Brussel,17.1,2014
+Carleton University,29.8,2014
+Chalmers University of Technology,11.6,2014
+Colorado State University,19,2014
+Creighton University,8.3,2014
+Koç University,14.6,2014
+Macquarie University,20,2014
+Plymouth University,25.9,2014
+Polytechnic University of Milan,22.2,2014
+Queensland University of Technology,35.8,2014
+Tokyo Medical and Dental University (TMDU),3.3,2014
+University College Cork,22.3,2014
+University of Alaska Fairbanks,8.2,2014
+University of Bath,18.8,2014
+University of Bologna,22.9,2014
+University of Fribourg,46.9,2014
+University of Georgia,19.9,2014
+University of Kansas,,2014
+University of Milan,24.3,2014
+University of Montana,15.2,2014
+University of South Florida,21.5,2014
+University of Southern Denmark,12.7,2014
+University of Wollongong,25.4,2014
+Victoria University of Wellington,21.1,2014
+Virginia Polytechnic Institute and State University,18.6,2014
+York University,39.4,2014
+Aalborg University,15.9,2014
+Aalto University,24.2,2014
+Aberystwyth University,19.2,2014
+Autonomous University of Madrid,13,2014
+Bangor University,19.5,2014
+Bayreuth University,35.5,2014
+Bielefeld University,67.8,2014
+Claude Bernard University Lyon 1,16.1,2014
+Deakin University,30.4,2014
+Drexel University,10.8,2014
+Heriot-Watt University,17.8,2014
+Hokkaido University,8.2,2014
+Hong Kong Baptist University,11,2014
+Kansas State University,15.1,2014
+Keele University,15.7,2014
+King Mongkut’s University of Technology Thonburi,23.7,2014
+Kyushu University,6.7,2014
+Lehigh University,11.3,2014
+Linköping University,7.7,2014
+Murdoch University,32.8,2014
+National Cheng Kung University,14.4,2014
+National Sun Yat-Sen University,19.6,2014
+"National University of Ireland, Galway",26.8,2014
+Oregon State University,16.8,2014
+Sapienza University of Rome,32.3,2014
+Shanghai Jiao Tong University,12.8,2014
+State University of Campinas,15.3,2014
+State University of New York Albany,18.5,2014
+Stellenbosch University,23,2014
+Umeå University,11.9,2014
+University of Canterbury,16.5,2014
+University of Connecticut,13,2014
+University of Crete,26.9,2014
+University of Eastern Finland,17.3,2014
+University of Hertfordshire,19.4,2014
+University of Houston,43.7,2014
+University of Liège,25.9,2014
+University of Manitoba,27.8,2014
+University of Missouri,14.1,2014
+University of Padua,18.3,2014
+University of Pisa,18,2014
+University of Salento,58.4,2014
+University of South Australia,26.2,2014
+University of Tampere,9.5,2014
+University of Technology Sydney,44.1,2014
+University of Tsukuba,12.6,2014
+University of Vermont,,2014
+University of Waikato,17,2014
+University of Warsaw,14.1,2014
+Washington State University,18.3,2014
+Wayne State University,10.7,2014
+Wuhan University of Technology,14.9,2014
+Zhejiang University,15.9,2014
+Charles Darwin University,25.4,2014
+Charles University in Prague,13,2014
+"China Medical University, Taiwan",15.4,2014
+George Mason University,17,2014
+Hanyang University,10.4,2014
+Indian Institute of Technology Delhi,17.3,2014
+Indian Institute of Technology Kanpur,12.2,2014
+Indian Institute of Technology Kharagpur,17.5,2014
+Indian Institute of Technology Roorkee,18.7,2014
+Johannes Kepler University of Linz,29.1,2014
+King Abdulaziz University,8.4,2014
+King Saud University,13.4,2014
+Leibniz University of Hanover,62.7,2014
+Liverpool John Moores University,19.8,2014
+Loughborough University,15.9,2014
+National Central University,9.8,2014
+National Taiwan University of Science and Technology (Taiwan Tech),17.4,2014
+"National University of Ireland, Maynooth",28,2014
+Old Dominion University,,2014
+Polytechnic University of Valencia,13.6,2014
+Ruhr University Bochum,46.3,2014
+San Diego State University,31.7,2014
+Sun Yat-sen University,16.6,2014
+Swinburne University of Technology,36.5,2014
+Temple University,13.3,2014
+UiT The Arctic University of Norway,12.2,2014
+University of Bari Aldo Moro,65.1,2014
+University of Duisburg-Essen,46.6,2014
+University of Ferrara,30.2,2014
+University of Florence,17.2,2014
+University of Graz,26.8,2014
+University of Guelph,28.3,2014
+University of Jyväskylä,15.2,2014
+"University of Maryland, Baltimore County",18.1,2014
+University of Minho,18.8,2014
+University of Navarra,10.6,2014
+University of Oklahoma,,2014
+University of Porto,18.8,2014
+University of Portsmouth,19.1,2014
+University of Rovira i Virgili,12.8,2014
+University of Stirling,15.9,2014
+University of Surrey,16.6,2014
+University of Tartu,13,2014
+University of Tasmania,23.8,2014
+University of Valencia,15.4,2014
+University of Vigo,19,2014
+University of Wyoming,,2014
+California Institute of Technology,6.9,2015
+Harvard University,8.9,2015
+University of Oxford,11.6,2015
+Stanford University,7.8,2015
+University of Cambridge,11.8,2015
+Massachusetts Institute of Technology,9,2015
+Princeton University,8.4,2015
+"University of California, Berkeley",16.4,2015
+Imperial College London,11.7,2015
+Yale University,4.4,2015
+University of Chicago,6.9,2015
+"University of California, Los Angeles",10.3,2015
+ETH Zurich – Swiss Federal Institute of Technology Zurich,14.7,2015
+Columbia University,5.9,2015
+Johns Hopkins University,3.6,2015
+University of Pennsylvania,6.5,2015
+University of Michigan,9,2015
+Duke University,4.8,2015
+Cornell University,10.2,2015
+University of Toronto,19.5,2015
+Northwestern University,13.8,2015
+University College London,10.7,2015
+University of Tokyo,5.7,2015
+Carnegie Mellon University,13.1,2015
+National University of Singapore,15.5,2015
+University of Washington,11.8,2015
+Georgia Institute of Technology,20.1,2015
+University of Texas at Austin,17.4,2015
+LMU Munich,15.5,2015
+University of Illinois at Urbana-Champaign,18.7,2015
+University of Wisconsin-Madison,10.8,2015
+University of British Columbia,17.6,2015
+University of Melbourne,23.7,2015
+London School of Economics and Political Science,,2015
+École Polytechnique Fédérale de Lausanne,10.5,2015
+University of Edinburgh,14.1,2015
+"University of California, Santa Barbara",27.3,2015
+New York University,6.8,2015
+McGill University,13.7,2015
+King’s College London,11.4,2015
+"University of California, San Diego",6.5,2015
+Washington University in St Louis,5.7,2015
+University of Hong Kong,17.6,2015
+Karolinska Institute,11.5,2015
+Australian National University,19.2,2015
+University of Minnesota,18,2015
+University of North Carolina at Chapel Hill,7.3,2015
+Peking University,8.3,2015
+Tsinghua University,13.7,2015
+Seoul National University,13.9,2015
+Hong Kong University of Science and Technology,23.8,2015
+Korea Advanced Institute of Science and Technology (KAIST),10,2015
+University of Manchester,15.3,2015
+Brown University,10.1,2015
+KU Leuven,41.9,2015
+"University of California, Davis",13.9,2015
+Boston University,8.6,2015
+Pennsylvania State University,12.4,2015
+Kyoto University,5.6,2015
+University of Sydney,20.2,2015
+Nanyang Technological University,16.2,2015
+École Polytechnique,4.8,2015
+Scuola Normale Superiore di Pisa,16.5,2015
+Leiden University,17.1,2015
+The University of Queensland,32.7,2015
+Pohang University of Science and Technology,10.1,2015
+University of Göttingen,25.6,2015
+Ohio State University,13.4,2015
+Rice University,9,2015
+Heidelberg University,24.5,2015
+Delft University of Technology,19.4,2015
+Erasmus University Rotterdam,18.9,2015
+Wageningen University and Research Center,17,2015
+University of Bristol,14,2015
+University of Basel,17.3,2015
+University of Southern California,12.9,2015
+University of Amsterdam,14.4,2015
+École Normale Supérieure,7.9,2015
+Utrecht University,15.4,2015
+Humboldt University of Berlin,52.5,2015
+Free University of Berlin,39.3,2015
+Michigan State University,15.7,2015
+Durham University,15.7,2015
+Monash University,40.5,2015
+Middle East Technical University,22.2,2015
+University of Arizona,12.7,2015
+University of Notre Dame,13.8,2015
+Tufts University,10,2015
+"University of California, Irvine",16.1,2015
+Ghent University,34.1,2015
+University of Massachusetts,13,2015
+University of Pittsburgh,5.8,2015
+Emory University,4.5,2015
+McMaster University,19.3,2015
+University of Glasgow,16,2015
+Vanderbilt University,3.6,2015
+University of Colorado Boulder,16.1,2015
+Stockholm University,23.7,2015
+Technical University of Munich,31.5,2015
+Uppsala University,18.2,2015
+Maastricht University,18.9,2015
+Purdue University,18.1,2015
+Pierre and Marie Curie University,8.7,2015
+University of Helsinki,15.1,2015
+University of Warwick,16.6,2015
+University of Zurich,6.5,2015
+Queen Mary University of London,14,2015
+University of Geneva,15,2015
+"University of California, Santa Cruz",22.7,2015
+University of New South Wales,25.9,2015
+University of St Andrews,12.7,2015
+University of Sussex,17.4,2015
+University of Montreal,20.3,2015
+University of Tübingen,38.9,2015
+University of York,,2015
+Case Western Reserve University,6.4,2015
+University of Groningen,25.6,2015
+"Royal Holloway, University of London",15.9,2015
+Lund University,11.5,2015
+Paris-Sud University,15,2015
+Technical University of Denmark,5,2015
+University of Rochester,4.5,2015
+University of Sheffield,15.5,2015
+University of Alberta,21.6,2015
+University of Cape Town,12.1,2015
+Boston College,17.4,2015
+KTH Royal Institute of Technology,14.6,2015
+University of Florida,18.7,2015
+Chinese University of Hong Kong,10.2,2015
+University of Virginia,10.2,2015
+Lancaster University,14.9,2015
+University of Bern,22.5,2015
+"University of Maryland, College Park",8.4,2015
+University of Southampton,13.5,2015
+TU Dresden,37.4,2015
+University of Lausanne,13.1,2015
+VU University Amsterdam,16.3,2015
+Trinity College Dublin,18,2015
+Boğaziçi University,25,2015
+Radboud University Nijmegen,13,2015
+Colorado School of Mines,18.2,2015
+Texas A&M University,21.4,2015
+Tokyo Institute of Technology,7.3,2015
+Eindhoven University of Technology,16,2015
+"Rutgers, the State University of New Jersey",17.3,2015
+University of Leeds,14.7,2015
+Brandeis University,12.6,2015
+Sungkyunkwan University (SKKU),20.3,2015
+University of Birmingham,16.4,2015
+Indiana University,13.6,2015
+"University of California, Riverside",22,2015
+Dartmouth College,6.6,2015
+Aarhus University,13.6,2015
+University of Exeter,18.8,2015
+National Taiwan University,11.9,2015
+RWTH Aachen University,27.6,2015
+Osaka University,7.8,2015
+University of Liverpool,13.6,2015
+University of Western Australia,20.7,2015
+University of Copenhagen,4.1,2015
+École Normale Supérieure de Lyon,8,2015
+University of Utah,16.9,2015
+University of Freiburg,31.2,2015
+University of Adelaide,30.1,2015
+Istanbul Technical University,16,2015
+Karlsruhe Institute of Technology,24.6,2015
+Pompeu Fabra University,18.3,2015
+Tohoku University,5,2015
+University of Miami,5.7,2015
+University of Antwerp,30.3,2015
+University of Nottingham,15,2015
+Université Catholique de Louvain,42,2015
+Georgetown University,8.5,2015
+University of Victoria,21.5,2015
+University of Auckland,18.9,2015
+University of Iowa,11.6,2015
+Syracuse University,15.9,2015
+Joseph Fourier University,12.1,2015
+University of Aberdeen,15.8,2015
+Paris Diderot University – Paris 7,14.8,2015
+University of Delaware,15.9,2015
+Arizona State University,29.9,2015
+Sabancı University,15.9,2015
+University of Vienna,20.5,2015
+Northeastern University,15.1,2015
+University of Oslo,18.8,2015
+Yeshiva University,5.5,2015
+Stony Brook University,10.9,2015
+Tel Aviv University,24.4,2015
+University of Ottawa,26.3,2015
+University at Buffalo,19,2015
+City University of Hong Kong,7.1,2015
+Fudan University,12.2,2015
+Iowa State University,17.4,2015
+University of Bonn,70.4,2015
+Lomonosov Moscow State University,7.7,2015
+"St George’s, University of London",13.4,2015
+University of East Anglia,14.7,2015
+University of Leicester,13.4,2015
+Florida Institute of Technology,13.7,2015
+George Washington University,12,2015
+Bilkent University,,2015
+Cardiff University,13.1,2015
+Goethe University Frankfurt,9.3,2015
+Hebrew University of Jerusalem,10.7,2015
+Hong Kong Polytechnic University,25.9,2015
+Korea University,15.8,2015
+Newcastle University,15.2,2015
+Technion Israel Institute of Technology,19.4,2015
+Ulm University,11.2,2015
+University of Barcelona,12.2,2015
+University of Bergen,11.1,2015
+University of Dundee,15.3,2015
+University of Illinois at Chicago,9.2,2015
+University of Innsbruck,16.9,2015
+University of Reading,14.8,2015
+University of Science and Technology of China,7.9,2015
+University of Strasbourg,17.8,2015
+University of São Paulo,14.6,2015
+University of Texas at Dallas,22.8,2015
+University of Trieste,25.8,2015
+University of Twente,12,2015
+Université Libre de Bruxelles,26.1,2015
+Wake Forest University,4.6,2015
+William & Mary,11.8,2015
+Yonsei University,11.6,2015
+Autonomous University of Barcelona,12.3,2015
+"Birkbeck, University of London",17.2,2015
+Brunel University London,17.6,2015
+Carleton University,29.8,2015
+Dalhousie University,14.4,2015
+Laval University,16.2,2015
+Mines ParisTech,5.6,2015
+Nagoya University,7.9,2015
+Rensselaer Polytechnic Institute,15,2015
+Simon Fraser University,28.3,2015
+State University of New York Albany,18.5,2015
+Technical University of Berlin,,2015
+Tokyo Metropolitan University,9.9,2015
+University College Dublin,24.5,2015
+University of Calgary,16.5,2015
+University of Gothenburg,16.4,2015
+University of Kiel,23.8,2015
+University of Konstanz,59.1,2015
+University of Milan-Bicocca,72.5,2015
+University of Technology Sydney,44.1,2015
+University of Western Ontario,20.7,2015
+University of Würzburg,38.4,2015
+Vienna University of Technology,52,2015
+York University,39.4,2015
+Aalto University,24.2,2015
+Federico Santa María Technical University,34,2015
+Medical University of Vienna,2.9,2015
+Nanjing University,13.3,2015
+National Tsing Hua University,13.5,2015
+"National University of Ireland, Galway",26.8,2015
+Queen’s University,22.1,2015
+Queen’s University Belfast,17.9,2015
+Swedish University of Agricultural Sciences,4.6,2015
+Technical University of Darmstadt,53.6,2015
+University of Bremen,25.6,2015
+University of Hawai’i at Mānoa,,2015
+University of Iceland,25.9,2015
+University of Münster,46.1,2015
+University of New Mexico,,2015
+University of Newcastle,21.9,2015
+University of Otago,20.3,2015
+University of Pavia,40.6,2015
+University of Salento,58.4,2015
+University of South Florida,21.5,2015
+"University of the Andes, Colombia",16.9,2015
+University of the Witwatersrand,18.6,2015
+University of Trento,43.2,2015
+University of Turin,66,2015
+University of Waterloo,24.2,2015
+Chalmers University of Technology,11.6,2015
+Colorado State University,19,2015
+Indian Institute of Science,8.2,2015
+Lappeenranta University of Technology,23.9,2015
+Montpellier University,18.4,2015
+National Chiao Tung University,16.6,2015
+Norwegian University of Science and Technology,13.9,2015
+Panjab University,23.9,2015
+Plymouth University,25.9,2015
+Queensland University of Technology,35.8,2015
+Shanghai Jiao Tong University,12.8,2015
+Stellenbosch University,23,2015
+Tilburg University,22.4,2015
+Tokyo Medical and Dental University (TMDU),3.3,2015
+University College Cork,22.3,2015
+University of Bologna,22.9,2015
+University of Cincinnati,15.7,2015
+University of Erlangen-Nuremberg,53.9,2015
+University of Fribourg,46.9,2015
+University of Georgia,19.9,2015
+University of Macau,14.9,2015
+University of Milan,24.3,2015
+University of Nebraska-Lincoln,16.4,2015
+University of South Australia,26.2,2015
+University of South Carolina,16.3,2015
+University of Wollongong,25.4,2015
+Victoria University of Wellington,21.1,2015
+Virginia Polytechnic Institute and State University,18.6,2015
+Autonomous University of Madrid,13,2015
+Bangor University,19.5,2015
+Charles Darwin University,25.4,2015
+Charles University in Prague,13,2015
+Creighton University,8.3,2015
+Deakin University,30.4,2015
+Drexel University,10.8,2015
+Hong Kong Baptist University,11,2015
+Illinois Institute of Technology,,2015
+Kansas State University,15.1,2015
+Koç University,14.6,2015
+Macquarie University,20,2015
+Novosibirsk State University,7.1,2015
+Oregon State University,16.8,2015
+Polytechnic University of Milan,22.2,2015
+Renmin University of China,12.7,2015
+San Diego State University,31.7,2015
+Sapienza University of Rome,32.3,2015
+Sharif University of Technology,18.7,2015
+State University of Campinas,15.3,2015
+Sun Yat-sen University,16.6,2015
+Tulane University,8.4,2015
+University of Bath,18.8,2015
+University of Canterbury,16.5,2015
+University of Cologne,43.4,2015
+University of Connecticut,13,2015
+University of Crete,26.9,2015
+University of Duisburg-Essen,46.6,2015
+University of Essex,19.8,2015
+University of Houston,43.7,2015
+University of Jyväskylä,15.2,2015
+University of Kansas,,2015
+University of Manitoba,27.8,2015
+University of Marrakech Cadi Ayyad,38.7,2015
+University of Montana,15.2,2015
+University of Nebraska Medical Center,2.6,2015
+University of Oklahoma,,2015
+University of Padua,18.3,2015
+University of Pisa,18,2015
+University of Southern Denmark,12.7,2015
+University of Stirling,15.9,2015
+University of Stuttgart,45.4,2015
+University of Tampere,9.5,2015
+University of Tsukuba,12.6,2015
+University of Valencia,15.4,2015
+University of Warsaw,14.1,2015
+Wayne State University,10.7,2015
+Zhejiang University,15.9,2015
+Aalborg University,15.9,2015
+Aberystwyth University,19.2,2015
+Aston University,,2015
+Bayreuth University,35.5,2015
+Bielefeld University,67.8,2015
+Claude Bernard University Lyon 1,16.1,2015
+Curtin University,17.1,2015
+Ewha Womans University,14.4,2015
+George Mason University,17,2015
+Hanyang University,10.4,2015
+Hokkaido University,8.2,2015
+Indian Institute of Technology Bombay,14.9,2015
+Indian Institute of Technology Roorkee,18.7,2015
+Isfahan University of Technology,26.5,2015
+King Mongkut’s University of Technology Thonburi,23.7,2015
+Kyushu University,6.7,2015
+Lehigh University,11.3,2015
+Linköping University,7.7,2015
+Murdoch University,32.8,2015
+National Cheng Kung University,14.4,2015
+National Sun Yat-Sen University,19.6,2015
+National Taiwan University of Science and Technology (Taiwan Tech),17.4,2015
+Royal College of Surgeons in Ireland,15.6,2015
+Ruhr University Bochum,46.3,2015
+Swinburne University of Technology,36.5,2015
+UiT The Arctic University of Norway,12.2,2015
+Umeå University,11.9,2015
+University of Bari Aldo Moro,65.1,2015
+University of Eastern Finland,17.3,2015
+University of Ferrara,30.2,2015
+University of Florence,17.2,2015
+University of Graz,26.8,2015
+University of Hertfordshire,19.4,2015
+University of Lisbon,17.5,2015
+University of Liège,25.9,2015
+University of Minho,18.8,2015
+University of Missouri,14.1,2015
+University of Navarra,10.6,2015
+University of Portsmouth,19.1,2015
+University of Rome III,61.2,2015
+University of Seoul,19,2015
+University of Turku,14.6,2015
+University of Vermont,,2015
+University of Waikato,17,2015
+Vrije Universiteit Brussel,17.1,2015
+Waseda University,16.9,2015
+Washington State University,18.3,2015
+Western Sydney University,32.2,2015
+Wuhan University,14.4,2015
+Wuhan University of Technology,14.9,2015
+California Institute of Technology,6.9,2016
+University of Oxford,11.6,2016
+Stanford University,7.8,2016
+University of Cambridge,11.8,2016
+Massachusetts Institute of Technology,9,2016
+Harvard University,8.9,2016
+Princeton University,8.4,2016
+Imperial College London,11.7,2016
+ETH Zurich – Swiss Federal Institute of Technology Zurich,14.7,2016
+University of Chicago,6.9,2016
+Johns Hopkins University,3.6,2016
+Yale University,4.4,2016
+"University of California, Berkeley",16.4,2016
+University College London,10.7,2016
+Columbia University,5.9,2016
+"University of California, Los Angeles",10.3,2016
+University of Pennsylvania,6.5,2016
+Cornell University,10.2,2016
+University of Toronto,19.5,2016
+Duke University,4.8,2016
+University of Michigan,9,2016
+Carnegie Mellon University,13.1,2016
+London School of Economics and Political Science,,2016
+University of Edinburgh,14.1,2016
+Northwestern University,13.8,2016
+National University of Singapore,15.5,2016
+King’s College London,11.4,2016
+Karolinska Institute,11.5,2016
+LMU Munich,15.5,2016
+New York University,6.8,2016
+École Polytechnique Fédérale de Lausanne,10.5,2016
+University of Washington,11.8,2016
+University of Melbourne,23.7,2016
+University of British Columbia,17.6,2016
+KU Leuven,41.9,2016
+University of Illinois at Urbana-Champaign,18.7,2016
+Heidelberg University,24.5,2016
+McGill University,13.7,2016
+"University of California, San Diego",6.5,2016
+"University of California, Santa Barbara",27.3,2016
+Georgia Institute of Technology,20.1,2016
+Peking University,8.3,2016
+University of Tokyo,5.7,2016
+"University of California, Davis",13.9,2016
+University of Hong Kong,17.6,2016
+University of Texas at Austin,17.4,2016
+Tsinghua University,13.7,2016
+Wageningen University and Research Center,17,2016
+Humboldt University of Berlin,52.5,2016
+University of Wisconsin-Madison,10.8,2016
+Brown University,10.1,2016
+Australian National University,19.2,2016
+Technical University of Munich,31.5,2016
+École Normale Supérieure,7.9,2016
+Nanyang Technological University,16.2,2016
+University of Manchester,15.3,2016
+University of Sydney,20.2,2016
+University of Amsterdam,14.4,2016
+Hong Kong University of Science and Technology,23.8,2016
+The University of Queensland,32.7,2016
+Washington University in St Louis,5.7,2016
+Utrecht University,15.4,2016
+University of North Carolina at Chapel Hill,7.3,2016
+Boston University,8.6,2016
+Delft University of Technology,19.4,2016
+University of Minnesota,18,2016
+Leiden University,17.1,2016
+University of Southern California,12.9,2016
+University of Bristol,14,2016
+Durham University,15.7,2016
+Erasmus University Rotterdam,18.9,2016
+Free University of Berlin,39.3,2016
+Monash University,40.5,2016
+University of Groningen,25.6,2016
+Pennsylvania State University,12.4,2016
+University of Glasgow,16,2016
+University of Helsinki,15.1,2016
+University of Tübingen,38.9,2016
+University of Pittsburgh,5.8,2016
+University of Warwick,16.6,2016
+Uppsala University,18.2,2016
+University of Copenhagen,4.1,2016
+University of New South Wales,25.9,2016
+University of Freiburg,31.2,2016
+Seoul National University,13.9,2016
+University of St Andrews,12.7,2016
+Vanderbilt University,3.6,2016
+Kyoto University,5.6,2016
+Maastricht University,18.9,2016
+Emory University,4.5,2016
+Lund University,11.5,2016
+Ohio State University,13.4,2016
+University of Exeter,18.8,2016
+University of Bonn,70.4,2016
+Georgetown University,8.5,2016
+McMaster University,19.3,2016
+University of Sheffield,15.5,2016
+Queen Mary University of London,14,2016
+University of Göttingen,25.6,2016
+Michigan State University,15.7,2016
+University of Basel,17.3,2016
+École Polytechnique,4.8,2016
+Rice University,9,2016
+Dartmouth College,6.6,2016
+University of Zurich,6.5,2016
+Aarhus University,13.6,2016
+"University of California, Irvine",16.1,2016
+University of Mannheim,85.8,2016
+University of Notre Dame,13.8,2016
+University of Western Australia,20.7,2016
+RWTH Aachen University,27.6,2016
+University of Southampton,13.5,2016
+Scuola Normale Superiore di Pisa,16.5,2016
+University of Montreal,20.3,2016
+Pierre and Marie Curie University,8.7,2016
+Purdue University,18.1,2016
+Pohang University of Science and Technology,10.1,2016
+"University of Maryland, College Park",8.4,2016
+Ghent University,34.1,2016
+University of Birmingham,16.4,2016
+University of Bern,22.5,2016
+University of Cape Town,12.1,2016
+University of Florida,18.7,2016
+University of Erlangen-Nuremberg,53.9,2016
+"Rutgers, the State University of New Jersey",17.3,2016
+University of Münster,46.1,2016
+Radboud University Nijmegen,13,2016
+University of Colorado Boulder,16.1,2016
+Tufts University,10,2016
+"Royal Holloway, University of London",15.9,2016
+Lancaster University,14.9,2016
+University of Geneva,15,2016
+University of York,,2016
+Case Western Reserve University,6.4,2016
+University of Leeds,14.7,2016
+University of Oslo,18.8,2016
+Stockholm University,23.7,2016
+University of Alberta,21.6,2016
+Chinese University of Hong Kong,10.2,2016
+Karlsruhe Institute of Technology,24.6,2016
+University of Sussex,17.4,2016
+University of Massachusetts,13,2016
+University of Vienna,20.5,2016
+University of Nottingham,15,2016
+"University of California, Santa Cruz",22.7,2016
+University of Lausanne,13.1,2016
+Autonomous University of Barcelona,12.3,2016
+University of Virginia,10.2,2016
+Korea Advanced Institute of Science and Technology (KAIST),10,2016
+University of Adelaide,30.1,2016
+University of East Anglia,14.7,2016
+University of Twente,12,2016
+Sungkyunkwan University (SKKU),20.3,2016
+VU University Amsterdam,16.3,2016
+KTH Royal Institute of Technology,14.6,2016
+University of Cologne,43.4,2016
+University of Liverpool,13.6,2016
+TU Dresden,37.4,2016
+University of Rochester,4.5,2016
+Trinity College Dublin,18,2016
+Lomonosov Moscow State University,7.7,2016
+University of Miami,5.7,2016
+University of Arizona,12.7,2016
+Pompeu Fabra University,18.3,2016
+University of Reading,14.8,2016
+Yeshiva University,5.5,2016
+"University of California, Riverside",22,2016
+University of Leicester,13.4,2016
+National Taiwan University,11.9,2016
+Technical University of Denmark,5,2016
+Université Catholique de Louvain,42,2016
+University of Aberdeen,15.8,2016
+University of Auckland,18.9,2016
+University of Barcelona,12.2,2016
+University of Konstanz,59.1,2016
+Eindhoven University of Technology,16,2016
+University College Dublin,24.5,2016
+Hebrew University of Jerusalem,10.7,2016
+University of Waterloo,24.2,2016
+University of Gothenburg,16.4,2016
+Scuola Superiore Sant’Anna,8.5,2016
+University of Bergen,11.1,2016
+Cardiff University,13.1,2016
+University of Utah,16.9,2016
+Brandeis University,12.6,2016
+University of Dundee,15.3,2016
+University of Würzburg,38.4,2016
+Paris-Sud University,15,2016
+Arizona State University,29.9,2016
+University of Antwerp,30.3,2016
+Boston College,17.4,2016
+Ulm University,11.2,2016
+University of Luxembourg,15.9,2016
+Texas A&M University,21.4,2016
+Charité - Universitätsmedizin Berlin,6.6,2016
+Newcastle University,15.2,2016
+"St George’s, University of London",13.4,2016
+University of Trento,43.2,2016
+Paris Diderot University – Paris 7,14.8,2016
+Queen’s University Belfast,17.9,2016
+Aalborg University,15.9,2016
+"Birkbeck, University of London",17.2,2016
+University of Bologna,22.9,2016
+University at Buffalo,19,2016
+University of Calgary,16.5,2016
+Chalmers University of Technology,11.6,2016
+City University of Hong Kong,7.1,2016
+Copenhagen Business School,42.7,2016
+Dalhousie University,14.4,2016
+University of Duisburg-Essen,46.6,2016
+École Normale Supérieure de Lyon,8,2016
+Florida State University,31.8,2016
+University of Fribourg,46.9,2016
+Fudan University,12.2,2016
+George Washington University,12,2016
+Goethe University Frankfurt,9.3,2016
+University of Hawai’i at Mānoa,,2016
+Hong Kong Polytechnic University,25.9,2016
+University of Illinois at Chicago,9.2,2016
+Indiana University,13.6,2016
+University of Iowa,11.6,2016
+Johannes Gutenberg University of Mainz,32.6,2016
+Joseph Fourier University,12.1,2016
+University of Kiel,23.8,2016
+Laval University,16.2,2016
+Medical University of Vienna,2.9,2016
+Northeastern University,15.1,2016
+Oregon Health and Science University,1.1,2016
+University of Otago,20.3,2016
+University of Ottawa,26.3,2016
+Paris Descartes University,26.9,2016
+Peter the Great St Petersburg Polytechnic University,7.2,2016
+Polytechnic University of Milan,22.2,2016
+Royal Veterinary College,10.9,2016
+Rush University,2.1,2016
+Sapienza University of Rome,32.3,2016
+University of Science and Technology of China,7.9,2016
+University of South Florida,21.5,2016
+Stony Brook University,10.9,2016
+University of Stuttgart,45.4,2016
+Swedish University of Agricultural Sciences,4.6,2016
+Technical University of Darmstadt,53.6,2016
+University of Technology Sydney,44.1,2016
+Tel Aviv University,24.4,2016
+University of Texas at Dallas,22.8,2016
+Tilburg University,22.4,2016
+Tohoku University,5,2016
+Tokyo Institute of Technology,7.3,2016
+University of Victoria,21.5,2016
+Wake Forest University,4.6,2016
+University of Western Ontario,20.7,2016
+William & Mary,11.8,2016
+University of the Witwatersrand,18.6,2016
+Aalto University,24.2,2016
+Aix-Marseille University,45.5,2016
+University of Bath,18.8,2016
+Bayreuth University,35.5,2016
+Bielefeld University,67.8,2016
+University of Bordeaux,19.4,2016
+Charles Darwin University,25.4,2016
+Colorado School of Mines,18.2,2016
+Colorado State University,19,2016
+University of Delaware,15.9,2016
+Flinders University,22.6,2016
+University of Georgia,19.9,2016
+Griffith University,22,2016
+University of Iceland,25.9,2016
+Indian Institute of Science,8.2,2016
+Iowa State University,17.4,2016
+James Cook University,21.9,2016
+Justus Liebig University Giessen,53.9,2016
+King Abdulaziz University,8.4,2016
+Koç University,14.6,2016
+Korea University,15.8,2016
+University of Liège,25.9,2016
+Linköping University,7.7,2016
+Nanjing University,13.3,2016
+National Tsing Hua University,13.5,2016
+"National University of Ireland, Galway",26.8,2016
+University of Newcastle,21.9,2016
+North Carolina State University,13.6,2016
+Oregon State University,16.8,2016
+Osaka University,7.8,2016
+Queen’s University,22.1,2016
+Queensland University of Technology,35.8,2016
+Rensselaer Polytechnic Institute,15,2016
+Royal College of Surgeons in Ireland,15.6,2016
+Ruhr University Bochum,46.3,2016
+Saint Louis University,5.8,2016
+University of São Paulo,14.6,2016
+Simon Fraser University,28.3,2016
+University of Surrey,16.6,2016
+Syracuse University,15.9,2016
+University of Tasmania,23.8,2016
+"University of Tennessee, Knoxville",17,2016
+Tomsk Polytechnic University,6.9,2016
+Tulane University,8.4,2016
+Umeå University,11.9,2016
+Vienna University of Technology,52,2016
+Virginia Polytechnic Institute and State University,18.6,2016
+University of Wollongong,25.4,2016
+Zhejiang University,15.9,2016
+Aberystwyth University,19.2,2016
+University of Alaska Fairbanks,8.2,2016
+Autonomous University of Madrid,13,2016
+Bangor University,19.5,2016
+University of Bremen,25.6,2016
+University of Cincinnati,15.7,2016
+University of Connecticut,13,2016
+Deakin University,30.4,2016
+University of Essex,19.8,2016
+George Mason University,17,2016
+University of Greifswald,24,2016
+Gwangju Institute of Science and Technology,9.6,2016
+University of Hohenheim,41.2,2016
+University of Innsbruck,16.9,2016
+Kazan Federal University,12.2,2016
+University of Kent,14.4,2016
+Leibniz University of Hanover,62.7,2016
+Macquarie University,20,2016
+Medical College of Wisconsin,0.6,2016
+University of Milan,24.3,2016
+University of Milan-Bicocca,72.5,2016
+Montpellier University,18.4,2016
+Nagoya University,7.9,2016
+University of Naples Federico II,64.2,2016
+National Chiao Tung University,16.6,2016
+National Research Nuclear University MePhI,7.3,2016
+National Taiwan University of Science and Technology (Taiwan Tech),17.4,2016
+University of Navarra,10.6,2016
+University of Nebraska-Lincoln,16.4,2016
+Örebro University,15.8,2016
+University of Oregon,20.2,2016
+University of Padua,18.3,2016
+University of Pavia,40.6,2016
+Plymouth University,25.9,2016
+Shanghai Jiao Tong University,12.8,2016
+University of Southern Denmark,12.7,2016
+Stellenbosch University,23,2016
+University of Strasbourg,17.8,2016
+Technical University of Dortmund,88.9,2016
+Technion Israel Institute of Technology,19.4,2016
+Toulouse 1 Capitole University,43.8,2016
+University of Trieste,25.8,2016
+University of Turin,66,2016
+University of Turku,14.6,2016
+Vrije Universiteit Brussel,17.1,2016
+VŠB - Technical University of Ostrava,23.9,2016
+Yonsei University,11.6,2016
+York University,39.4,2016
+Bilkent University,,2016
+"Binghamton University, State University of New York",23.3,2016
+University of Crete,26.9,2016
+University of Cyprus,22.9,2016
+Drexel University,10.8,2016
+University of Eastern Finland,17.3,2016
+University of Florence,17.2,2016
+University of St Gallen,10.8,2016
+Graz University of Technology,12.5,2016
+University of Guelph,28.3,2016
+Hanyang University,10.4,2016
+Hong Kong Baptist University,11,2016
+University of Houston,43.7,2016
+Indian Institute of Technology Bombay,14.9,2016
+Instituto Superior Técnico Lisboa,16.9,2016
+University of Jyväskylä,15.2,2016
+La Trobe University,29,2016
+Loughborough University,15.9,2016
+University of Manitoba,27.8,2016
+University of Missouri,14.1,2016
+University of Modena and Reggio Emilia,25.3,2016
+University of Montana,15.2,2016
+"National University of Ireland, Maynooth",28,2016
+University of Nebraska Medical Center,2.6,2016
+University of New Mexico,,2016
+Norwegian University of Science and Technology,13.9,2016
+University of Oulu,8.5,2016
+Panthéon-Sorbonne University – Paris 1,34.3,2016
+Polytechnic University of Turin,19.6,2016
+University of Rome III,61.2,2016
+Sabancı University,15.9,2016
+San Diego State University,31.7,2016
+University of South Australia,26.2,2016
+University of South Carolina,16.3,2016
+University of South Dakota,17.1,2016
+State University of Campinas,15.3,2016
+University of Stirling,15.9,2016
+Sun Yat-sen University,16.6,2016
+Swansea University,17.1,2016
+Swinburne University of Technology,36.5,2016
+University of Tartu,13,2016
+Temple University,13.3,2016
+University of Texas at San Antonio,26.9,2016
+UiT The Arctic University of Norway,12.2,2016
+Université Libre de Bruxelles,26.1,2016
+Lille 2 University – Health and Law,38.5,2016
+University College Cork,22.3,2016
+Verona University,19.7,2016
+Victoria University of Wellington,21.1,2016
+Washington State University,18.3,2016
+Wayne State University,10.7,2016
+American University,12,2016
+Aston University,,2016
+University of Aveiro,17.8,2016
+University of Bari Aldo Moro,65.1,2016
+Bar-Ilan University,16,2016
+Bournemouth University,25.9,2016
+University of Brescia,25,2016
+Brno University of Technology,21.3,2016
+Brunel University London,17.6,2016
+Ca’ Foscari University of Venice,38.3,2016
+University of Cagliari,51,2016
+University of Canterbury,16.5,2016
+Catholic University of the Sacred Heart,18.9,2016
+Charles University in Prague,13,2016
+"China Medical University, Taiwan",15.4,2016
+City University London,17.8,2016
+Claude Bernard University Lyon 1,16.1,2016
+University of Coimbra,19,2016
+Complutense University of Madrid,17.5,2016
+Concordia University,30.3,2016
+Curtin University,17.1,2016
+Dublin City University,22.9,2016
+East China University of Science and Technology,15.5,2016
+Ewha Womans University,14.4,2016
+Federico Santa María Technical University,34,2016
+University of Ferrara,30.2,2016
+Florida International University,25.9,2016
+University of Genoa,29.5,2016
+Georgia State University,20.4,2016
+University of Graz,26.8,2016
+Heriot-Watt University,17.8,2016
+Hokkaido University,8.2,2016
+Howard University,6.8,2016
+University of Hull,18.7,2016
+University of Idaho,21.5,2016
+Indian Institute of Technology Delhi,17.3,2016
+Indian Institute of Technology Kharagpur,17.5,2016
+Indian Institute of Technology Madras,15.9,2016
+University of Ioannina,36.3,2016
+Iran University of Science and Technology,23.9,2016
+Johannes Kepler University of Linz,29.1,2016
+University of Kaiserslautern,54.4,2016
+Keele University,15.7,2016
+University of KwaZulu-Natal,24.9,2016
+Kyung Hee University,17.4,2016
+Kyushu University,6.7,2016
+Lehigh University,11.3,2016
+Louisiana State University,20.1,2016
+University of Macau,14.9,2016
+Makerere University,29.4,2016
+Marche Polytechnic University,23,2016
+"University of Maryland, Baltimore County",18.1,2016
+Murdoch University,32.8,2016
+University of Nantes,22.2,2016
+National and Kapodistrian University of Athens,32.3,2016
+National Autonomous University of Mexico,11.6,2016
+National Cheng Kung University,14.4,2016
+National Institute of Applied Sciences of Lyon (INSA Lyon),8.2,2016
+National Yang-Ming University,5.4,2016
+University of Neuchâtel,8.5,2016
+New University of Lisbon,17.9,2016
+University of Nice Sophia Antipolis,20.3,2016
+Novosibirsk State University,7.1,2016
+The Open University,35.9,2016
+Oxford Brookes University,18.5,2016
+University of Palermo,22.4,2016
+University of Parma,29.1,2016
+University of Pisa,18,2016
+Polytechnic University of Catalonia,11.7,2016
+Pontifical Catholic University of Chile,15.3,2016
+University of Porto,18.8,2016
+University of Portsmouth,19.1,2016
+RMIT University,18.1,2016
+University of Rome II – Tor Vergata,26.5,2016
+University of Rovira i Virgili,12.8,2016
+Saint Petersburg State University,5.2,2016
+University of Salento,58.4,2016
+University of San Francisco,17,2016
+University of Saskatchewan,16.3,2016
+Sharif University of Technology,18.7,2016
+University of Siena,23.6,2016
+Southern Cross University,32.8,2016
+State University of New York Albany,18.5,2016
+University of Strathclyde,20.2,2016
+University of Tampere,9.5,2016
+Tampere University of Technology,15.5,2016
+Tokyo Medical and Dental University (TMDU),3.3,2016
+Tokyo Metropolitan University,9.9,2016
+University of Tsukuba,12.6,2016
+University of Ulsan,13.3,2016
+Ulster University,15.8,2016
+Université du Québec à Montréal,24.7,2016
+Universiti Teknologi Malaysia,9,2016
+University of Urbino Carlo Bo,37.4,2016
+University of Valencia,15.4,2016
+University of Waikato,17,2016
+Western Sydney University,32.2,2016
+Wuhan University,14.4,2016
+Xiamen University,12.3,2016
+American University of Beirut,8.9,2016
+Amirkabir University of Technology,25.6,2016
+"University of the Andes, Colombia",16.9,2016
+University of Arkansas,21.2,2016
+Auburn University,17.6,2016
+Babeş-Bolyai University,23.5,2016
+University of the Basque Country,15.3,2016
+Bauman Moscow State Technical University,4,2016
+Ben-Gurion University of the Negev,12.6,2016
+Blaise Pascal University,7.1,2016
+Boğaziçi University,25,2016
+University of Burgundy,20.8,2016
+University of Canberra,28.6,2016
+Carleton University,29.8,2016
+University of Catania,49.7,2016
+Central Queensland University,29.6,2016
+University of Chile,14.2,2016
+China Agricultural University,12,2016
+Chung-Ang University,17.4,2016
+Czech Technical University in Prague,12,2016
+De Montfort University,19.1,2016
+East China Normal University,14,2016
+Edith Cowan University,16.1,2016
+Federal University of Rio de Janeiro,12.8,2016
+University of Granada,16,2016
+University of Haifa,30.8,2016
+Harbin Institute of Technology,10.8,2016
+University of Hertfordshire,19.4,2016
+Hiroshima University,8.2,2016
+Huazhong University of Science and Technology,17.7,2016
+Indian Institute of Technology Guwahati,14.2,2016
+Indian Institute of Technology Kanpur,12.2,2016
+Indian Institute of Technology Roorkee,18.7,2016
+Isfahan University of Technology,26.5,2016
+Istanbul Technical University,16,2016
+Jadavpur University,16.1,2016
+Kanazawa University,10.4,2016
+Kansas State University,15.1,2016
+Keio University,11.9,2016
+Kent State University,19,2016
+King Fahd University of Petroleum and Minerals,7.1,2016
+King Saud University,13.4,2016
+University of La Laguna,14.9,2016
+Lappeenranta University of Technology,23.9,2016
+University of Limerick,19.8,2016
+University of Lisbon,17.5,2016
+Liverpool John Moores University,19.8,2016
+Mahidol University,7.5,2016
+Manchester Metropolitan University,18.2,2016
+University of Maribor,17.3,2016
+Masaryk University,26.6,2016
+Massey University,16.8,2016
+Memorial University of Newfoundland,14.6,2016
+Middle East Technical University,22.2,2016
+University of Minho,18.8,2016
+Missouri University of Science and Technology,15.5,2016
+Montana State University,17.8,2016
+Monterrey Institute of Technology and Higher Education,20.5,2016
+National Central University,9.8,2016
+National Sun Yat-Sen University,19.6,2016
+National Taiwan Normal University,13,2016
+National Technical University of Athens,26.9,2016
+New Jersey Institute of Technology,26.2,2016
+New Mexico State University,18.8,2016
+University of North Carolina at Greensboro,19.2,2016
+Oklahoma State University,21.4,2016
+Osaka City University,10.1,2016
+Otto von Guericke University of Magdeburg,13.1,2016
+University of Oviedo,13.7,2016
+Palacký University in Olomouc,11.4,2016
+Panjab University,23.9,2016
+Paris Dauphine University,15.4,2016
+Pontifical Catholic University of Rio de Janeiro (PUC-Rio),21.2,2016
+Portland State University,22.2,2016
+University of Pretoria,20,2016
+Pusan National University,19.7,2016
+Quaid-i-azam University,25.7,2016
+University of Regina,22.8,2016
+Renmin University of China,12.7,2016
+University of Rennes 1,13.9,2016
+University of Salamanca,17.9,2016
+University of Santiago de Compostela,15.3,2016
+Semmelweis University,10.9,2016
+University of Seville,17.5,2016
+Université de Sherbrooke,5.4,2016
+Soochow University,12.9,2016
+South China University of Technology,17.7,2016
+Tallinn University of Technology,28.6,2016
+Tehran University of Medical Sciences,9,2016
+University of Texas at Arlington,10.5,2016
+Tianjin University,12.2,2016
+Tokyo University of Agriculture and Technology,14.4,2016
+University of Toledo,17.5,2016
+Tongji University,13.5,2016
+University of Tulsa,12.5,2016
+United Arab Emirates University,12.5,2016
+University of Warsaw,14.1,2016
+University of Wisconsin-Milwaukee,18.4,2016
+Xi’an Jiaotong University,12.3,2016
+University of Zaragoza,11.8,2016
+University of A Coruña,13,2016
+Adam Mickiewicz University,15.6,2016
+AGH University of Science and Technology,17,2016
+Ajou University,11.3,2016
+University of Alcalá,25.1,2016
+Alexandria University,23.3,2016
+Alexandru Ioan Cuza University,33,2016
+Aligarh Muslim University,10.5,2016
+American University of Sharjah,14.1,2016
+Amrita University,6.6,2016
+Anadolu University,162.6,2016
+Andhra University,20.2,2016
+University of Antioquia,23,2016
+Aristotle University of Thessaloniki,22.2,2016
+"Asia University, Taiwan",26.3,2016
+Athens University of Economics and Business,57.5,2016
+Auckland University of Technology,18.1,2016
+Austral University of Chile,17.8,2016
+Beijing Institute of Technology,,2016
+Belarusian State University,10.6,2016
+University of Belgrade,28.3,2016
+"Birla Institute of Technology and Science, Pilani",19.5,2016
+University of Bradford,20.5,2016
+University of Brasília,14.5,2016
+University of Brighton,19.5,2016
+University of Bucharest,24.9,2016
+Budapest University of Technology and Economics,22.1,2016
+Cairo University,39.1,2016
+University of Calcutta,32.5,2016
+"California State University, Long Beach",32.3,2016
+Capital Medical University,7.1,2016
+University of Castilla-La Mancha,14.3,2016
+University of Central Lancashire,17.5,2016
+University of Cergy-Pontoise,9.2,2016
+Chang Gung University,12.6,2016
+Carlos III University of Madrid,11.4,2016
+"University of Chemistry and Technology, Prague",11,2016
+Chiang Mai University,16.5,2016
+Chiba University,12.3,2016
+China University of Geosciences (Wuhan),20.7,2016
+China University of Petroleum (Beijing),19.4,2016
+Chonbuk National University,15,2016
+Chongqing University,16,2016
+Chonnam National University,18.5,2016
+Chulalongkorn University,14.5,2016
+Chung Yuan Christian University,30.2,2016
+Chungnam National University,17.2,2016
+Clemson University,17.1,2016
+Comenius University in Bratislava,9.7,2016
+Coventry University,14.8,2016
+Dalian University of Technology,15.2,2016
+University of Debrecen,20.3,2016
+University of Delhi,22.9,2016
+University of Dhaka,6.9,2016
+Dublin Institute of Technology,18.9,2016
+Ehime University,9.9,2016
+University of Electronic Science and Technology of China,9.8,2016
+Eötvös Loránd University,22.4,2016
+Erciyes University,28,2016
+Federal University of Bahia,17.9,2016
+Federal University of Minas Gerais,13.5,2016
+Federal University of Paraná (UFPR),11.2,2016
+Federal University of Rio Grande do Sul,14.8,2016
+Federal University of Santa Catarina,12.6,2016
+Federal University of São Carlos,16.9,2016
+Federal University of Viçosa,11.4,2016
+Federal University of Lavras,20.9,2016
+Feng Chia University,23.9,2016
+Florida Institute of Technology,13.7,2016
+Fu Jen Catholic University,22.8,2016
+Gdańsk University of Technology,23.3,2016
+University of Ghana,37.5,2016
+Gifu University,12.4,2016
+Glasgow Caledonian University,21.6,2016
+University of Greenwich,24.6,2016
+Hacettepe University,20.4,2016
+University of Huddersfield,18.1,2016
+Hunan University,24.7,2016
+University of Ibadan,17.1,2016
+University of Indonesia,15.8,2016
+Inha University,24.1,2016
+I-Shou University,29.9,2016
+Istanbul University,41.1,2016
+Jagiellonian University,11.5,2016
+Jilin University,13.6,2016
+University of Jordan,13.6,2016
+Jordan University of Science and Technology,16.4,2016
+Juntendo University,3.7,2016
+K.N. Toosi University of Technology,24.6,2016
+Kaohsiung Medical University,12.6,2016
+Khon Kaen University,16.9,2016
+King Mongkut’s University of Technology Thonburi,23.7,2016
+Kingston University,20.9,2016
+Kinki University,11.6,2016
+Kobe University,8.4,2016
+Konkuk University,23.5,2016
+Kumamoto University,7.6,2016
+Kyungpook National University,14.4,2016
+Kyushu Institute of Technology,12.1,2016
+University of Latvia,26.5,2016
+Lille 1 University – Science and Technology,14.5,2016
+University of Lincoln,18.9,2016
+University of Ljubljana,17.6,2016
+University of Marrakech Cadi Ayyad,38.7,2016
+Miami University,20.5,2016
+Middlesex University,24.7,2016
+Moscow Institute of Physics and Technology,7,2016
+University of Murcia,15.8,2016
+Nagasaki University,7.2,2016
+University of Nairobi,47,2016
+National Chengchi University,18.4,2016
+National Chung Cheng University,22.9,2016
+National Chung Hsing University,20.3,2016
+National Taipei University of Technology,16.5,2016
+National Taiwan Ocean University,20.9,2016
+National University of Córdoba,38.1,2016
+National University of Science and Technology (MISiS),6.7,2016
+National University of Sciences and Technology,7.8,2016
+Niigata University,8.5,2016
+Northumbria University,19.3,2016
+Northwestern Polytechnical University,14.1,2016
+Nottingham Trent University,17.4,2016
+Oakland University,19.8,2016
+Ocean University of China,20.6,2016
+Ohio University,20,2016
+Okayama University,8.6,2016
+Osaka Prefecture University,7.5,2016
+University of Pardubice,19.8,2016
+University of Paris North – Paris 13,23.4,2016
+Paris-Sorbonne University – Paris 4,27.4,2016
+University of Patras,40.9,2016
+University of Pécs,15.4,2016
+Polytechnic University of Valencia,13.6,2016
+Pontifical Catholic University of Paraná,10.9,2016
+Pontifical Catholic University of Rio Grande do Sul (PUCRS),10.1,2016
+Pontifical Catholic University of Valparaíso,10.4,2016
+Prince of Songkla University,16.1,2016
+Qatar University,19,2016
+Rio de Janeiro State University (UERJ),10.1,2016
+Rochester Institute of Technology,13.5,2016
+Saitama University,11.7,2016
+University of Salford,17,2016
+"University of Santiago, Chile (USACH)",23.6,2016
+São Paulo State University (UNESP),13,2016
+Savitribai Phule Pune University,14.6,2016
+University of Science and Technology Beijing,15.1,2016
+Sejong University,15.5,2016
+University of Seoul,19,2016
+Shahid Beheshti University,24.9,2016
+Shanghai University,17.5,2016
+Shantou University,13.5,2016
+Sheffield Hallam University,18.8,2016
+Shinshu University,9.6,2016
+Showa University,2.5,2016
+Sichuan University,14.5,2016
+University of Silesia in Katowice,17.3,2016
+Slovak University of Technology in Bratislava,15.3,2016
+Sogang University,24.1,2016
+Sophia University,24.3,2016
+University of South Africa,108.5,2016
+Southern Federal University,9,2016
+University of Southern Mississippi,18.5,2016
+University of Southern Queensland,29.2,2016
+Suez Canal University,6,2016
+Sultan Qaboos University,9,2016
+Suranaree University of Technology,32.9,2016
+University of Szeged,13.8,2016
+Taipei Medical University,11.1,2016
+Taras Shevchenko National University of Kyiv,8.2,2016
+Technical University of Madrid,13.8,2016
+University of Tehran,27,2016
+University of Texas at El Paso,29,2016
+Texas Tech University,20.9,2016
+Tokai University,12.7,2016
+Tokushima University,8.9,2016
+Tokyo University of Marine Science and Technology,11.1,2016
+Tokyo University of Science,25.7,2016
+Tomsk State University,9.9,2016
+Tottori University,8.2,2016
+Toyohashi University of Technology,9.3,2016
+Universiti Kebangsaan Malaysia,11.8,2016
+Universiti Putra Malaysia,12.2,2016
+Universiti Sains Malaysia,14.8,2016
+Universiti Teknologi MARA,16.8,2016
+Ural Federal University,10.1,2016
+V.N. Karazin Kharkiv National University,9.7,2016
+University of Vigo,19,2016
+Vilnius University,14.2,2016
+Warsaw University of Technology,14.5,2016
+Waseda University,16.9,2016
+University of West Bohemia,21.5,2016
+University of the West of England,21.4,2016
+West University of Timişoara,19,2016
+University of Westminster,21,2016
+Xidian University,16.4,2016
+Yeungnam University,15.3,2016
+Yıldız Technical University,28.7,2016
+Yokohama City University,3.7,2016
+Yokohama National University,12.1,2016
+Yuan Ze University,20.6,2016

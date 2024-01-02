@@ -1,0 +1,640 @@
+,world_rank,national_rank,quality_of_education,alumni_employment,quality_of_faculty,publications,influence,citations,broad_impact,patents,score,student_staff_ratio,international_students_%,region,clusters,cluster,institution,country,score category,year
+200,1,1,1,1,1,1,1,1,1.0,2,100.0,8.9,0.25,1.0,0,pink,Harvard University,United States of America,High score,2014
+201,2,2,11,2,4,5,3,3,4.0,6,99.09,7.8,0.22,1.0,0,pink,Stanford University,United States of America,High score,2014
+202,3,3,3,11,2,15,2,2,2.0,1,98.69,9.0,0.33,1.0,0,pink,Massachusetts Institute of Technology,United States of America,High score,2014
+203,4,1,2,10,5,10,9,12,13.0,48,97.64,11.8,0.34,3.0,0,pink,University of Cambridge,United Kingdom,High score,2014
+204,5,2,7,12,10,11,12,11,12.0,16,97.51,11.6,0.34,3.0,0,pink,University of Oxford,United Kingdom,High score,2014
+205,6,4,13,8,9,14,13,9,13.0,4,97.41,5.9,0.28,1.0,0,pink,Columbia University,United States of America,High score,2014
+206,7,5,4,22,6,7,4,3,7.0,28,92.84,16.4,0.15,1.0,0,pink,"University of California, Berkeley",United States of America,High score,2014
+207,8,6,10,14,8,17,19,10,18.0,149,92.03,6.9,0.21,1.0,0,pink,University of Chicago,United States of America,High score,2014
+208,9,7,5,16,3,70,25,19,41.0,204,88.56,8.4,0.27,1.0,0,pink,Princeton University,United States of America,High score,2014
+209,10,8,9,25,11,18,7,32,19.0,45,88.11,4.4,0.2,1.0,0,pink,Yale University,United States of America,High score,2014
+210,11,9,12,18,19,23,15,23,23.0,12,85.8,10.2,0.19,1.0,0,pink,Cornell University,United States of America,High score,2014
+211,12,10,6,303,7,48,6,16,24.0,9,85.5,6.9,0.27,1.0,0,pink,California Institute of Technology,United States of America,High score,2014
+212,13,1,17,3,33,12,16,28,26.0,14,80.64,5.7,0.1,2.0,0,pink,University of Tokyo,Japan,High score,2014
+213,14,11,21,4,26,8,17,13,10.0,28,79.3,6.5,0.2,1.0,0,pink,University of Pennsylvania,United States of America,High score,2014
+214,15,12,27,27,12,6,14,7,6.0,10,78.35,10.3,0.15,1.0,0,pink,"University of California, Los Angeles",United States of America,High score,2014
+215,16,2,30,23,15,27,41,61,51.0,18,73.21,5.6,0.07,2.0,0,pink,Kyoto University,Japan,High score,2014
+216,17,13,33,21,17,49,29,32,31.0,48,72.29,6.8,0.19,1.0,0,pink,New York University,United States of America,High score,2014
+218,19,14,24,75,18,4,10,6,3.0,3,71.17,3.6,0.23,1.0,0,pink,Johns Hopkins University,United States of America,High score,2014
+219,20,15,32,478,20,16,5,19,16.0,13,68.36,6.5,0.11,1.0,0,pink,"University of California, San Diego",United States of America,High score,2014
+221,22,1,15,255,16,114,94,493,151.0,40,66.76,10.7,0.05,2.0,0,pink,Hebrew University of Jerusalem,Israel,High score,2014
+222,23,17,151,13,105,28,32,25,27.0,61,66.18,13.8,0.15,1.0,0,pink,Northwestern University,United States of America,High score,2014
+223,24,1,355,9,210,38,165,87,107.0,5,66.06,13.9,0.1,2.0,0,pink,Seoul National University,South Korea,High score,2014
+225,26,19,65,30,49,22,23,13,15.0,42,63.56,4.8,0.17,1.0,0,pink,Duke University,United States of America,High score,2014
+228,29,22,92,39,24,51,54,26,74.0,45,62.57,17.4,0.09,1.0,0,pink,University of Texas at Austin,United States of America,High score,2014
+229,30,3,20,406,52,13,22,18,21.0,121,61.05,10.7,0.46,3.0,0,pink,University College London,United Kingdom,High score,2014
+230,31,1,71,45,35,2,18,13,8.0,149,60.87,19.5,0.15,1.0,0,pink,University of Toronto,Canada,High score,2014
+235,36,2,150,6,208,323,282,250,295.0,181,59.54,4.8,0.3,3.0,0,pink,École Polytechnique,France,Medium score,2014
+238,39,4,121,98,38,20,27,31,17.0,34,58.85,11.7,0.51,3.0,0,pink,Imperial College London,United Kingdom,Medium score,2014
+240,41,26,194,17,117,93,71,55,89.0,94,58.6,10.2,0.12,1.0,0,pink,University of Virginia,United States of America,Medium score,2014
+241,42,2,45,32,60,35,59,34,32.0,204,58.39,13.7,0.23,1.0,0,pink,McGill University,Canada,Medium score,2014
+242,43,5,69,36,48,43,55,114,56.0,34,58.35,7.8,0.09,2.0,0,pink,Osaka University,Japan,Medium score,2014
+243,44,27,46,15,210,246,164,125,132.0,74,58.0,6.6,0.16,1.0,0,pink,Dartmouth College,United States of America,Medium score,2014
+244,45,28,179,86,61,32,37,22,22.0,38,57.51,7.3,0.08,1.0,0,pink,University of North Carolina at Chapel Hill,United States of America,Medium score,2014
+247,48,1,14,210,50,264,247,310,361.0,737,56.42,7.7,0.2,3.0,2,dark purple,Lomonosov Moscow State University,Russia,Medium score,2014
+250,51,32,148,74,43,59,64,61,54.0,33,55.7,12.9,0.2,1.0,0,pink,University of Southern California,United States of America,Medium score,2014
+253,54,35,25,219,27,207,234,52,144.0,170,55.3,13.1,0.35,1.0,0,pink,Carnegie Mellon University,United States of America,Medium score,2014
+254,55,1,355,35,210,65,155,250,155.0,7,55.3,8.3,0.14,2.0,0,pink,Peking University,China,Medium score,2014
+255,56,5,42,131,36,54,42,55,46.0,307,55.2,14.1,0.36,3.0,0,pink,University of Edinburgh,United Kingdom,Medium score,2014
+256,57,36,47,192,90,29,31,38,50.0,68,55.18,13.9,0.13,1.0,0,pink,"University of California, Davis",United States of America,Medium score,2014
+258,59,38,212,299,95,34,70,52,63.0,8,54.76,18.7,0.09,1.0,0,pink,University of Florida,United States of America,Medium score,2014
+259,60,39,124,252,28,105,53,48,56.0,68,54.76,27.3,0.11,1.0,0,pink,"University of California, Santa Barbara",United States of America,Medium score,2014
+260,61,3,85,298,92,26,34,36,41.0,78,54.75,17.6,0.25,1.0,0,pink,University of British Columbia,Canada,Medium score,2014
+261,62,40,88,91,45,99,62,114,94.0,22,54.67,16.9,0.09,1.0,0,pink,University of Utah,United States of America,Medium score,2014
+262,63,41,75,56,41,97,35,75,77.0,128,54.5,16.1,0.08,1.0,0,pink,University of Colorado Boulder,United States of America,Medium score,2014
+263,64,42,197,20,150,241,230,159,238.0,307,54.25,13.8,0.1,1.0,0,pink,University of Notre Dame,United States of America,Medium score,2014
+264,65,1,113,24,210,46,216,283,215.0,637,54.19,11.9,0.07,2.0,2,dark purple,National Taiwan University,Taiwan,Medium score,2014
+266,67,44,291,47,84,60,46,43,37.0,227,53.96,8.6,0.17,1.0,0,pink,Boston University,United States of America,Medium score,2014
+268,69,6,98,73,74,41,68,43,59.0,94,53.9,15.3,0.34,3.0,0,pink,University of Manchester,United Kingdom,Medium score,2014
+269,70,45,99,62,87,67,33,37,46.0,307,53.77,12.7,0.08,1.0,0,pink,University of Arizona,United States of America,Medium score,2014
+270,71,46,108,90,113,58,57,52,40.0,51,53.69,3.6,0.1,1.0,0,pink,Vanderbilt University,United States of America,Medium score,2014
+271,72,6,40,241,210,56,112,107,112.0,21,53.65,5.0,0.07,2.0,0,pink,Tohoku University,Japan,Medium score,2014
+272,73,1,126,478,37,55,61,38,36.0,737,53.64,11.5,0.22,3.0,2,dark purple,Karolinska Institute,Sweden,Medium score,2014
+273,74,1,355,99,210,37,136,114,102.0,23,53.52,15.5,0.34,2.0,0,pink,National University of Singapore,Singapore,Medium score,2014
+274,75,2,48,151,30,121,75,99,79.0,194,53.5,15.0,0.39,3.0,0,pink,University of Geneva,Switzerland,Medium score,2014
+275,76,47,63,198,51,57,49,38,73.0,338,53.46,8.4,0.09,1.0,0,pink,"University of Maryland, College Park",United States of America,Medium score,2014
+276,77,48,60,50,116,112,104,69,70.0,76,53.06,4.5,0.26,1.0,0,pink,University of Rochester,United States of America,Medium score,2014
+277,78,49,355,97,210,66,65,73,37.0,45,53.01,4.5,0.18,1.0,0,pink,Emory University,United States of America,Medium score,2014
+278,79,1,111,143,63,44,44,61,34.0,481,52.94,4.1,0.19,3.0,0,pink,University of Copenhagen,Denmark,Medium score,2014
+279,80,50,217,478,42,76,48,48,51.0,138,52.93,16.1,0.16,1.0,0,pink,"University of California, Irvine",United States of America,Medium score,2014
+280,81,51,56,46,67,123,66,55,97.0,170,52.92,10.1,0.19,1.0,0,pink,Brown University,United States of America,Medium score,2014
+282,83,52,123,77,210,104,154,79,101.0,24,52.74,20.1,0.26,1.0,0,pink,Georgia Institute of Technology,United States of America,Medium score,2014
+283,84,53,68,43,178,164,148,79,81.0,84,52.71,10.0,0.14,1.0,0,pink,Tufts University,United States of America,Medium score,2014
+284,85,3,110,404,82,47,43,55,56.0,94,52.69,6.5,0.19,3.0,0,pink,University of Zurich,Switzerland,Medium score,2014
+285,86,3,74,122,56,95,116,176,151.0,28,52.63,24.4,0.04,2.0,0,pink,Tel Aviv University,Israel,Medium score,2014
+286,87,2,294,63,210,79,192,134,162.0,16,52.6,13.7,0.1,2.0,0,pink,Tsinghua University,China,Medium score,2014
+287,88,1,102,181,101,40,51,55,49.0,338,52.42,15.4,0.07,3.0,0,pink,Utrecht University,Netherlands,Medium score,2014
+290,91,1,66,178,32,78,162,250,145.0,373,52.12,32.3,0.07,3.0,0,pink,Sapienza University of Rome,Italy,Medium score,2014
+291,92,7,355,41,210,135,170,283,207.0,27,51.96,6.7,0.08,2.0,0,pink,Kyushu University,Japan,Medium score,2014
+294,95,1,127,158,162,50,117,61,94.0,100,51.58,20.2,0.28,2.0,0,pink,University of Sydney,Australia,Medium score,2014
+295,96,8,208,48,119,150,157,87,180.0,44,51.53,7.3,0.13,2.0,0,pink,Tokyo Institute of Technology,Japan,Medium score,2014
+296,97,2,136,101,210,45,74,87,81.0,194,51.43,23.7,0.35,2.0,0,pink,University of Melbourne,Australia,Medium score,2014
+297,98,3,23,275,70,156,125,187,145.0,227,51.37,70.4,0.13,3.0,0,pink,University of Bonn,Germany,Medium score,2014
+298,99,4,38,138,173,106,92,187,97.0,100,51.34,31.5,0.2,3.0,0,pink,Technical University of Munich,Germany,Medium score,2014
+300,101,2,355,66,184,88,142,75,45.0,227,51.29,18.9,0.18,3.0,0,pink,Erasmus University Rotterdam,Netherlands,Medium score,2014
+301,102,54,44,208,189,134,97,60,70.0,100,51.27,6.4,0.17,1.0,0,pink,Case Western Reserve University,United States of America,Medium score,2014
+302,103,4,163,144,148,61,105,81,99.0,84,51.23,21.6,0.23,1.0,0,pink,University of Alberta,Canada,Medium score,2014
+305,106,57,355,478,72,141,79,69,145.0,34,51.14,29.9,0.09,1.0,0,pink,Arizona State University,United States of America,Medium score,2014
+306,107,2,355,61,210,143,330,250,251.0,15,50.95,11.6,0.14,2.0,0,pink,Yonsei University,South Korea,Medium score,2014
+307,108,58,54,313,94,252,144,45,121.0,61,50.94,9.0,0.26,1.0,0,pink,Rice University,United States of America,Medium score,2014
+309,110,1,53,478,77,80,88,99,74.0,481,50.76,15.1,0.06,3.0,0,pink,University of Helsinki,Finland,Medium score,2014
+310,111,1,139,266,44,108,126,130,100.0,373,50.7,18.8,0.18,3.0,0,pink,University of Oslo,Norway,Medium score,2014
+311,112,59,112,214,210,85,115,45,106.0,128,50.69,15.7,0.15,1.0,0,pink,Michigan State University,United States of America,Medium score,2014
+313,114,1,79,29,169,456,241,310,472.0,259,50.4,18.6,0.09,5.0,2,dark purple,University of the Witwatersrand,South Africa,Medium score,2014
+315,116,3,132,478,165,81,133,48,70.0,737,50.34,11.5,0.15,3.0,2,dark purple,Lund University,Sweden,Medium score,2014
+316,117,3,107,478,78,82,91,114,66.0,227,50.29,17.1,0.1,3.0,0,pink,Leiden University,Netherlands,Medium score,2014
+317,118,61,146,37,210,295,323,310,211.0,159,50.28,8.5,0.14,1.0,0,pink,Georgetown University,United States of America,Medium score,2014
+318,119,2,292,188,107,90,78,81,90.0,194,50.17,13.6,0.14,3.0,0,pink,Aarhus University,Denmark,Medium score,2014
+319,120,1,355,207,210,63,107,81,88.0,259,50.17,12.2,0.1,3.0,0,pink,University of Barcelona,Spain,Medium score,2014
+321,122,4,182,438,204,74,86,87,68.0,338,49.97,14.4,0.11,3.0,0,pink,University of Amsterdam,Netherlands,Low score,2014
+322,123,8,177,242,76,87,69,99,110.0,338,49.97,14.0,0.25,3.0,0,pink,University of Bristol,United Kingdom,Low score,2014
+323,124,4,62,336,111,94,77,99,102.0,737,49.96,18.2,0.12,3.0,2,dark purple,Uppsala University,Sweden,Low score,2014
+324,125,63,223,184,163,103,81,87,110.0,115,49.95,11.6,0.11,1.0,0,pink,University of Iowa,United States of America,Low score,2014
+325,126,64,170,478,68,161,73,69,118.0,100,49.92,10.9,0.24,1.0,0,pink,Stony Brook University,United States of America,Low score,2014
+326,127,5,293,265,190,71,103,107,79.0,338,49.89,25.6,0.12,3.0,0,pink,University of Groningen,Netherlands,Low score,2014
+327,128,3,355,85,210,186,262,363,306.0,11,49.88,10.0,0.09,2.0,0,pink,Korea Advanced Institute of Science and Technology (KAIST),South Korea,Low score,2014
+328,129,6,118,155,210,91,120,114,81.0,552,49.85,13.0,0.1,3.0,0,pink,Radboud University Nijmegen,Netherlands,Low score,2014
+329,130,4,355,58,210,182,428,220,293.0,34,49.84,15.8,0.14,2.0,0,pink,Korea University,South Korea,Low score,2014
+330,131,1,302,70,210,62,182,114,162.0,737,49.82,14.6,0.04,4.0,2,dark purple,University of São Paulo,Brazil,Low score,2014
+331,132,9,67,356,69,119,141,134,192.0,68,49.82,7.9,0.1,2.0,0,pink,Nagoya University,Japan,Low score,2014
+333,134,5,309,460,210,77,110,87,64.0,426,49.79,20.3,0.25,1.0,2,dark purple,University of Montreal,Canada,Low score,2014
+335,136,2,115,282,139,89,158,81,129.0,121,49.73,34.1,0.09,3.0,0,pink,Ghent University,Belgium,Low score,2014
+336,137,9,219,112,210,118,131,87,92.0,280,49.64,16.0,0.29,3.0,0,pink,University of Glasgow,United Kingdom,Low score,2014
+337,138,66,355,152,210,159,128,87,114.0,78,49.62,5.7,0.14,1.0,0,pink,University of Miami,United States of America,Low score,2014
+340,141,6,210,271,159,128,159,87,81.0,159,49.51,19.3,0.15,1.0,0,pink,McMaster University,Canada,Low score,2014
+341,142,10,58,119,198,116,160,150,135.0,204,49.48,16.4,0.23,3.0,0,pink,University of Birmingham,United Kingdom,Low score,2014
+342,143,67,355,244,210,219,100,61,44.0,307,49.47,22.8,0.23,1.0,0,pink,University of Texas at Dallas,United States of America,Low score,2014
+343,144,7,355,398,210,83,123,87,86.0,737,49.47,16.3,0.06,3.0,2,dark purple,VU University Amsterdam,Netherlands,Low score,2014
+344,145,68,242,59,210,251,236,150,126.0,128,49.46,4.6,0.05,1.0,0,pink,Wake Forest University,United States of America,Low score,2014
+345,146,11,315,81,210,115,129,107,129.0,259,49.42,13.5,0.29,3.0,0,pink,University of Southampton,United Kingdom,Low score,2014
+346,147,12,128,148,85,113,174,150,135.0,159,49.41,15.0,0.27,3.0,0,pink,University of Nottingham,United Kingdom,Low score,2014
+347,148,2,355,478,210,110,387,220,251.0,26,49.35,16.2,0.33,2.0,2,dark purple,Nanyang Technological University,Singapore,Low score,2014
+348,149,4,172,114,210,100,194,99,164.0,138,49.29,25.9,0.33,2.0,0,pink,University of New South Wales,Australia,Low score,2014
+350,151,13,84,93,210,132,134,134,151.0,280,49.23,14.7,0.21,3.0,0,pink,University of Leeds,United Kingdom,Low score,2014
+353,154,5,77,222,66,168,113,134,141.0,426,49.17,17.3,0.24,3.0,0,pink,University of Basel,Switzerland,Low score,2014
+354,155,1,272,116,210,98,195,176,118.0,481,49.1,17.6,0.38,2.0,2,dark purple,University of Hong Kong,Hong Kong,Low score,2014
+356,157,6,275,478,110,117,84,159,81.0,373,49.03,52.5,0.16,3.0,2,dark purple,Humboldt University of Berlin,Germany,Low score,2014
+357,158,7,94,478,119,122,82,250,90.0,481,49.02,39.3,0.2,3.0,2,dark purple,Free University of Berlin,Germany,Low score,2014
+358,159,8,64,478,102,158,143,159,117.0,227,48.99,38.9,0.12,3.0,0,pink,University of Tübingen,Germany,Low score,2014
+359,160,5,186,377,47,137,95,187,196.0,426,48.96,19.2,0.35,2.0,2,dark purple,Australian National University,Australia,Low score,2014
+360,161,9,105,291,62,175,151,200,124.0,280,48.93,9.3,0.15,3.0,0,pink,Goethe University Frankfurt,Germany,Low score,2014
+361,162,70,355,40,210,315,291,493,355.0,89,48.91,43.7,0.09,1.0,2,dark purple,University of Houston,United States of America,Low score,2014
+362,163,71,160,478,99,239,50,114,107.0,227,48.89,22.7,0.01,1.0,0,pink,"University of California, Santa Cruz",United States of America,Low score,2014
+365,166,8,355,89,210,147,171,114,132.0,737,48.84,16.5,0.17,1.0,2,dark purple,University of Calgary,Canada,Low score,2014
+366,167,6,249,31,165,980,825,609,917.0,737,48.81,5.6,0.22,3.0,1,purple,Mines ParisTech,France,Low score,2014
+367,168,5,248,321,71,177,186,107,112.0,737,48.79,16.4,0.12,3.0,2,dark purple,University of Gothenburg,Sweden,Low score,2014
+368,169,10,39,174,172,172,152,310,196.0,373,48.77,25.6,0.12,3.0,2,dark purple,University of Göttingen,Germany,Low score,2014
+369,170,6,277,134,210,96,146,250,173.0,159,48.71,40.5,0.36,2.0,0,pink,Monash University,Australia,Low score,2014
+371,172,75,174,478,210,188,85,159,94.0,138,48.67,5.5,0.07,1.0,0,pink,Yeshiva University,United States of America,Low score,2014
+373,174,5,355,69,210,292,481,406,415.0,28,48.63,10.4,0.19,2.0,2,dark purple,Hanyang University,South Korea,Low score,2014
+375,176,7,59,478,55,190,135,250,224.0,204,48.61,17.8,0.21,3.0,2,dark purple,University of Strasbourg,France,Low score,2014
+376,177,78,305,132,210,145,166,159,129.0,204,48.6,15.7,0.06,1.0,0,pink,University of Cincinnati,United States of America,Low score,2014
+377,178,14,131,257,190,124,127,114,145.0,227,48.55,15.5,0.31,3.0,0,pink,University of Sheffield,United Kingdom,Low score,2014
+379,180,79,176,53,210,312,229,187,203.0,307,48.48,12.0,0.16,1.0,2,dark purple,George Washington University,United States of America,Low score,2014
+380,181,2,162,467,178,109,183,200,114.0,481,48.48,24.3,0.05,3.0,2,dark purple,University of Milan,Italy,Low score,2014
+381,182,80,273,190,109,142,173,75,176.0,338,48.47,17.4,0.11,1.0,0,pink,Iowa State University,United States of America,Low score,2014
+383,184,3,278,478,210,101,99,176,126.0,737,48.4,18.3,0.04,3.0,2,dark purple,University of Padua,Italy,Low score,2014
+385,186,6,355,478,210,279,346,220,295.0,25,48.35,10.1,0.04,2.0,2,dark purple,Pohang University of Science and Technology,South Korea,Low score,2014
+386,187,6,184,106,183,202,93,99,185.0,637,48.27,23.7,0.08,3.0,2,dark purple,Stockholm University,Sweden,Low score,2014
+387,188,12,260,378,126,138,172,283,251.0,61,48.18,8.2,0.09,2.0,0,pink,Hokkaido University,Japan,Low score,2014
+388,189,3,355,126,210,120,264,310,230.0,100,48.14,12.2,0.11,2.0,0,pink,Fudan University,China,Low score,2014
+389,190,15,138,218,40,368,261,176,306.0,481,48.12,17.4,0.35,3.0,2,dark purple,University of Sussex,United Kingdom,Low score,2014
+391,192,83,355,186,210,187,258,125,155.0,181,48.07,10.7,0.07,1.0,0,pink,Wayne State University,United States of America,Low score,2014
+393,194,6,95,338,210,237,108,134,128.0,637,48.05,13.1,0.22,3.0,2,dark purple,University of Lausanne,Switzerland,Low score,2014
+394,195,4,325,149,210,102,250,250,234.0,138,48.02,12.8,0.06,2.0,0,pink,Shanghai Jiao Tong University,China,Low score,2014
+396,197,3,339,478,195,240,257,200,238.0,48,47.98,5.0,0.18,3.0,2,dark purple,Technical University of Denmark,Denmark,Low score,2014
+398,199,12,355,109,194,215,150,187,161.0,426,47.97,43.4,0.11,3.0,2,dark purple,University of Cologne,Germany,Low score,2014
+400,201,7,166,478,205,167,119,99,155.0,426,47.93,22.5,0.14,3.0,2,dark purple,University of Bern,Switzerland,Low score,2014
+401,202,2,90,478,88,171,386,159,203.0,204,47.83,10.2,0.22,2.0,2,dark purple,Chinese University of Hong Kong,Hong Kong,Low score,2014
+404,205,1,200,160,100,225,147,150,192.0,737,47.78,20.5,0.25,3.0,2,dark purple,University of Vienna,Austria,Low score,2014
+405,206,5,355,293,210,86,318,493,290.0,94,47.76,15.9,0.05,2.0,2,dark purple,Zhejiang University,China,Low score,2014
+406,207,87,104,193,169,176,122,187,247.0,128,47.75,19.9,0.07,1.0,0,pink,University of Georgia,United States of America,Low score,2014
+408,209,16,306,183,135,183,153,310,189.0,170,47.74,13.1,0.23,3.0,0,pink,Cardiff University,United Kingdom,Low score,2014
+409,210,13,114,456,171,173,197,114,180.0,338,47.73,46.1,0.08,3.0,2,dark purple,University of Münster,Germany,Low score,2014
+410,211,17,159,248,200,149,163,134,189.0,373,47.69,13.6,0.3,3.0,2,dark purple,University of Liverpool,United Kingdom,Low score,2014
+411,212,9,355,287,210,185,191,159,141.0,481,47.69,26.3,0.15,1.0,2,dark purple,University of Ottawa,Canada,Low score,2014
+412,213,14,222,478,210,170,208,134,145.0,307,47.69,53.9,0.09,3.0,2,dark purple,University of Erlangen-Nuremberg,Germany,Low score,2014
+413,214,18,133,348,210,231,181,220,141.0,227,47.67,14.0,0.4,3.0,2,dark purple,Queen Mary University of London,United Kingdom,Low score,2014
+414,215,15,343,170,122,193,271,150,249.0,109,47.67,24.6,0.16,3.0,0,pink,Karlsruhe Institute of Technology,Germany,Low score,2014
+416,217,6,331,447,210,148,371,363,288.0,57,47.67,13.3,0.1,2.0,2,dark purple,Nanjing University,China,Low score,2014
+417,218,90,355,416,210,131,189,220,185.0,170,47.63,9.2,0.17,1.0,2,dark purple,University of Illinois at Chicago,United States of America,Low score,2014
+418,219,4,342,319,210,130,283,187,169.0,552,47.59,22.9,0.07,3.0,2,dark purple,University of Bologna,Italy,Low score,2014
+419,220,10,149,84,150,257,297,220,249.0,227,47.56,27.8,0.11,1.0,2,dark purple,University of Manitoba,Canada,Low score,2014
+420,221,8,181,478,210,136,101,220,207.0,159,47.54,12.1,0.13,3.0,2,dark purple,Joseph Fourier University,France,Low score,2014
+421,222,91,228,478,210,199,98,134,169.0,259,47.53,22.0,0.12,1.0,2,dark purple,"University of California, Riverside",United States of America,Low score,2014
+424,225,7,145,397,140,165,214,283,176.0,373,47.47,20.7,0.27,2.0,2,dark purple,University of Western Australia,Australia,Low score,2014
+425,226,11,285,296,210,212,270,220,200.0,109,47.47,16.2,0.12,1.0,2,dark purple,Laval University,Canada,Low score,2014
+428,229,19,355,250,210,200,149,200,164.0,481,47.42,15.2,0.29,3.0,2,dark purple,Newcastle University,United Kingdom,Low score,2014
+429,230,10,355,478,210,133,130,220,196.0,204,47.42,16.1,0.11,3.0,2,dark purple,Claude Bernard University Lyon 1,France,Low score,2014
+430,231,5,311,471,159,214,272,220,151.0,552,47.4,66.0,0.06,3.0,2,dark purple,University of Turin,Italy,Low score,2014
+431,232,17,180,396,192,236,185,220,158.0,280,47.39,23.8,0.08,3.0,2,dark purple,University of Kiel,Germany,Low score,2014
+432,233,94,282,402,210,160,187,200,185.0,204,47.35,13.0,0.11,1.0,2,dark purple,University of Connecticut,United States of America,Low score,2014
+433,234,95,298,92,210,363,298,283,215.0,194,47.34,8.4,0.08,1.0,2,dark purple,Tulane University,United States of America,Low score,2014
+435,236,97,49,311,79,527,169,493,322.0,128,47.31,12.6,0.22,1.0,2,dark purple,Brandeis University,United States of America,Low score,2014
+437,238,19,346,286,122,197,364,187,230.0,138,47.26,27.6,0.16,3.0,2,dark purple,RWTH Aachen University,Germany,Low score,2014
+442,243,100,120,121,210,375,344,159,272.0,138,47.2,15.0,0.16,1.0,2,dark purple,Rensselaer Polytechnic Institute,United States of America,Low score,2014
+445,246,2,355,60,210,157,545,800,395.0,307,47.16,14.4,0.11,2.0,2,dark purple,National Cheng Kung University,Taiwan,Low score,2014
+446,247,101,297,386,126,265,305,250,277.0,76,47.16,15.9,0.1,1.0,2,dark purple,University of Delaware,United States of America,Low score,2014
+447,248,5,73,478,210,271,276,130,220.0,552,47.14,17.1,0.16,3.0,2,dark purple,Vrije Universiteit Brussel,Belgium,Low score,2014
+449,250,8,355,478,210,208,376,283,164.0,307,47.11,18.9,0.48,3.0,2,dark purple,Maastricht University,Netherlands,Low score,2014
+451,252,20,164,478,210,354,200,134,184.0,227,47.04,15.3,0.25,3.0,2,dark purple,University of Dundee,United Kingdom,Low score,2014
+452,253,13,183,478,108,226,239,176,220.0,259,47.0,12.6,0.16,2.0,2,dark purple,University of Tsukuba,Japan,Low score,2014
+453,254,3,355,478,210,146,218,250,224.0,204,46.99,12.3,0.1,3.0,2,dark purple,Autonomous University of Barcelona,Spain,Low score,2014
+457,258,104,355,44,210,594,512,609,523.0,481,46.91,11.3,0.15,1.0,1,purple,Lehigh University,United States of America,Low score,2014
+460,261,107,355,262,210,366,322,220,266.0,89,46.89,10.8,0.18,1.0,2,dark purple,Drexel University,United States of America,Low score,2014
+462,263,22,355,478,210,254,140,220,185.0,373,46.87,13.4,0.35,3.0,2,dark purple,University of Leicester,United Kingdom,Low score,2014
+463,264,23,122,237,210,250,203,250,230.0,373,46.87,15.7,0.24,3.0,2,dark purple,Durham University,United Kingdom,Low score,2014
+464,265,109,175,268,210,247,145,176,238.0,338,46.82,16.8,0.09,1.0,2,dark purple,Oregon State University,United States of America,Low score,2014
+465,266,6,316,304,93,211,256,200,261.0,637,46.8,17.2,0.07,3.0,2,dark purple,University of Florence,Italy,Low score,2014
+466,267,2,97,169,142,333,244,220,274.0,552,46.78,12.1,0.18,5.0,2,dark purple,University of Cape Town,South Africa,Low score,2014
+468,269,2,227,182,210,276,280,150,251.0,307,46.77,24.5,0.23,3.0,2,dark purple,University College Dublin,Ireland,Low score,2014
+469,270,8,355,238,210,144,275,363,266.0,481,46.75,7.9,0.02,2.0,2,dark purple,University of Science and Technology of China,China,Low score,2014
+470,271,111,270,185,210,196,267,200,281.0,227,46.72,18.6,0.1,1.0,2,dark purple,Virginia Polytechnic Institute and State University,United States of America,Low score,2014
+472,273,1,230,455,210,266,235,283,251.0,138,46.65,18.9,0.28,2.0,2,dark purple,University of Auckland,New Zealand,Low score,2014
+474,275,9,289,374,210,222,212,250,245.0,227,46.63,19.4,0.25,3.0,2,dark purple,Delft University of Technology,Netherlands,Low score,2014
+475,276,24,347,223,210,282,217,250,224.0,481,46.63,15.8,0.33,3.0,2,dark purple,University of Aberdeen,United Kingdom,Low score,2014
+479,280,13,355,125,210,205,352,283,306.0,637,46.58,24.2,0.14,1.0,2,dark purple,University of Waterloo,Canada,Low score,2014
+483,284,14,355,153,210,289,251,250,272.0,338,46.52,14.4,0.18,1.0,2,dark purple,Dalhousie University,Canada,Low score,2014
+485,286,2,231,163,210,274,350,220,277.0,373,46.49,13.9,0.09,3.0,2,dark purple,Norwegian University of Science and Technology,Norway,Low score,2014
+486,287,25,241,78,210,393,319,220,355.0,481,46.49,14.8,0.28,3.0,2,dark purple,University of Reading,United Kingdom,Low score,2014
+488,289,7,355,478,210,277,199,220,215.0,737,46.44,11.9,0.07,3.0,2,dark purple,Umeå University,Sweden,Low score,2014
+489,290,2,83,427,89,269,394,250,349.0,426,46.42,18.8,0.09,3.0,2,dark purple,University of Porto,Portugal,Low score,2014
+490,291,3,355,279,210,256,469,363,295.0,128,46.42,23.8,0.36,2.0,2,dark purple,Hong Kong University of Science and Technology,Hong Kong,Low score,2014
+491,292,9,355,328,210,198,424,310,313.0,138,46.42,16.6,0.08,2.0,2,dark purple,Sun Yat-sen University,China,Low score,2014
+500,301,4,355,464,210,210,342,220,261.0,552,46.34,15.4,0.09,3.0,2,dark purple,University of Valencia,Spain,Low score,2014
+501,302,8,355,177,210,290,345,310,274.0,737,46.32,7.7,0.1,3.0,2,dark purple,Linköping University,Sweden,Low score,2014
+502,303,27,355,453,210,284,288,406,234.0,426,46.31,46.6,0.11,3.0,2,dark purple,University of Duisburg-Essen,Germany,Low score,2014
+503,304,28,355,283,210,235,222,406,265.0,637,46.31,46.3,0.13,3.0,2,dark purple,Ruhr University Bochum,Germany,Low score,2014
+504,305,3,355,478,210,249,206,283,245.0,737,46.31,11.1,0.12,3.0,2,dark purple,University of Bergen,Norway,Low score,2014
+507,308,8,268,465,210,229,368,200,266.0,426,46.3,18.0,0.04,3.0,2,dark purple,University of Pisa,Italy,Low score,2014
+508,309,5,355,449,210,228,245,310,261.0,426,46.29,13.0,0.15,3.0,2,dark purple,Autonomous University of Madrid,Spain,Low score,2014
+509,310,2,355,478,210,275,242,283,238.0,426,46.29,2.9,0.28,3.0,2,dark purple,Medical University of Vienna,Austria,Low score,2014
+510,311,3,355,64,210,545,494,310,504.0,259,46.26,23.0,0.08,5.0,2,dark purple,Stellenbosch University,South Africa,Low score,2014
+512,313,1,337,478,210,243,231,220,256.0,637,46.23,13.0,0.15,3.0,2,dark purple,Charles University in Prague,Czech Republic,Low score,2014
+515,316,6,135,478,136,313,215,310,295.0,227,46.21,25.9,0.23,3.0,2,dark purple,University of Liège,Belgium,Low score,2014
+517,318,119,295,171,210,383,307,250,375.0,115,46.2,15.1,0.26,1.0,2,dark purple,Northeastern University,United States of America,Low score,2014
+518,319,120,116,165,210,348,313,220,346.0,259,46.2,15.1,0.1,1.0,2,dark purple,Kansas State University,United States of America,Low score,2014
+522,323,28,125,478,210,317,193,363,281.0,280,46.15,12.7,0.47,3.0,2,dark purple,University of St Andrews,United Kingdom,Low score,2014
+523,324,29,198,394,210,224,253,200,326.0,259,46.13,16.6,0.37,3.0,2,dark purple,University of Warwick,United Kingdom,Low score,2014
+525,326,3,190,415,115,413,225,310,281.0,373,46.12,16.9,0.39,3.0,2,dark purple,University of Innsbruck,Austria,Low score,2014
+527,328,1,355,57,210,644,928,800,756.0,426,46.1,17.3,0.01,2.0,1,purple,Indian Institute of Technology Delhi,India,Low score,2014
+529,330,7,355,478,210,258,314,220,274.0,373,46.08,30.3,0.16,3.0,2,dark purple,University of Antwerp,Belgium,Low score,2014
+531,332,124,355,95,210,548,380,200,386.0,338,46.06,17.4,0.19,1.0,2,dark purple,Boston College,United States of America,Low score,2014
+539,340,8,201,400,210,244,254,283,313.0,737,45.97,30.1,0.26,2.0,2,dark purple,University of Adelaide,Australia,Low score,2014
+543,344,12,276,385,206,329,359,283,288.0,637,45.92,40.6,0.06,3.0,2,dark purple,University of Pavia,Italy,Low score,2014
+546,347,6,355,72,210,582,734,800,523.0,426,45.88,10.6,0.16,3.0,1,purple,University of Navarra,Spain,Low score,2014
+547,348,127,240,187,210,480,290,200,341.0,481,45.88,31.7,0.05,1.0,2,dark purple,San Diego State University,United States of America,Low score,2014
+549,350,33,187,478,174,356,210,187,318.0,637,45.87,14.7,0.28,3.0,2,dark purple,University of East Anglia,United Kingdom,Low score,2014
+551,352,4,355,478,210,380,316,310,290.0,280,45.83,12.7,0.16,3.0,2,dark purple,University of Southern Denmark,Denmark,Low score,2014
+552,353,11,355,315,181,296,555,310,334.0,307,45.82,16.0,0.14,3.0,2,dark purple,Eindhoven University of Technology,Netherlands,Low score,2014
+554,355,2,355,372,210,318,338,220,313.0,637,45.8,20.3,0.21,2.0,2,dark purple,University of Otago,New Zealand,Low score,2014
+556,357,34,250,371,210,309,188,406,322.0,481,45.79,18.8,0.28,3.0,2,dark purple,University of Exeter,United Kingdom,Low score,2014
+563,364,131,355,76,210,653,577,310,596.0,637,45.74,18.2,0.12,1.0,1,purple,Colorado School of Mines,United States of America,Low score,2014
+565,366,15,355,478,210,319,289,125,349.0,373,45.74,28.3,0.04,1.0,2,dark purple,University of Guelph,Canada,Low score,2014
+566,367,14,355,478,210,378,295,283,295.0,426,45.73,25.8,0.09,3.0,2,dark purple,University of Trieste,Italy,Low score,2014
+572,373,2,355,478,210,377,410,310,295.0,737,45.69,17.3,0.06,3.0,2,dark purple,University of Eastern Finland,Finland,Low score,2014
+574,375,4,355,478,210,255,893,493,343.0,259,45.67,7.1,0.28,2.0,1,purple,City University of Hong Kong,Hong Kong,Low score,2014
+576,377,16,355,478,210,320,337,363,313.0,737,45.66,21.5,0.11,1.0,2,dark purple,University of Victoria,Canada,Low score,2014
+580,381,5,355,189,210,261,764,406,395.0,481,45.65,25.9,0.26,2.0,2,dark purple,Hong Kong Polytechnic University,Hong Kong,Low score,2014
+586,387,17,355,478,210,399,393,310,313.0,552,45.6,30.2,0.07,3.0,2,dark purple,University of Ferrara,Italy,Low score,2014
+587,388,18,355,478,210,345,336,493,326.0,338,45.6,65.1,0.02,3.0,2,dark purple,University of Bari Aldo Moro,Italy,Low score,2014
+588,389,19,101,203,186,360,532,609,504.0,280,45.59,22.2,0.12,3.0,2,dark purple,Polytechnic University of Milan,Italy,Low score,2014
+589,390,136,262,478,210,341,378,493,355.0,194,45.59,13.3,0.05,1.0,2,dark purple,Temple University,United States of America,Low score,2014
+591,392,4,355,251,210,344,434,609,460.0,138,45.58,24.2,0.17,3.0,2,dark purple,Aalto University,Finland,Low score,2014
+592,393,17,355,478,210,286,281,406,341.0,373,45.58,28.3,0.19,1.0,2,dark purple,Simon Fraser University,Canada,Low score,2014
+594,395,9,349,332,210,359,435,493,337.0,737,45.57,11.6,0.15,3.0,2,dark purple,Chalmers University of Technology,Sweden,Low score,2014
+595,396,1,355,79,210,529,904,493,724.0,737,45.57,22.2,0.07,2.0,1,purple,Middle East Technical University,Turkey,Low score,2014
+597,398,18,355,164,210,397,396,250,409.0,737,45.55,39.4,0.09,1.0,2,dark purple,York University,Canada,Low score,2014
+610,411,3,355,220,210,232,638,609,442.0,737,45.49,16.6,0.05,2.0,1,purple,National Chiao Tung University,Taiwan,Low score,2014
+617,418,4,244,478,210,230,406,493,386.0,552,45.46,13.5,0.05,2.0,2,dark purple,National Tsing Hua University,Taiwan,Low score,2014
+618,419,1,119,478,145,400,488,363,402.0,637,45.45,14.1,0.07,3.0,2,dark purple,University of Warsaw,Poland,Low score,2014
+619,420,1,355,133,210,611,537,800,897.0,115,45.45,13.4,0.07,2.0,1,purple,King Saud University,Saudi Arabia,Low score,2014
+620,421,37,355,352,210,387,379,310,355.0,552,45.44,18.8,0.3,3.0,2,dark purple,University of Bath,United Kingdom,Low score,2014
+625,426,11,355,478,210,409,184,609,343.0,481,45.43,18.3,0.13,3.0,2,dark purple,Pompeu Fabra University,Spain,Low score,2014
+626,427,4,351,413,210,381,365,406,420.0,159,45.43,52.0,0.27,3.0,2,dark purple,Vienna University of Technology,Austria,Low score,2014
+629,430,6,355,235,210,554,461,493,370.0,637,45.41,9.5,0.04,3.0,1,purple,University of Tampere,Finland,Low score,2014
+633,434,141,355,478,97,449,374,283,415.0,637,45.4,17.0,0.07,1.0,2,dark purple,George Mason University,United States of America,Low score,2014
+644,445,12,355,478,210,343,477,363,366.0,338,45.36,12.0,0.26,3.0,2,dark purple,University of Twente,Netherlands,Low score,2014
+648,449,38,355,339,210,372,398,250,380.0,637,45.33,14.9,0.33,3.0,2,dark purple,Lancaster University,United Kingdom,Low score,2014
+662,463,3,355,359,210,423,464,406,420.0,227,45.25,22.3,0.15,3.0,2,dark purple,University College Cork,Ireland,Low score,2014
+667,468,36,355,478,157,475,347,493,395.0,481,45.22,59.1,0.12,3.0,2,dark purple,University of Konstanz,Germany,Low score,2014
+673,474,13,355,478,210,361,468,609,430.0,204,45.21,13.6,0.07,3.0,2,dark purple,Polytechnic University of Valencia,Spain,Low score,2014
+685,486,9,355,452,210,416,292,283,409.0,552,45.18,20.0,0.44,2.0,2,dark purple,Macquarie University,Australia,Low score,2014
+686,487,3,173,154,210,561,426,493,628.0,737,45.17,16.5,0.2,2.0,1,purple,University of Canterbury,New Zealand,Low score,2014
+689,490,160,355,478,210,792,618,250,375.0,637,45.15,8.3,0.02,1.0,1,purple,Creighton University,United States of America,Low score,2014
+690,491,38,355,478,210,487,370,493,375.0,737,45.15,67.8,0.08,3.0,1,purple,Bielefeld University,Germany,Low score,2014
+698,499,41,195,234,210,414,548,406,569.0,338,45.12,16.6,0.38,3.0,1,purple,University of Surrey,United Kingdom,Low score,2014
+701,502,28,355,322,210,550,450,310,420.0,637,45.11,9.9,0.04,2.0,1,purple,Tokyo Metropolitan University,Japan,Low score,2014
+704,505,162,355,478,210,554,377,363,402.0,373,45.1,18.1,0.07,1.0,2,dark purple,"University of Maryland, Baltimore County",United States of America,Low score,2014
+705,506,10,355,274,210,445,460,609,488.0,338,45.1,25.4,0.24,2.0,1,purple,University of Wollongong,Australia,Low score,2014
+713,514,8,208,209,210,727,405,406,554.0,552,45.05,46.9,0.19,3.0,1,purple,University of Fribourg,Switzerland,Low score,2014
+715,516,1,355,478,210,629,311,310,409.0,737,45.05,25.9,0.08,3.0,1,purple,University of Iceland,Iceland,Low score,2014
+717,518,6,338,429,197,526,524,406,437.0,481,45.04,26.8,0.12,3.0,1,purple,University of Graz,Austria,Low score,2014
+726,527,4,296,161,210,630,441,609,675.0,637,45.01,21.1,0.21,2.0,1,purple,Victoria University of Wellington,New Zealand,Low score,2014
+740,541,42,355,478,210,560,317,406,442.0,373,44.98,15.9,0.37,3.0,1,purple,"Royal Holloway, University of London",United Kingdom,Low score,2014
+742,543,5,332,212,210,708,722,363,569.0,737,44.97,23.9,0.01,2.0,1,purple,Panjab University,India,Low score,2014
+745,546,12,355,478,210,434,475,609,442.0,637,44.97,21.9,0.18,2.0,1,purple,University of Newcastle,Australia,Low score,2014
+750,551,3,355,478,210,481,497,406,442.0,737,44.96,26.9,0.05,3.0,1,purple,University of Crete,Greece,Low score,2014
+751,552,43,246,360,210,624,526,609,504.0,373,44.95,19.5,0.22,3.0,1,purple,Bangor University,United Kingdom,Low score,2014
+755,556,1,353,478,210,600,388,406,496.0,259,44.94,13.0,0.03,3.0,1,purple,University of Tartu,Estonia,Low score,2014
+762,563,44,106,335,210,710,651,406,642.0,737,44.92,19.8,0.39,3.0,1,purple,University of Essex,United Kingdom,Low score,2014
+764,565,6,204,478,210,369,438,609,523.0,637,44.92,9.8,0.06,2.0,1,purple,National Central University,Taiwan,Low score,2014
+768,569,6,153,308,210,536,846,609,724.0,227,44.91,12.2,0.0,2.0,1,purple,Indian Institute of Technology Kanpur,India,Low score,2014
+773,574,7,355,201,210,501,966,800,703.0,426,44.89,17.5,0.0,2.0,1,purple,Indian Institute of Technology Kharagpur,India,Low score,2014
+776,577,45,355,437,210,534,425,493,514.0,426,44.88,25.9,0.13,3.0,1,purple,Plymouth University,United Kingdom,Low score,2014
+792,593,5,355,384,210,606,633,363,543.0,426,44.83,15.9,0.15,3.0,1,purple,Aalborg University,Denmark,Low score,2014
+796,597,33,355,478,210,490,569,609,504.0,737,44.82,43.2,0.08,3.0,1,purple,University of Trento,Italy,Low score,2014
+799,600,4,355,478,210,593,597,609,531.0,307,44.82,26.8,0.14,3.0,1,purple,"National University of Ireland, Galway",Ireland,Low score,2014
+804,605,14,355,478,210,457,733,493,523.0,552,44.81,35.8,0.17,2.0,1,purple,Queensland University of Technology,Australia,Low score,2014
+807,608,15,355,478,210,461,278,609,531.0,737,44.8,23.8,0.21,2.0,1,purple,University of Tasmania,Australia,Low score,2014
+810,611,10,355,307,210,845,846,609,554.0,737,44.79,18.7,0.01,2.0,1,purple,Indian Institute of Technology Roorkee,India,Low score,2014
+812,613,17,355,459,210,556,678,609,536.0,637,44.79,30.4,0.17,2.0,1,purple,Deakin University,Australia,Low score,2014
+813,614,13,355,227,210,605,861,609,716.0,737,44.78,22.4,0.1,3.0,1,purple,Tilburg University,Netherlands,Low score,2014
+820,621,180,355,478,210,608,339,609,523.0,737,44.77,8.2,0.07,1.0,1,purple,University of Alaska Fairbanks,United States of America,Low score,2014
+823,624,46,281,478,180,718,343,493,569.0,737,44.76,17.2,0.38,3.0,1,purple,"Birkbeck, University of London",United Kingdom,Low score,2014
+826,627,22,355,478,210,496,742,310,554.0,737,44.75,29.8,0.18,1.0,1,purple,Carleton University,Canada,Low score,2014
+839,640,48,355,478,210,759,697,310,543.0,637,44.73,19.1,0.23,3.0,1,purple,University of Portsmouth,United Kingdom,Low score,2014
+844,645,49,355,478,210,792,390,609,536.0,637,44.72,19.4,0.27,3.0,1,purple,University of Hertfordshire,United Kingdom,Low score,2014
+862,663,50,355,478,210,635,535,406,569.0,737,44.69,15.7,0.2,3.0,1,purple,Keele University,United Kingdom,Low score,2014
+863,664,8,355,478,210,471,462,493,596.0,737,44.69,15.2,0.05,3.0,1,purple,University of Jyväskylä,Finland,Low score,2014
+877,678,6,355,478,210,591,922,609,585.0,637,44.67,11.0,0.25,2.0,1,purple,Hong Kong Baptist University,Hong Kong,Low score,2014
+878,679,6,355,478,210,590,641,363,642.0,338,44.67,18.8,0.09,3.0,1,purple,University of Minho,Portugal,Low score,2014
+886,687,8,355,373,210,738,645,493,663.0,481,44.66,29.1,0.1,3.0,1,purple,Johannes Kepler University of Linz,Austria,Low score,2014
+891,692,22,355,478,210,570,786,406,618.0,481,44.66,19.0,0.03,3.0,1,purple,University of Vigo,Spain,Low score,2014
+902,703,53,355,381,210,602,601,609,690.0,552,44.64,17.8,0.43,3.0,1,purple,Heriot-Watt University,United Kingdom,Low score,2014
+904,705,54,355,478,210,497,778,609,628.0,637,44.63,15.9,0.22,3.0,1,purple,Loughborough University,United Kingdom,Low score,2014
+922,723,20,355,280,210,663,795,800,819.0,426,44.62,26.2,0.32,2.0,1,purple,University of South Australia,Australia,Low score,2014
+923,724,56,355,478,210,744,421,609,618.0,737,44.61,19.8,0.13,3.0,1,purple,Liverpool John Moores University,United Kingdom,Low score,2014
+934,735,57,355,334,210,804,717,609,716.0,737,44.6,15.9,0.22,3.0,1,purple,University of Stirling,United Kingdom,Low score,2014
+936,737,21,355,478,210,658,447,493,642.0,737,44.6,36.5,0.33,2.0,1,purple,Swinburne University of Technology,Australia,Low score,2014
+950,751,40,355,478,210,794,920,493,642.0,737,44.58,14.9,0.02,2.0,1,purple,Wuhan University of Technology,China,Low score,2014
+972,773,4,355,388,210,641,858,363,769.0,637,44.56,16.0,0.05,2.0,1,purple,Istanbul Technical University,Turkey,Low score,2014
+984,785,42,355,478,210,662,685,493,703.0,637,44.54,58.4,0.01,3.0,1,purple,University of Salento,Italy,Low score,2014
+999,800,59,355,478,210,818,562,493,716.0,481,44.53,19.2,0.18,3.0,1,purple,Aberystwyth University,United Kingdom,Low score,2014
+1019,820,7,215,478,210,1000,716,800,800.0,552,44.49,28.0,0.11,3.0,1,purple,"National University of Ireland, Maynooth",Ireland,Low score,2014
+1032,833,2,355,478,210,588,938,493,783.0,737,44.47,18.7,0.0,2.0,1,purple,Sharif University of Technology,Iran,Low score,2014
+1035,836,22,355,478,210,812,492,800,756.0,737,44.46,32.8,0.43,2.0,1,purple,Murdoch University,Australia,Low score,2014
+1052,853,222,355,478,210,959,699,363,800.0,737,44.44,13.7,0.26,1.0,1,purple,Florida Institute of Technology,United States of America,Low score,2014
+1078,879,6,355,340,210,973,860,493,923.0,481,44.42,17.0,0.25,2.0,1,purple,University of Waikato,New Zealand,Low score,2014
+1102,903,9,355,478,210,817,820,493,849.0,737,44.39,25.0,0.07,2.0,1,purple,Boğaziçi University,Turkey,Low score,2014
+1109,910,26,355,478,210,911,694,609,849.0,737,44.38,25.4,0.15,2.0,1,purple,Charles Darwin University,Australia,Low score,2014
+1191,992,4,355,470,210,843,688,609,998.0,637,44.26,8.4,0.21,2.0,1,purple,King Abdulaziz University,Saudi Arabia,Low score,2014
+1200,1,1,1,1,1,1,1,1,1.0,3,100.0,8.9,0.25,1.0,0,pink,Harvard University,United States of America,High score,2015
+1201,2,2,9,2,4,5,3,3,4.0,10,98.66,7.8,0.22,1.0,0,pink,Stanford University,United States of America,High score,2015
+1202,3,3,3,11,2,15,2,2,2.0,1,97.54,9.0,0.33,1.0,0,pink,Massachusetts Institute of Technology,United States of America,High score,2015
+1203,4,1,2,10,5,11,6,12,13.0,48,96.81,11.8,0.34,3.0,0,pink,University of Cambridge,United Kingdom,High score,2015
+1204,5,2,7,13,10,7,12,7,9.0,15,96.46,11.6,0.34,3.0,0,pink,University of Oxford,United Kingdom,High score,2015
+1205,6,4,13,6,9,13,13,11,12.0,4,96.14,5.9,0.28,1.0,0,pink,Columbia University,United States of America,High score,2015
+1206,7,5,5,21,6,10,4,4,7.0,29,92.25,16.4,0.15,1.0,0,pink,"University of California, Berkeley",United States of America,High score,2015
+1207,8,6,11,14,8,17,16,12,22.0,141,90.7,6.9,0.21,1.0,0,pink,University of Chicago,United States of America,High score,2015
+1208,9,7,4,15,3,72,25,24,33.0,225,89.42,8.4,0.27,1.0,0,pink,Princeton University,United States of America,High score,2015
+1209,10,8,12,18,14,24,15,25,22.0,11,86.79,10.2,0.19,1.0,0,pink,Cornell University,United States of America,High score,2015
+1210,11,9,10,26,11,18,8,35,20.0,49,86.61,4.4,0.2,1.0,0,pink,Yale University,United States of America,High score,2015
+1211,12,10,6,328,7,53,9,19,25.0,13,84.4,6.9,0.27,1.0,0,pink,California Institute of Technology,United States of America,High score,2015
+1212,13,1,16,3,38,14,19,31,29.0,7,78.23,5.7,0.1,2.0,0,pink,University of Tokyo,Japan,High score,2015
+1213,14,11,20,4,28,8,18,14,9.0,14,77.6,6.5,0.2,1.0,0,pink,University of Pennsylvania,United States of America,High score,2015
+1214,15,12,28,27,13,6,14,8,6.0,9,76.91,10.3,0.15,1.0,0,pink,"University of California, Los Angeles",United States of America,High score,2015
+1215,16,13,18,84,16,4,11,5,3.0,2,71.6,3.6,0.23,1.0,0,pink,Johns Hopkins University,United States of America,High score,2015
+1216,17,2,22,16,24,30,42,88,60.0,16,68.6,5.6,0.07,2.0,0,pink,Kyoto University,Japan,High score,2015
+1217,18,14,32,22,18,47,29,46,32.0,43,68.39,6.8,0.19,1.0,0,pink,New York University,United States of America,High score,2015
+1220,21,16,36,567,19,16,5,15,15.0,17,66.59,6.5,0.11,1.0,0,pink,"University of California, San Diego",United States of America,High score,2015
+1221,22,17,163,12,104,27,34,27,26.0,42,66.56,13.8,0.15,1.0,0,pink,Northwestern University,United States of America,High score,2015
+1222,23,1,15,164,15,120,97,368,143.0,35,65.71,10.7,0.05,2.0,0,pink,Hebrew University of Jerusalem,Israel,High score,2015
+1223,24,1,367,9,218,36,163,146,112.0,6,64.82,13.9,0.1,2.0,0,pink,Seoul National University,South Korea,High score,2015
+1226,27,3,21,447,27,12,22,15,18.0,67,62.27,10.7,0.46,3.0,0,pink,University College London,United Kingdom,High score,2015
+1227,28,20,74,31,56,19,23,15,16.0,33,61.55,4.8,0.17,1.0,0,pink,Duke University,United States of America,High score,2015
+1229,30,22,75,36,25,48,50,26,71.0,38,61.14,17.4,0.09,1.0,0,pink,University of Texas at Austin,United States of America,High score,2015
+1231,32,1,70,51,32,2,17,9,8.0,145,60.04,19.5,0.15,1.0,0,pink,University of Toronto,Canada,High score,2015
+1234,35,4,90,82,30,19,26,23,19.0,47,59.61,11.7,0.51,3.0,0,pink,Imperial College London,United Kingdom,Medium score,2015
+1235,36,1,98,7,216,327,314,234,295.0,172,59.2,4.8,0.3,3.0,0,pink,École Polytechnique,France,Medium score,2015
+1237,38,4,288,8,218,406,389,368,388.0,248,58.17,16.9,0.08,2.0,2,dark purple,Waseda University,Japan,Medium score,2015
+1239,40,25,124,69,86,32,32,19,21.0,41,57.09,7.3,0.08,1.0,0,pink,University of North Carolina at Chapel Hill,United States of America,Medium score,2015
+1240,41,26,209,20,126,94,74,88,90.0,97,56.73,10.2,0.12,1.0,0,pink,University of Virginia,United States of America,Medium score,2015
+1241,42,2,34,37,75,33,53,44,34.0,132,56.49,13.7,0.23,1.0,0,pink,McGill University,Canada,Medium score,2015
+1243,44,28,40,19,218,246,167,136,154.0,63,56.35,6.6,0.16,1.0,0,pink,Dartmouth College,United States of America,Medium score,2015
+1244,45,5,46,39,75,50,58,182,67.0,18,56.03,7.8,0.09,2.0,0,pink,Osaka University,Japan,Medium score,2015
+1250,51,34,152,62,39,57,64,101,56.0,34,55.12,12.9,0.2,1.0,0,pink,University of Southern California,United States of America,Medium score,2015
+1252,53,36,54,227,59,29,33,35,52.0,62,54.85,13.9,0.13,1.0,0,pink,"University of California, Davis",United States of America,Medium score,2015
+1253,54,37,80,67,31,96,38,45,74.0,133,54.62,16.1,0.08,1.0,0,pink,University of Colorado Boulder,United States of America,Medium score,2015
+1254,55,5,44,127,33,54,37,65,43.0,228,54.39,14.1,0.36,3.0,0,pink,University of Edinburgh,United Kingdom,Medium score,2015
+1255,56,1,182,38,218,52,131,182,125.0,20,54.26,8.3,0.14,2.0,0,pink,Peking University,China,Medium score,2015
+1256,57,1,92,25,218,46,223,182,204.0,695,54.23,11.9,0.07,2.0,2,dark purple,National Taiwan University,Taiwan,Medium score,2015
+1258,59,1,14,175,48,268,254,287,344.0,861,54.19,7.7,0.2,3.0,2,dark purple,Lomonosov Moscow State University,Russia,Medium score,2015
+1259,60,38,214,276,96,37,73,46,59.0,5,54.18,18.7,0.09,1.0,0,pink,University of Florida,United States of America,Medium score,2015
+1260,61,39,25,160,23,211,225,78,150.0,165,54.0,13.1,0.35,1.0,0,pink,Carnegie Mellon University,United States of America,Medium score,2015
+1261,62,3,81,275,93,26,36,37,34.0,81,53.92,17.6,0.25,1.0,0,pink,University of British Columbia,Canada,Medium score,2015
+1263,64,40,133,280,29,111,59,46,55.0,77,53.63,27.3,0.11,1.0,0,pink,"University of California, Santa Barbara",United States of America,Medium score,2015
+1264,65,1,367,98,218,34,125,78,90.0,25,53.44,15.5,0.34,2.0,0,pink,National University of Singapore,Singapore,Medium score,2015
+1265,66,41,303,54,83,60,45,37,34.0,135,53.43,8.6,0.17,1.0,0,pink,Boston University,United States of America,Medium score,2015
+1266,67,6,99,92,72,43,70,29,53.0,142,53.38,15.3,0.34,3.0,0,pink,University of Manchester,United Kingdom,Medium score,2015
+1267,68,42,139,55,87,74,39,31,49.0,235,53.26,12.7,0.08,1.0,0,pink,University of Arizona,United States of America,Medium score,2015
+1268,69,43,87,94,110,55,62,59,41.0,51,53.05,3.6,0.1,1.0,0,pink,Vanderbilt University,United States of America,Medium score,2015
+1269,70,44,97,105,67,97,65,101,90.0,19,52.89,16.9,0.09,1.0,0,pink,University of Utah,United States of America,Medium score,2015
+1270,71,1,149,567,36,51,54,52,34.0,743,52.79,11.5,0.22,3.0,2,dark purple,Karolinska Institute,Sweden,Medium score,2015
+1271,72,45,68,210,43,58,47,39,67.0,280,52.72,8.4,0.09,1.0,0,pink,"University of Maryland, College Park",United States of America,Medium score,2015
+1272,73,6,41,170,218,68,127,115,119.0,22,52.57,5.0,0.07,2.0,0,pink,Tohoku University,Japan,Medium score,2015
+1273,74,1,117,149,64,38,31,59,31.0,432,52.51,4.1,0.19,3.0,0,pink,University of Copenhagen,Denmark,Medium score,2015
+1276,77,47,221,24,155,242,242,182,235.0,352,52.27,13.8,0.1,1.0,0,pink,University of Notre Dame,United States of America,Medium score,2015
+1277,78,2,309,73,218,63,158,65,156.0,30,52.21,13.7,0.1,2.0,0,pink,Tsinghua University,China,Medium score,2015
+1279,80,48,135,60,218,107,152,78,106.0,36,52.08,20.1,0.26,1.0,0,pink,Georgia Institute of Technology,United States of America,Medium score,2015
+1280,81,49,72,53,113,114,118,68,79.0,64,52.03,4.5,0.26,1.0,0,pink,University of Rochester,United States of America,Medium score,2015
+1282,83,50,64,43,73,121,67,76,99.0,200,52.01,10.1,0.19,1.0,0,pink,Brown University,United States of America,Medium score,2015
+1283,84,51,367,146,116,67,60,93,41.0,55,51.85,4.5,0.18,1.0,0,pink,Emory University,United States of America,Medium score,2015
+1284,85,1,367,46,189,87,147,53,44.0,227,51.78,18.9,0.18,3.0,0,pink,Erasmus University Rotterdam,Netherlands,Medium score,2015
+1285,86,3,77,107,50,98,117,136,154.0,39,51.75,24.4,0.04,2.0,0,pink,Tel Aviv University,Israel,Medium score,2015
+1286,87,2,84,199,115,39,44,59,46.0,429,51.74,15.4,0.07,3.0,0,pink,Utrecht University,Netherlands,Medium score,2015
+1287,88,1,105,198,166,45,103,46,84.0,75,51.61,20.2,0.28,2.0,0,pink,University of Sydney,Australia,Medium score,2015
+1288,89,52,227,567,44,78,51,68,54.0,162,51.51,16.1,0.16,1.0,0,pink,"University of California, Irvine",United States of America,Medium score,2015
+1291,92,3,35,191,42,122,77,115,79.0,321,51.46,15.0,0.39,3.0,0,pink,University of Geneva,Switzerland,Medium score,2015
+1292,93,2,141,113,218,42,68,53,71.0,223,51.34,23.7,0.35,2.0,0,pink,University of Melbourne,Australia,Medium score,2015
+1294,95,54,60,48,182,166,160,93,85.0,84,51.22,10.0,0.14,1.0,0,pink,Tufts University,United States of America,Medium score,2015
+1295,96,4,115,389,85,56,46,68,56.0,137,51.14,6.5,0.19,3.0,0,pink,University of Zurich,Switzerland,Medium score,2015
+1296,97,55,367,455,66,143,85,76,140.0,21,51.13,29.9,0.09,1.0,0,pink,Arizona State University,United States of America,Medium score,2015
+1297,98,2,367,45,218,140,326,321,235.0,23,51.02,11.6,0.14,2.0,0,pink,Yonsei University,South Korea,Medium score,2015
+1298,99,1,53,286,40,106,134,101,102.0,302,50.81,18.8,0.18,3.0,0,pink,University of Oslo,Norway,Medium score,2015
+1299,100,7,367,49,218,152,182,264,200.0,37,50.6,6.7,0.08,2.0,0,pink,Kyushu University,Japan,Medium score,2015
+1300,101,3,37,118,177,104,90,128,95.0,119,50.58,31.5,0.2,3.0,0,pink,Technical University of Munich,Germany,Medium score,2015
+1303,104,5,278,23,169,977,834,812,906.0,871,50.34,5.6,0.22,3.0,1,purple,Mines ParisTech,France,Medium score,2015
+1304,105,57,50,215,195,137,106,59,74.0,111,50.28,6.4,0.17,1.0,0,pink,Case Western Reserve University,United States of America,Medium score,2015
+1306,107,4,169,151,153,62,109,82,103.0,116,50.25,21.6,0.23,1.0,0,pink,University of Alberta,Canada,Medium score,2015
+1307,108,3,120,567,102,82,94,53,56.0,260,50.17,17.1,0.1,3.0,0,pink,Leiden University,Netherlands,Medium score,2015
+1308,109,8,170,50,128,169,169,136,190.0,52,50.13,7.3,0.13,2.0,0,pink,Tokyo Institute of Technology,Japan,Medium score,2015
+1309,110,4,313,193,196,64,96,68,67.0,316,50.1,25.6,0.12,3.0,0,pink,University of Groningen,Netherlands,Medium score,2015
+1310,111,1,56,551,111,80,79,88,65.0,420,50.04,15.1,0.06,3.0,0,pink,University of Helsinki,Finland,Medium score,2015
+1311,112,1,67,205,45,83,166,212,130.0,312,49.97,32.3,0.07,3.0,0,pink,Sapienza University of Rome,Italy,Low score,2015
+1312,113,59,159,34,218,298,321,321,204.0,122,49.92,8.5,0.14,1.0,0,pink,Georgetown University,United States of America,Low score,2015
+1313,114,5,109,317,212,70,88,93,60.0,282,49.83,14.4,0.11,3.0,0,pink,University of Amsterdam,Netherlands,Low score,2015
+1314,115,3,367,58,218,172,411,321,273.0,26,49.79,15.8,0.14,2.0,0,pink,Korea University,South Korea,Low score,2015
+1315,116,1,367,226,218,61,108,93,83.0,215,49.79,12.2,0.1,3.0,0,pink,University of Barcelona,Spain,Low score,2015
+1316,117,2,136,466,169,85,135,53,60.0,871,49.75,11.5,0.15,3.0,2,dark purple,Lund University,Sweden,Low score,2015
+1317,118,60,112,162,218,88,123,65,111.0,136,49.74,15.7,0.15,1.0,0,pink,Michigan State University,United States of America,Low score,2015
+1318,119,2,123,329,147,84,149,68,119.0,90,49.73,34.1,0.09,3.0,0,pink,Ghent University,Belgium,Low score,2015
+1319,120,61,52,161,95,255,150,59,130.0,76,49.73,9.0,0.26,1.0,0,pink,Rice University,United States of America,Low score,2015
+1321,122,2,310,165,106,91,81,101,95.0,154,49.65,13.6,0.14,3.0,0,pink,Aarhus University,Denmark,Low score,2015
+1322,123,8,194,196,74,92,69,82,106.0,335,49.59,14.0,0.25,3.0,0,pink,University of Bristol,United Kingdom,Low score,2015
+1323,124,3,73,321,70,95,75,93,103.0,871,49.57,18.2,0.12,3.0,2,dark purple,Uppsala University,Sweden,Low score,2015
+1324,125,9,39,322,53,138,140,146,195.0,78,49.57,7.9,0.1,2.0,0,pink,Nagoya University,Japan,Low score,2015
+1327,128,9,234,89,218,123,144,82,87.0,402,49.45,16.0,0.29,3.0,0,pink,University of Glasgow,United Kingdom,Low score,2015
+1328,129,6,367,385,218,79,120,68,79.0,871,49.44,16.3,0.06,3.0,2,dark purple,VU University Amsterdam,Netherlands,Low score,2015
+1329,130,4,177,70,218,90,177,101,164.0,157,49.33,25.9,0.33,2.0,0,pink,University of New South Wales,Australia,Low score,2015
+1331,132,1,297,71,218,59,186,136,164.0,710,49.31,14.6,0.04,4.0,2,dark purple,University of São Paulo,Brazil,Low score,2015
+1333,134,7,128,274,218,89,119,93,74.0,410,49.3,13.0,0.1,3.0,0,pink,Radboud University Nijmegen,Netherlands,Low score,2015
+1334,135,2,367,567,218,102,361,212,204.0,32,49.29,16.2,0.33,2.0,2,dark purple,Nanyang Technological University,Singapore,Low score,2015
+1336,137,64,367,241,218,159,130,82,112.0,73,49.09,5.7,0.14,1.0,0,pink,University of Miami,United States of America,Low score,2015
+1337,138,65,186,567,58,173,84,93,134.0,96,49.09,10.9,0.24,1.0,0,pink,Stony Brook University,United States of America,Low score,2015
+1338,139,66,367,159,218,250,151,59,49.0,313,49.05,22.8,0.23,1.0,0,pink,University of Texas at Dallas,United States of America,Low score,2015
+1339,140,10,131,109,84,116,176,146,140.0,138,49.02,15.0,0.27,3.0,0,pink,University of Nottingham,United Kingdom,Low score,2015
+1340,141,67,233,296,167,103,83,115,112.0,121,49.01,11.6,0.11,1.0,0,pink,University of Iowa,United States of America,Low score,2015
+1343,144,4,367,194,218,183,283,368,289.0,8,48.95,10.0,0.09,2.0,0,pink,Korea Advanced Institute of Science and Technology (KAIST),South Korea,Low score,2015
+1344,145,5,277,145,218,86,136,182,161.0,99,48.91,40.5,0.36,2.0,0,pink,Monash University,Australia,Low score,2015
+1346,147,4,76,548,128,109,80,234,90.0,461,48.78,39.3,0.2,3.0,2,dark purple,Free University of Berlin,Germany,Low score,2015
+1347,148,11,329,95,218,115,133,101,130.0,334,48.77,13.5,0.29,3.0,0,pink,University of Southampton,United Kingdom,Low score,2015
+1348,149,1,61,32,172,442,237,321,447.0,291,48.75,18.6,0.09,5.0,2,dark purple,University of the Witwatersrand,South Africa,Low score,2015
+1349,150,6,222,268,163,127,156,101,87.0,222,48.74,19.3,0.15,1.0,0,pink,McMaster University,Canada,Low score,2015
+1350,151,7,320,376,218,101,111,101,90.0,540,48.72,20.3,0.25,1.0,2,dark purple,University of Montreal,Canada,Low score,2015
+1351,152,12,65,158,205,117,165,146,138.0,170,48.7,16.4,0.23,3.0,0,pink,University of Birmingham,United Kingdom,Low score,2015
+1352,153,5,291,567,108,108,82,161,85.0,471,48.64,52.5,0.16,3.0,2,dark purple,Humboldt University of Berlin,Germany,Low score,2015
+1353,154,71,175,567,100,243,49,115,99.0,183,48.59,22.7,0.01,1.0,0,pink,"University of California, Santa Cruz",United States of America,Low score,2015
+1355,156,7,69,490,103,142,122,146,115.0,226,48.56,38.9,0.12,3.0,0,pink,University of Tübingen,Germany,Low score,2015
+1356,157,72,188,86,218,150,171,128,127.0,263,48.56,15.7,0.06,1.0,0,pink,University of Cincinnati,United States of America,Low score,2015
+1357,158,8,58,249,65,153,107,146,150.0,341,48.54,70.4,0.13,3.0,0,pink,University of Bonn,Germany,Low score,2015
+1358,159,73,265,83,218,249,244,128,125.0,124,48.52,4.6,0.05,1.0,0,pink,Wake Forest University,United States of America,Low score,2015
+1359,160,5,83,363,60,167,100,136,130.0,486,48.48,17.3,0.24,3.0,2,dark purple,University of Basel,Switzerland,Low score,2015
+1360,161,13,62,157,218,133,141,136,150.0,265,48.41,14.7,0.21,3.0,0,pink,University of Leeds,United Kingdom,Low score,2015
+1364,165,5,367,567,218,285,355,212,281.0,24,48.24,10.1,0.04,2.0,2,dark purple,Pohang University of Science and Technology,South Korea,Low score,2015
+1366,167,8,367,123,218,145,180,101,127.0,778,48.23,16.5,0.17,1.0,2,dark purple,University of Calgary,Canada,Low score,2015
+1367,168,5,129,79,187,202,89,88,179.0,839,48.23,23.7,0.08,3.0,2,dark purple,Stockholm University,Sweden,Low score,2015
+1368,169,2,281,567,218,99,105,182,119.0,351,48.17,18.3,0.04,3.0,2,dark purple,University of Padua,Italy,Low score,2015
+1369,170,1,287,128,218,139,204,128,147.0,205,48.15,17.6,0.38,2.0,0,pink,University of Hong Kong,Hong Kong,Low score,2015
+1370,171,76,200,567,218,195,91,161,109.0,128,48.11,5.5,0.07,1.0,0,pink,Yeshiva University,United States of America,Low score,2015
+1371,172,3,162,441,182,118,189,212,106.0,438,48.07,24.3,0.05,3.0,2,dark purple,University of Milan,Italy,Low score,2015
+1372,173,14,142,209,196,129,137,136,147.0,179,48.07,15.5,0.31,3.0,0,pink,University of Sheffield,United Kingdom,Low score,2015
+1373,174,3,351,510,202,220,230,161,216.0,46,48.06,5.0,0.18,3.0,2,dark purple,Technical University of Denmark,Denmark,Low score,2015
+1375,176,10,111,219,89,179,155,212,124.0,328,48.01,9.3,0.15,3.0,0,pink,Goethe University Frankfurt,Germany,Low score,2015
+1376,177,11,43,171,176,174,146,264,184.0,299,47.98,25.6,0.12,3.0,0,pink,University of Göttingen,Germany,Low score,2015
+1377,178,10,279,277,135,148,173,287,251.0,53,47.97,8.2,0.09,2.0,0,pink,Hokkaido University,Japan,Low score,2015
+1378,179,6,196,379,52,130,99,197,188.0,415,47.97,19.2,0.35,2.0,2,dark purple,Australian National University,Australia,Low score,2015
+1379,180,3,335,143,218,81,267,212,209.0,198,47.96,12.8,0.06,2.0,0,pink,Shanghai Jiao Tong University,China,Low score,2015
+1381,182,7,71,567,49,191,145,264,219.0,269,47.89,17.8,0.21,3.0,2,dark purple,University of Strasbourg,France,Low score,2015
+1383,184,80,367,42,218,310,257,511,349.0,156,47.83,43.7,0.09,1.0,2,dark purple,University of Houston,United States of America,Low score,2015
+1385,186,6,102,423,218,235,101,115,117.0,683,47.73,13.1,0.22,3.0,2,dark purple,University of Lausanne,Switzerland,Low score,2015
+1386,187,81,286,186,109,151,178,82,184.0,339,47.71,17.4,0.11,1.0,0,pink,Iowa State University,United States of America,Low score,2015
+1387,188,8,195,567,218,110,93,234,170.0,160,47.71,12.1,0.13,3.0,2,dark purple,Joseph Fourier University,France,Low score,2015
+1388,189,82,367,183,218,189,258,125,176.0,117,47.67,10.7,0.07,1.0,0,pink,Wayne State University,United States of America,Low score,2015
+1390,191,4,367,309,218,71,290,368,265.0,106,47.66,15.9,0.05,2.0,2,dark purple,Zhejiang University,China,Low score,2015
+1391,192,6,367,168,218,286,471,368,396.0,31,47.6,10.4,0.19,2.0,2,dark purple,Hanyang University,South Korea,Low score,2015
+1392,193,9,223,163,218,171,194,212,134.0,496,47.6,26.3,0.15,1.0,2,dark purple,University of Ottawa,Canada,Low score,2015
+1394,195,5,367,203,218,112,252,368,204.0,123,47.56,12.2,0.11,2.0,2,dark purple,Fudan University,China,Low score,2015
+1396,197,12,367,132,201,204,138,146,161.0,421,47.52,43.4,0.11,3.0,2,dark purple,University of Cologne,Germany,Low score,2015
+1397,198,86,93,188,172,181,132,234,256.0,82,47.5,19.9,0.07,1.0,0,pink,University of Georgia,United States of America,Low score,2015
+1398,199,15,176,179,207,154,172,128,174.0,377,47.49,13.6,0.3,3.0,0,pink,University of Liverpool,United Kingdom,Low score,2015
+1399,200,7,184,526,213,163,128,93,159.0,433,47.49,22.5,0.14,3.0,2,dark purple,University of Bern,Switzerland,Low score,2015
+1400,201,16,321,218,143,178,153,146,170.0,193,47.46,13.1,0.23,3.0,0,pink,Cardiff University,United Kingdom,Low score,2015
+1401,202,87,192,56,218,301,227,264,235.0,326,47.46,12.0,0.16,1.0,2,dark purple,George Washington University,United States of America,Low score,2015
+1402,203,88,367,541,218,126,196,287,179.0,129,47.39,9.2,0.17,1.0,2,dark purple,University of Illinois at Chicago,United States of America,Low score,2015
+1403,204,13,231,554,218,176,202,146,134.0,361,47.36,53.9,0.09,3.0,2,dark purple,University of Erlangen-Nuremberg,Germany,Low score,2015
+1404,205,14,113,421,174,170,192,136,174.0,192,47.34,46.1,0.08,3.0,0,pink,University of Münster,Germany,Low score,2015
+1406,207,10,367,567,218,132,121,234,184.0,151,47.31,16.1,0.11,3.0,2,dark purple,Claude Bernard University Lyon 1,France,Low score,2015
+1407,208,4,350,348,218,136,281,212,161.0,354,47.28,22.9,0.07,3.0,2,dark purple,University of Bologna,Italy,Low score,2015
+1408,209,17,147,319,218,226,175,212,138.0,255,47.25,14.0,0.4,3.0,2,dark purple,Queen Mary University of London,United Kingdom,Low score,2015
+1411,212,18,367,222,218,192,159,234,159.0,365,47.17,15.2,0.29,3.0,2,dark purple,Newcastle University,United Kingdom,Low score,2015
+1412,213,16,356,208,131,193,280,146,247.0,103,47.15,24.6,0.16,3.0,0,pink,Karlsruhe Institute of Technology,Germany,Low score,2015
+1413,214,89,247,567,218,209,113,161,169.0,194,47.13,22.0,0.12,1.0,2,dark purple,"University of California, Riverside",United States of America,Low score,2015
+1414,215,17,193,487,198,232,183,161,143.0,310,47.11,23.8,0.08,3.0,2,dark purple,University of Kiel,Germany,Low score,2015
+1415,216,7,156,306,145,146,181,368,179.0,399,47.1,20.7,0.27,2.0,2,dark purple,University of Western Australia,Australia,Low score,2015
+1417,218,90,296,259,218,168,193,197,190.0,186,47.06,13.0,0.11,1.0,2,dark purple,University of Connecticut,United States of America,Low score,2015
+1419,220,2,100,479,116,162,356,212,209.0,168,47.05,10.2,0.22,2.0,2,dark purple,Chinese University of Hong Kong,Hong Kong,Low score,2015
+1420,221,5,315,450,163,206,278,197,150.0,613,47.04,66.0,0.06,3.0,2,dark purple,University of Turin,Italy,Low score,2015
+1421,222,10,157,93,155,261,308,212,256.0,175,47.04,27.8,0.11,1.0,0,pink,University of Manitoba,Canada,Low score,2015
+1422,223,1,191,185,101,231,154,161,200.0,671,47.03,20.5,0.25,3.0,2,dark purple,University of Vienna,Austria,Low score,2015
+1424,225,8,367,567,218,185,354,234,156.0,281,47.0,18.9,0.48,3.0,2,dark purple,Maastricht University,Netherlands,Low score,2015
+1425,226,2,367,52,218,164,485,812,388.0,436,46.97,14.4,0.11,2.0,2,dark purple,National Cheng Kung University,Taiwan,Low score,2015
+1428,229,11,292,273,218,207,270,182,200.0,140,46.95,16.2,0.12,1.0,2,dark purple,Laval University,Canada,Low score,2015
+1429,230,18,357,238,131,197,359,182,219.0,158,46.9,27.6,0.16,3.0,2,dark purple,RWTH Aachen University,Germany,Low score,2015
+1436,237,6,257,294,116,217,197,136,197.0,871,46.79,16.4,0.12,3.0,2,dark purple,University of Gothenburg,Sweden,Low score,2015
+1437,238,2,241,112,218,288,285,128,247.0,278,46.79,24.5,0.23,3.0,2,dark purple,University College Dublin,Ireland,Low score,2015
+1438,239,6,367,192,218,128,269,368,247.0,452,46.73,7.9,0.02,2.0,2,dark purple,University of Science and Technology of China,China,Low score,2015
+1439,240,19,367,567,218,258,139,197,170.0,385,46.72,13.4,0.35,3.0,2,dark purple,University of Leicester,United Kingdom,Low score,2015
+1440,241,3,367,567,218,144,220,264,213.0,277,46.72,12.3,0.1,3.0,2,dark purple,Autonomous University of Barcelona,Spain,Low score,2015
+1441,242,20,178,567,218,354,200,161,176.0,216,46.68,15.3,0.25,3.0,2,dark purple,University of Dundee,United Kingdom,Low score,2015
+1442,243,2,252,119,75,279,366,212,273.0,327,46.67,13.9,0.09,3.0,2,dark purple,Norwegian University of Science and Technology,Norway,Low score,2015
+1443,244,7,342,362,218,134,358,234,265.0,164,46.61,13.3,0.1,2.0,2,dark purple,Nanjing University,China,Low score,2015
+1446,247,6,327,326,94,218,275,197,227.0,564,46.58,17.2,0.07,3.0,2,dark purple,University of Florence,Italy,Low score,2015
+1447,248,2,104,126,146,319,236,234,265.0,268,46.58,12.1,0.18,5.0,2,dark purple,University of Cape Town,South Africa,Low score,2015
+1452,253,22,151,257,57,359,250,161,308.0,553,46.49,17.4,0.35,3.0,2,dark purple,University of Sussex,United Kingdom,Low score,2015
+1454,255,9,307,300,218,224,224,264,247.0,146,46.46,19.4,0.25,3.0,2,dark purple,Delft University of Technology,Netherlands,Low score,2015
+1455,256,98,283,152,218,201,264,234,285.0,181,46.46,18.6,0.1,1.0,2,dark purple,Virginia Polytechnic Institute and State University,United States of America,Low score,2015
+1456,257,1,337,465,152,155,296,197,251.0,495,46.43,17.5,0.09,3.0,2,dark purple,University of Lisbon,Portugal,Low score,2015
+1457,258,99,367,233,218,362,338,287,273.0,91,46.43,10.8,0.18,1.0,2,dark purple,Drexel University,United States of America,Low score,2015
+1459,260,101,189,239,218,263,148,161,235.0,389,46.42,16.8,0.09,1.0,2,dark purple,Oregon State University,United States of America,Low score,2015
+1460,261,23,132,267,116,248,199,197,242.0,460,46.42,15.7,0.24,3.0,2,dark purple,Durham University,United Kingdom,Low score,2015
+1461,262,12,202,567,107,230,255,212,242.0,213,46.41,12.6,0.16,2.0,2,dark purple,University of Tsukuba,Japan,Low score,2015
+1462,263,24,258,63,218,400,347,182,361.0,666,46.4,14.8,0.28,3.0,2,dark purple,University of Reading,United Kingdom,Low score,2015
+1463,264,102,367,47,218,615,542,511,511.0,534,46.4,11.3,0.15,1.0,1,purple,Lehigh University,United States of America,Low score,2015
+1464,265,2,367,567,218,251,228,212,197.0,366,46.39,2.9,0.28,3.0,2,dark purple,Medical University of Vienna,Austria,Low score,2015
+1465,266,1,235,419,218,253,260,234,256.0,125,46.38,18.9,0.28,2.0,2,dark purple,University of Auckland,New Zealand,Low score,2015
+1468,269,12,367,124,218,190,333,234,292.0,626,46.34,24.2,0.14,1.0,2,dark purple,University of Waterloo,Canada,Low score,2015
+1469,270,1,238,560,116,228,238,182,227.0,636,46.32,13.0,0.15,3.0,2,dark purple,Charles University in Prague,Czech Republic,Low score,2015
+1471,272,105,324,144,218,365,299,264,251.0,258,46.31,8.4,0.08,1.0,2,dark purple,Tulane University,United States of America,Low score,2015
+1473,274,107,51,342,78,549,195,428,330.0,249,46.29,12.6,0.22,1.0,2,dark purple,Brandeis University,United States of America,Low score,2015
+1474,275,108,316,125,218,370,312,264,362.0,86,46.29,15.1,0.26,1.0,2,dark purple,Northeastern University,United States of America,Low score,2015
+1476,277,8,367,254,218,161,393,287,285.0,221,46.25,16.6,0.08,2.0,2,dark purple,Sun Yat-sen University,China,Low score,2015
+1479,280,5,110,567,218,294,301,161,231.0,506,46.21,17.1,0.16,3.0,2,dark purple,Vrije Universiteit Brussel,Belgium,Low score,2015
+1480,281,109,318,337,135,272,304,234,292.0,120,46.21,15.9,0.1,1.0,2,dark purple,University of Delaware,United States of America,Low score,2015
+1481,282,110,137,142,218,402,346,182,292.0,210,46.19,15.0,0.16,1.0,2,dark purple,Rensselaer Polytechnic Institute,United States of America,Low score,2015
+1482,283,3,367,567,218,229,201,212,227.0,871,46.18,11.1,0.12,3.0,2,dark purple,University of Bergen,Norway,Low score,2015
+1484,285,26,360,314,199,273,207,287,225.0,422,46.17,15.8,0.33,3.0,2,dark purple,University of Aberdeen,United Kingdom,Low score,2015
+1485,286,14,367,137,218,280,247,264,273.0,384,46.17,14.4,0.18,1.0,2,dark purple,Dalhousie University,Canada,Low score,2015
+1486,287,7,367,567,218,275,198,212,219.0,871,46.14,11.9,0.07,3.0,2,dark purple,Umeå University,Sweden,Low score,2015
+1487,288,23,367,498,218,287,282,321,216.0,348,46.13,46.6,0.11,3.0,2,dark purple,University of Duisburg-Essen,Germany,Low score,2015
+1492,293,27,210,444,116,205,239,161,308.0,234,46.05,16.6,0.37,3.0,2,dark purple,University of Warwick,United Kingdom,Low score,2015
+1493,294,4,367,470,218,208,348,264,256.0,548,46.03,15.4,0.09,3.0,2,dark purple,University of Valencia,Spain,Low score,2015
+1494,295,8,273,473,218,227,360,212,255.0,528,46.03,18.0,0.04,3.0,2,dark purple,University of Pisa,Italy,Low score,2015
+1495,296,25,367,235,218,236,235,368,265.0,797,46.0,46.3,0.13,3.0,2,dark purple,Ruhr University Bochum,Germany,Low score,2015
+1503,304,5,367,460,218,225,256,321,262.0,443,45.92,13.0,0.15,3.0,2,dark purple,Autonomous University of Madrid,Spain,Low score,2015
+1505,306,3,367,66,218,520,503,321,486.0,219,45.92,23.0,0.08,5.0,2,dark purple,Stellenbosch University,South Africa,Low score,2015
+1508,309,28,145,506,218,308,188,321,281.0,189,45.89,12.7,0.47,3.0,2,dark purple,University of St Andrews,United Kingdom,Low score,2015
+1511,312,6,367,567,218,265,307,234,265.0,372,45.84,30.3,0.16,3.0,2,dark purple,University of Antwerp,Belgium,Low score,2015
+1515,316,27,82,172,218,399,369,511,335.0,376,45.79,45.4,0.2,3.0,2,dark purple,University of Stuttgart,Germany,Low score,2015
+1518,319,3,367,359,218,256,466,368,300.0,185,45.77,23.8,0.36,2.0,2,dark purple,Hong Kong University of Science and Technology,Hong Kong,Low score,2015
+1520,321,7,143,567,144,317,218,234,300.0,285,45.73,25.9,0.23,3.0,2,dark purple,University of Liège,Belgium,Low score,2015
+1525,326,120,367,97,218,557,363,197,402.0,386,45.65,17.4,0.19,1.0,2,dark purple,Boston College,United States of America,Low score,2015
+1526,327,10,295,380,214,330,381,264,273.0,680,45.64,40.6,0.06,3.0,2,dark purple,University of Pavia,Italy,Low score,2015
+1532,333,30,264,481,218,293,174,428,295.0,353,45.59,18.8,0.28,3.0,2,dark purple,University of Exeter,United Kingdom,Low score,2015
+1534,335,8,219,445,218,234,243,287,318.0,465,45.58,30.1,0.26,2.0,2,dark purple,University of Adelaide,Australia,Low score,2015
+1535,336,31,206,567,179,349,211,146,313.0,500,45.58,14.7,0.28,3.0,2,dark purple,University of East Anglia,United Kingdom,Low score,2015
+1536,337,15,367,106,218,382,408,264,388.0,871,45.56,39.4,0.09,1.0,2,dark purple,York University,Canada,Low score,2015
+1537,338,6,367,76,218,578,722,511,503.0,645,45.56,10.6,0.16,3.0,1,purple,University of Navarra,Spain,Low score,2015
+1541,342,13,367,443,218,395,286,287,281.0,616,45.54,25.8,0.09,3.0,2,dark purple,University of Trieste,Italy,Low score,2015
+1546,347,3,197,397,112,430,222,287,311.0,442,45.51,16.9,0.39,3.0,2,dark purple,University of Innsbruck,Austria,Low score,2015
+1547,348,11,367,347,186,306,549,321,318.0,279,45.51,16.0,0.14,3.0,2,dark purple,Eindhoven University of Technology,Netherlands,Low score,2015
+1551,352,16,367,567,218,321,328,234,300.0,853,45.48,21.5,0.11,1.0,2,dark purple,University of Victoria,Canada,Low score,2015
+1552,353,125,130,229,218,373,320,212,358.0,294,45.47,15.1,0.1,1.0,2,dark purple,Kansas State University,United States of America,Low score,2015
+1553,354,4,367,166,218,259,764,511,375.0,329,45.47,25.9,0.26,2.0,2,dark purple,Hong Kong Polytechnic University,Hong Kong,Low score,2015
+1554,355,8,367,237,218,323,401,368,324.0,871,45.47,7.7,0.1,3.0,2,dark purple,Linköping University,Sweden,Low score,2015
+1555,356,4,367,567,218,386,327,321,295.0,320,45.46,12.7,0.16,3.0,2,dark purple,University of Southern Denmark,Denmark,Low score,2015
+1556,357,2,367,377,218,312,353,287,313.0,542,45.44,20.3,0.21,2.0,2,dark purple,University of Otago,New Zealand,Low score,2015
+1560,361,128,248,204,218,467,302,264,339.0,509,45.41,31.7,0.05,1.0,2,dark purple,San Diego State University,United States of America,Low score,2015
+1561,362,17,367,567,218,284,303,368,324.0,381,45.4,28.3,0.19,1.0,2,dark purple,Simon Fraser University,Canada,Low score,2015
+1564,365,130,367,81,218,668,601,321,565.0,690,45.39,18.2,0.12,1.0,1,purple,Colorado School of Mines,United States of America,Low score,2015
+1565,366,2,367,567,218,374,388,321,300.0,861,45.37,17.3,0.06,3.0,2,dark purple,University of Eastern Finland,Finland,Low score,2015
+1568,369,15,367,567,218,416,392,287,300.0,656,45.36,30.2,0.07,3.0,2,dark purple,University of Ferrara,Italy,Low score,2015
+1572,373,5,367,567,218,252,874,511,339.0,387,45.33,7.1,0.28,2.0,1,purple,City University of Hong Kong,Hong Kong,Low score,2015
+1574,375,9,367,567,218,397,164,428,318.0,604,45.31,18.3,0.13,3.0,2,dark purple,Pompeu Fabra University,Spain,Low score,2015
+1576,377,16,367,567,218,352,322,511,313.0,527,45.31,65.1,0.02,3.0,2,dark purple,University of Bari Aldo Moro,Italy,Low score,2015
+1582,383,3,367,531,218,320,319,812,330.0,568,45.27,14.6,0.05,3.0,2,dark purple,University of Turku,Finland,Low score,2015
+1585,386,3,367,206,218,240,651,428,413.0,871,45.24,16.6,0.05,2.0,1,purple,National Chiao Tung University,Taiwan,Low score,2015
+1589,390,11,367,567,218,462,509,645,457.0,107,45.2,14.4,0.06,2.0,1,purple,Ewha Womans University,South Korea,Low score,2015
+1592,393,19,263,567,61,548,526,321,503.0,871,45.2,16.5,0.05,3.0,1,purple,Scuola Normale Superiore di Pisa,Italy,Low score,2015
+1596,397,20,103,181,191,358,510,428,503.0,292,45.17,22.2,0.12,3.0,2,dark purple,Polytechnic University of Milan,Italy,Low score,2015
+1598,399,136,367,567,218,463,399,368,344.0,253,45.16,2.6,0.08,1.0,2,dark purple,University of Nebraska Medical Center,United States of America,Low score,2015
+1601,402,9,361,311,218,367,426,428,349.0,871,45.16,11.6,0.15,3.0,1,purple,Chalmers University of Technology,Sweden,Low score,2015
+1604,405,34,367,368,218,388,378,287,353.0,478,45.14,18.8,0.3,3.0,2,dark purple,University of Bath,United Kingdom,Low score,2015
+1606,407,4,262,520,218,238,425,428,375.0,731,45.14,13.5,0.05,2.0,2,dark purple,National Tsing Hua University,Taiwan,Low score,2015
+1607,408,12,367,511,218,343,511,368,358.0,288,45.14,12.0,0.26,3.0,2,dark purple,University of Twente,Netherlands,Low score,2015
+1613,414,140,367,567,98,450,371,264,388.0,526,45.13,17.0,0.07,1.0,2,dark purple,George Mason University,United States of America,Low score,2015
+1614,415,19,367,258,218,274,612,645,396.0,576,45.13,14.4,0.07,2.0,1,purple,Wuhan University,China,Low score,2015
+1620,421,4,367,224,218,336,403,645,424.0,246,45.1,24.2,0.17,3.0,2,dark purple,Aalto University,Finland,Low score,2015
+1625,426,35,367,360,218,364,398,234,369.0,673,45.08,14.9,0.33,3.0,2,dark purple,Lancaster University,United Kingdom,Low score,2015
+1626,427,5,363,350,218,377,377,321,424.0,171,45.08,52.0,0.27,3.0,2,dark purple,Vienna University of Technology,Austria,Low score,2015
+1635,436,3,367,430,218,426,431,368,402.0,195,45.03,22.3,0.15,3.0,2,dark purple,University College Cork,Ireland,Low score,2015
+1641,442,5,367,297,218,526,439,511,362.0,679,45.02,9.5,0.04,3.0,1,purple,University of Tampere,Finland,Low score,2015
+1647,448,3,367,332,218,315,537,511,447.0,239,44.96,8.2,0.01,2.0,2,dark purple,Indian Institute of Science,India,Low score,2015
+1648,449,9,367,304,218,391,292,321,402.0,530,44.96,20.0,0.44,2.0,2,dark purple,Macquarie University,Australia,Low score,2015
+1660,461,1,367,567,218,612,295,321,369.0,839,44.91,25.9,0.08,3.0,1,purple,University of Iceland,Iceland,Low score,2015
+1661,462,2,118,562,150,409,462,428,437.0,716,44.91,14.1,0.07,3.0,1,purple,University of Warsaw,Poland,Low score,2015
+1662,463,150,138,221,218,453,494,428,495.0,392,44.91,15.9,0.15,1.0,1,purple,Syracuse University,United States of America,Low score,2015
+1663,464,36,367,567,218,480,375,511,369.0,774,44.91,67.8,0.08,3.0,1,purple,Bielefeld University,Germany,Low score,2015
+1666,467,10,367,269,218,431,433,428,424.0,493,44.88,25.4,0.24,2.0,2,dark purple,University of Wollongong,Australia,Low score,2015
+1669,470,1,367,120,218,550,879,511,659.0,871,44.87,22.2,0.07,2.0,1,purple,Middle East Technical University,Turkey,Low score,2015
+1689,490,38,367,567,218,475,337,368,402.0,614,44.81,59.1,0.12,3.0,1,purple,University of Konstanz,Germany,Low score,2015
+1690,491,4,333,167,218,720,786,368,540.0,824,44.8,23.9,0.01,2.0,1,purple,Panjab University,India,Low score,2015
+1693,494,11,367,567,218,408,496,812,424.0,322,44.79,21.9,0.18,2.0,1,purple,University of Newcastle,Australia,Low score,2015
+1695,496,27,367,100,218,965,936,812,896.0,715,44.79,12.7,0.06,2.0,1,purple,Renmin University of China,China,Low score,2015
+1700,501,25,367,415,218,593,460,321,413.0,574,44.78,9.9,0.04,2.0,1,purple,Tokyo Metropolitan University,Japan,Low score,2015
+1707,508,159,367,567,218,824,724,368,402.0,615,44.75,8.3,0.02,1.0,1,purple,Creighton University,United States of America,Low score,2015
+1714,515,3,367,567,218,491,518,511,420.0,871,44.72,26.9,0.05,3.0,1,purple,University of Crete,Greece,Low score,2015
+1732,533,3,190,195,218,569,437,428,606.0,871,44.68,16.5,0.2,2.0,1,purple,University of Canterbury,New Zealand,Low score,2015
+1734,535,43,367,567,218,466,289,321,471.0,515,44.68,25.6,0.11,3.0,2,dark purple,University of Bremen,Germany,Low score,2015
+1739,540,40,367,567,218,564,306,428,447.0,556,44.67,15.9,0.37,3.0,1,purple,"Royal Holloway, University of London",United Kingdom,Low score,2015
+1757,558,4,367,567,218,588,546,645,503.0,293,44.61,26.8,0.14,3.0,1,purple,"National University of Ireland, Galway",Ireland,Low score,2015
+1760,561,29,367,567,218,488,556,368,486.0,861,44.61,43.2,0.08,3.0,1,purple,University of Trento,Italy,Low score,2015
+1764,565,5,367,439,218,596,660,287,520.0,401,44.59,15.9,0.15,3.0,1,purple,Aalborg University,Denmark,Low score,2015
+1767,568,42,260,370,218,622,568,511,529.0,342,44.59,19.5,0.22,3.0,1,purple,Bangor University,United Kingdom,Low score,2015
+1772,573,8,232,252,218,734,428,428,579.0,787,44.58,46.9,0.19,3.0,1,purple,University of Fribourg,Switzerland,Low score,2015
+1778,579,14,367,424,218,502,647,321,529.0,636,44.56,30.4,0.17,2.0,1,purple,Deakin University,Australia,Low score,2015
+1783,584,7,349,453,204,571,547,812,511.0,600,44.54,26.8,0.12,3.0,1,purple,University of Graz,Austria,Low score,2015
+1786,587,43,367,544,218,532,429,511,511.0,651,44.54,25.9,0.13,3.0,1,purple,Plymouth University,United Kingdom,Low score,2015
+1787,588,4,317,223,218,606,469,645,646.0,809,44.54,21.1,0.21,2.0,1,purple,Victoria University of Wellington,New Zealand,Low score,2015
+1792,593,23,367,538,218,479,739,264,549.0,871,44.53,29.8,0.18,1.0,1,purple,Carleton University,Canada,Low score,2015
+1794,595,15,367,559,218,425,384,511,549.0,518,44.52,17.1,0.38,2.0,1,purple,Curtin University,Australia,Low score,2015
+1795,596,6,367,507,218,521,815,645,699.0,176,44.52,14.9,0.01,2.0,1,purple,Indian Institute of Technology Bombay,India,Low score,2015
+1796,597,45,367,567,218,768,719,234,540.0,765,44.52,19.1,0.23,3.0,1,purple,University of Portsmouth,United Kingdom,Low score,2015
+1803,604,46,367,567,218,792,396,511,511.0,839,44.51,19.4,0.27,3.0,1,purple,University of Hertfordshire,United Kingdom,Low score,2015
+1820,621,18,367,567,218,477,750,511,558.0,492,44.48,35.8,0.17,2.0,1,purple,Queensland University of Technology,Australia,Low score,2015
+1828,629,6,367,567,218,588,652,287,606.0,363,44.46,18.8,0.09,3.0,1,purple,University of Minho,Portugal,Low score,2015
+1831,632,48,119,358,218,694,695,511,671.0,871,44.45,19.8,0.39,3.0,1,purple,University of Essex,United Kingdom,Low score,2015
+1837,638,9,367,395,218,839,931,428,565.0,871,44.44,18.7,0.01,2.0,1,purple,Indian Institute of Technology Roorkee,India,Low score,2015
+1848,649,6,367,516,218,592,937,511,565.0,691,44.43,11.0,0.25,2.0,1,purple,Hong Kong Baptist University,Hong Kong,Low score,2015
+1870,671,8,367,525,218,456,443,812,622.0,805,44.4,15.2,0.05,3.0,1,purple,University of Jyväskylä,Finland,Low score,2015
+1876,677,38,367,499,218,738,931,428,590.0,763,44.39,14.9,0.02,2.0,1,purple,Wuhan University of Technology,China,Low score,2015
+1887,688,20,367,567,218,654,456,511,606.0,772,44.38,36.5,0.33,2.0,1,purple,Swinburne University of Technology,Australia,Low score,2015
+1888,689,13,367,289,218,566,878,428,732.0,871,44.37,22.4,0.1,3.0,1,purple,Tilburg University,Netherlands,Low score,2015
+1896,697,1,116,567,218,563,950,511,732.0,871,44.37,18.7,0.0,2.0,1,purple,Sharif University of Technology,Iran,Low score,2015
+1897,698,54,300,567,218,724,339,428,622.0,871,44.37,17.2,0.38,3.0,1,purple,"Birkbeck, University of London",United Kingdom,Low score,2015
+1910,711,5,367,567,218,888,714,368,646.0,446,44.35,15.6,0.63,3.0,1,purple,Royal College of Surgeons in Ireland,Ireland,Low score,2015
+1941,742,5,367,440,218,646,875,368,699.0,839,44.31,16.0,0.05,2.0,1,purple,Istanbul Technical University,Turkey,Low score,2015
+1950,751,21,367,324,218,604,746,812,781.0,431,44.3,26.2,0.32,2.0,1,purple,University of South Australia,Australia,Low score,2015
+1964,765,43,367,567,218,661,743,511,699.0,654,44.28,58.4,0.01,3.0,1,purple,University of Salento,Italy,Low score,2015
+1983,784,58,367,357,218,772,707,812,754.0,871,44.26,15.9,0.22,3.0,1,purple,University of Stirling,United Kingdom,Low score,2015
+2013,814,59,367,567,218,842,552,511,754.0,607,44.22,19.2,0.18,3.0,1,purple,Aberystwyth University,United Kingdom,Low score,2015
+2022,823,214,367,567,218,973,793,368,770.0,871,44.21,13.7,0.26,1.0,1,purple,Florida Institute of Technology,United States of America,Low score,2015
+2028,829,24,367,527,218,827,501,645,770.0,770,44.2,32.8,0.43,2.0,1,purple,Murdoch University,Australia,Low score,2015
+2036,837,7,367,519,218,843,766,511,781.0,824,44.19,25.0,0.07,2.0,1,purple,Boğaziçi University,Turkey,Low score,2015
+2059,860,30,367,567,218,989,907,645,921.0,259,44.17,19.0,0.03,2.0,1,purple,University of Seoul,South Korea,Low score,2015
+2113,914,5,367,567,218,682,923,645,880.0,871,44.12,26.5,0.01,2.0,1,purple,Isfahan University of Technology,Iran,Low score,2015
+2136,937,6,367,474,218,945,870,511,906.0,703,44.09,17.0,0.25,2.0,1,purple,University of Waikato,New Zealand,Low score,2015
+2141,942,27,367,567,218,931,742,645,896.0,871,44.09,25.4,0.15,2.0,1,purple,Charles Darwin University,Australia,Low score,2015
+2159,960,4,367,567,218,955,923,368,946.0,645,44.07,34.0,0.02,4.0,1,purple,Federico Santa María Technical University,Chile,Low score,2015
+2184,985,5,167,567,218,819,858,645,991.0,871,44.04,7.1,0.13,3.0,1,purple,Novosibirsk State University,Russia,Low score,2015
